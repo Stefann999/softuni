@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\SoftUni\\Fundamentals\\Exercise-Arrays\\3. Zig-Zag Arrays\\3. Zig-Zag Arrays.csproj",
+      "projectUniqueName": "E:\\SoftUni\\Fundamentals\\GitHub\\softuni\\Exercise-Arrays\\3. Zig-Zag Arrays\\3. Zig-Zag Arrays.csproj",
       "projectName": "3. Zig-Zag Arrays",
-      "projectPath": "E:\\SoftUni\\Fundamentals\\Exercise-Arrays\\3. Zig-Zag Arrays\\3. Zig-Zag Arrays.csproj",
+      "projectPath": "E:\\SoftUni\\Fundamentals\\GitHub\\softuni\\Exercise-Arrays\\3. Zig-Zag Arrays\\3. Zig-Zag Arrays.csproj",
       "packagesPath": "C:\\Users\\stefc\\.nuget\\packages\\",
-      "outputPath": "E:\\SoftUni\\Fundamentals\\Exercise-Arrays\\3. Zig-Zag Arrays\\obj\\",
+      "outputPath": "E:\\SoftUni\\Fundamentals\\GitHub\\softuni\\Exercise-Arrays\\3. Zig-Zag Arrays\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
