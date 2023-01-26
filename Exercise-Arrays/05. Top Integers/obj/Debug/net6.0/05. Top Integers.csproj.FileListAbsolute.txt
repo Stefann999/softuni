@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\05. Top Integers\bin\Debug\net6.0\05. Top Integers.exe
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\05. Top Integers\bin\Debug\net6.0\05. Top Integers.deps.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\05. Top Integers\bin\Debug\net6.0\05. Top Integers.runtimeconfig.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\05. Top Integers\bin\Debug\net6.0\05. Top Integers.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\05. Top Integers\bin\Debug\net6.0\05. Top Integers.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\05. Top Integers\obj\Debug\net6.0\05. Top Integers.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\05. Top Integers\obj\Debug\net6.0\05. Top Integers.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\05. Top Integers\obj\Debug\net6.0\05. Top Integers.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\05. Top Integers\obj\Debug\net6.0\05. Top Integers.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\05. Top Integers\obj\Debug\net6.0\05. Top Integers.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\05. Top Integers\obj\Debug\net6.0\05. Top Integers.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\05. Top Integers\obj\Debug\net6.0\refint\05. Top Integers.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\05. Top Integers\obj\Debug\net6.0\05. Top Integers.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\05. Top Integers\obj\Debug\net6.0\05. Top Integers.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\05. Top Integers\obj\Debug\net6.0\ref\05. Top Integers.dll
