@@ -1,4 +1,5 @@
 ﻿int[] arr = Console.ReadLine().Split().Select(int.Parse).ToArray();
+
 for (int i = 0; i < arr.Length - 1; i++)
 {
     bool isTop = true;

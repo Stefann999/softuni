@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\08. Magic Sum\bin\Debug\net6.0\08. Magic Sum.exe
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\08. Magic Sum\bin\Debug\net6.0\08. Magic Sum.deps.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\08. Magic Sum\bin\Debug\net6.0\08. Magic Sum.runtimeconfig.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\08. Magic Sum\bin\Debug\net6.0\08. Magic Sum.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\08. Magic Sum\bin\Debug\net6.0\08. Magic Sum.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\08. Magic Sum\obj\Debug\net6.0\08. Magic Sum.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\08. Magic Sum\obj\Debug\net6.0\08. Magic Sum.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\08. Magic Sum\obj\Debug\net6.0\08. Magic Sum.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\08. Magic Sum\obj\Debug\net6.0\08. Magic Sum.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\08. Magic Sum\obj\Debug\net6.0\08. Magic Sum.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\08. Magic Sum\obj\Debug\net6.0\08. Magic Sum.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\08. Magic Sum\obj\Debug\net6.0\refint\08. Magic Sum.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\08. Magic Sum\obj\Debug\net6.0\08. Magic Sum.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\08. Magic Sum\obj\Debug\net6.0\08. Magic Sum.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\08. Magic Sum\obj\Debug\net6.0\ref\08. Magic Sum.dll

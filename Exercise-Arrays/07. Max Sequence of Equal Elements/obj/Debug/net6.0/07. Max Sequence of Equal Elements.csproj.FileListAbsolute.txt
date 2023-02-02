@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\07. Max Sequence of Equal Elements\obj\Debug\net6.0\07. Max Sequence of Equal Elements.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\07. Max Sequence of Equal Elements\obj\Debug\net6.0\07. Max Sequence of Equal Elements.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\07. Max Sequence of Equal Elements\obj\Debug\net6.0\07. Max Sequence of Equal Elements.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\07. Max Sequence of Equal Elements\obj\Debug\net6.0\07. Max Sequence of Equal Elements.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\07. Max Sequence of Equal Elements\obj\Debug\net6.0\07. Max Sequence of Equal Elements.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\07. Max Sequence of Equal Elements\bin\Debug\net6.0\07. Max Sequence of Equal Elements.exe
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\07. Max Sequence of Equal Elements\bin\Debug\net6.0\07. Max Sequence of Equal Elements.deps.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\07. Max Sequence of Equal Elements\bin\Debug\net6.0\07. Max Sequence of Equal Elements.runtimeconfig.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\07. Max Sequence of Equal Elements\bin\Debug\net6.0\07. Max Sequence of Equal Elements.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\07. Max Sequence of Equal Elements\bin\Debug\net6.0\07. Max Sequence of Equal Elements.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\07. Max Sequence of Equal Elements\obj\Debug\net6.0\07. Max Sequence of Equal Elements.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\07. Max Sequence of Equal Elements\obj\Debug\net6.0\refint\07. Max Sequence of Equal Elements.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\07. Max Sequence of Equal Elements\obj\Debug\net6.0\07. Max Sequence of Equal Elements.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\07. Max Sequence of Equal Elements\obj\Debug\net6.0\07. Max Sequence of Equal Elements.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Arrays\07. Max Sequence of Equal Elements\obj\Debug\net6.0\ref\07. Max Sequence of Equal Elements.dll
