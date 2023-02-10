@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\Exercise-Mehods\1. Smallest of Three Number\bin\Debug\net6.0\1. Smallest of Three Number.exe
+E:\SoftUni\Fundamentals\Exercise-Mehods\1. Smallest of Three Number\bin\Debug\net6.0\1. Smallest of Three Number.deps.json
+E:\SoftUni\Fundamentals\Exercise-Mehods\1. Smallest of Three Number\bin\Debug\net6.0\1. Smallest of Three Number.runtimeconfig.json
+E:\SoftUni\Fundamentals\Exercise-Mehods\1. Smallest of Three Number\bin\Debug\net6.0\1. Smallest of Three Number.dll
+E:\SoftUni\Fundamentals\Exercise-Mehods\1. Smallest of Three Number\bin\Debug\net6.0\1. Smallest of Three Number.pdb
+E:\SoftUni\Fundamentals\Exercise-Mehods\1. Smallest of Three Number\obj\Debug\net6.0\1. Smallest of Three Number.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\Exercise-Mehods\1. Smallest of Three Number\obj\Debug\net6.0\1. Smallest of Three Number.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\Exercise-Mehods\1. Smallest of Three Number\obj\Debug\net6.0\1. Smallest of Three Number.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\Exercise-Mehods\1. Smallest of Three Number\obj\Debug\net6.0\1. Smallest of Three Number.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\Exercise-Mehods\1. Smallest of Three Number\obj\Debug\net6.0\1. Smallest of Three Number.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\Exercise-Mehods\1. Smallest of Three Number\obj\Debug\net6.0\1. Smallest of Three Number.dll
+E:\SoftUni\Fundamentals\Exercise-Mehods\1. Smallest of Three Number\obj\Debug\net6.0\refint\1. Smallest of Three Number.dll
+E:\SoftUni\Fundamentals\Exercise-Mehods\1. Smallest of Three Number\obj\Debug\net6.0\1. Smallest of Three Number.pdb
+E:\SoftUni\Fundamentals\Exercise-Mehods\1. Smallest of Three Number\obj\Debug\net6.0\1. Smallest of Three Number.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\Exercise-Mehods\1. Smallest of Three Number\obj\Debug\net6.0\ref\1. Smallest of Three Number.dll

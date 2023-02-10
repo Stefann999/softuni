@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\Exercise-Mehods\2. Vowels Count\bin\Debug\net6.0\2. Vowels Count.exe
+E:\SoftUni\Fundamentals\Exercise-Mehods\2. Vowels Count\bin\Debug\net6.0\2. Vowels Count.deps.json
+E:\SoftUni\Fundamentals\Exercise-Mehods\2. Vowels Count\bin\Debug\net6.0\2. Vowels Count.runtimeconfig.json
+E:\SoftUni\Fundamentals\Exercise-Mehods\2. Vowels Count\bin\Debug\net6.0\2. Vowels Count.dll
+E:\SoftUni\Fundamentals\Exercise-Mehods\2. Vowels Count\bin\Debug\net6.0\2. Vowels Count.pdb
+E:\SoftUni\Fundamentals\Exercise-Mehods\2. Vowels Count\obj\Debug\net6.0\2. Vowels Count.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\Exercise-Mehods\2. Vowels Count\obj\Debug\net6.0\2. Vowels Count.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\Exercise-Mehods\2. Vowels Count\obj\Debug\net6.0\2. Vowels Count.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\Exercise-Mehods\2. Vowels Count\obj\Debug\net6.0\2. Vowels Count.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\Exercise-Mehods\2. Vowels Count\obj\Debug\net6.0\2. Vowels Count.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\Exercise-Mehods\2. Vowels Count\obj\Debug\net6.0\2. Vowels Count.dll
+E:\SoftUni\Fundamentals\Exercise-Mehods\2. Vowels Count\obj\Debug\net6.0\refint\2. Vowels Count.dll
+E:\SoftUni\Fundamentals\Exercise-Mehods\2. Vowels Count\obj\Debug\net6.0\2. Vowels Count.pdb
+E:\SoftUni\Fundamentals\Exercise-Mehods\2. Vowels Count\obj\Debug\net6.0\2. Vowels Count.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\Exercise-Mehods\2. Vowels Count\obj\Debug\net6.0\ref\2. Vowels Count.dll
