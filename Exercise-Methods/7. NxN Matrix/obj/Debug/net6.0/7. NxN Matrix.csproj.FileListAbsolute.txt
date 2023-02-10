@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\7. NxN Matrix\obj\Debug\net6.0\7. NxN Matrix.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\7. NxN Matrix\obj\Debug\net6.0\7. NxN Matrix.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\7. NxN Matrix\obj\Debug\net6.0\7. NxN Matrix.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\7. NxN Matrix\obj\Debug\net6.0\7. NxN Matrix.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\7. NxN Matrix\obj\Debug\net6.0\7. NxN Matrix.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\7. NxN Matrix\bin\Debug\net6.0\7. NxN Matrix.exe
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\7. NxN Matrix\bin\Debug\net6.0\7. NxN Matrix.deps.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\7. NxN Matrix\bin\Debug\net6.0\7. NxN Matrix.runtimeconfig.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\7. NxN Matrix\bin\Debug\net6.0\7. NxN Matrix.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\7. NxN Matrix\bin\Debug\net6.0\7. NxN Matrix.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\7. NxN Matrix\obj\Debug\net6.0\7. NxN Matrix.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\7. NxN Matrix\obj\Debug\net6.0\refint\7. NxN Matrix.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\7. NxN Matrix\obj\Debug\net6.0\7. NxN Matrix.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\7. NxN Matrix\obj\Debug\net6.0\7. NxN Matrix.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\7. NxN Matrix\obj\Debug\net6.0\ref\7. NxN Matrix.dll

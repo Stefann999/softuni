@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\6. Middle Characters\bin\Debug\net6.0\6. Middle Characters.exe
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\6. Middle Characters\bin\Debug\net6.0\6. Middle Characters.deps.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\6. Middle Characters\bin\Debug\net6.0\6. Middle Characters.runtimeconfig.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\6. Middle Characters\bin\Debug\net6.0\6. Middle Characters.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\6. Middle Characters\bin\Debug\net6.0\6. Middle Characters.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\6. Middle Characters\obj\Debug\net6.0\6. Middle Characters.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\6. Middle Characters\obj\Debug\net6.0\6. Middle Characters.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\6. Middle Characters\obj\Debug\net6.0\6. Middle Characters.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\6. Middle Characters\obj\Debug\net6.0\6. Middle Characters.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\6. Middle Characters\obj\Debug\net6.0\6. Middle Characters.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\6. Middle Characters\obj\Debug\net6.0\6. Middle Characters.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\6. Middle Characters\obj\Debug\net6.0\refint\6. Middle Characters.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\6. Middle Characters\obj\Debug\net6.0\6. Middle Characters.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\6. Middle Characters\obj\Debug\net6.0\6. Middle Characters.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\6. Middle Characters\obj\Debug\net6.0\ref\6. Middle Characters.dll

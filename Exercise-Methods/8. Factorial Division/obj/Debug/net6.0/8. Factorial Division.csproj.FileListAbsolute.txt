@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\8. Factorial Division\bin\Debug\net6.0\8. Factorial Division.exe
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\8. Factorial Division\bin\Debug\net6.0\8. Factorial Division.deps.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\8. Factorial Division\bin\Debug\net6.0\8. Factorial Division.runtimeconfig.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\8. Factorial Division\bin\Debug\net6.0\8. Factorial Division.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\8. Factorial Division\bin\Debug\net6.0\8. Factorial Division.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\8. Factorial Division\obj\Debug\net6.0\8. Factorial Division.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\8. Factorial Division\obj\Debug\net6.0\8. Factorial Division.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\8. Factorial Division\obj\Debug\net6.0\8. Factorial Division.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\8. Factorial Division\obj\Debug\net6.0\8. Factorial Division.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\8. Factorial Division\obj\Debug\net6.0\8. Factorial Division.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\8. Factorial Division\obj\Debug\net6.0\8. Factorial Division.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\8. Factorial Division\obj\Debug\net6.0\refint\8. Factorial Division.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\8. Factorial Division\obj\Debug\net6.0\8. Factorial Division.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\8. Factorial Division\obj\Debug\net6.0\8. Factorial Division.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\8. Factorial Division\obj\Debug\net6.0\ref\8. Factorial Division.dll
