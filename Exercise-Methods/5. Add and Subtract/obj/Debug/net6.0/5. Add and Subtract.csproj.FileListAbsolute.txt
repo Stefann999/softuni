@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\5. Add and Subtract\obj\Debug\net6.0\5. Add and Subtract.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\5. Add and Subtract\obj\Debug\net6.0\5. Add and Subtract.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\5. Add and Subtract\obj\Debug\net6.0\5. Add and Subtract.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\5. Add and Subtract\obj\Debug\net6.0\5. Add and Subtract.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\5. Add and Subtract\obj\Debug\net6.0\5. Add and Subtract.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\5. Add and Subtract\bin\Debug\net6.0\5. Add and Subtract.exe
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\5. Add and Subtract\bin\Debug\net6.0\5. Add and Subtract.deps.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\5. Add and Subtract\bin\Debug\net6.0\5. Add and Subtract.runtimeconfig.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\5. Add and Subtract\bin\Debug\net6.0\5. Add and Subtract.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\5. Add and Subtract\bin\Debug\net6.0\5. Add and Subtract.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\5. Add and Subtract\obj\Debug\net6.0\5. Add and Subtract.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\5. Add and Subtract\obj\Debug\net6.0\refint\5. Add and Subtract.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\5. Add and Subtract\obj\Debug\net6.0\5. Add and Subtract.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\5. Add and Subtract\obj\Debug\net6.0\5. Add and Subtract.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Methods\5. Add and Subtract\obj\Debug\net6.0\ref\5. Add and Subtract.dll

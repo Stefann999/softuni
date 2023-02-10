@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\SoftUni\\Fundamentals\\Exercise-Mehods\\3. Characters in Range\\3. Characters in Range.csproj",
+      "projectUniqueName": "E:\\SoftUni\\Fundamentals\\GitHub\\softuni\\Exercise-Methods\\3. Characters in Range\\3. Characters in Range.csproj",
       "projectName": "3. Characters in Range",
-      "projectPath": "E:\\SoftUni\\Fundamentals\\Exercise-Mehods\\3. Characters in Range\\3. Characters in Range.csproj",
+      "projectPath": "E:\\SoftUni\\Fundamentals\\GitHub\\softuni\\Exercise-Methods\\3. Characters in Range\\3. Characters in Range.csproj",
       "packagesPath": "C:\\Users\\stefc\\.nuget\\packages\\",
-      "outputPath": "E:\\SoftUni\\Fundamentals\\Exercise-Mehods\\3. Characters in Range\\obj\\",
+      "outputPath": "E:\\SoftUni\\Fundamentals\\GitHub\\softuni\\Exercise-Methods\\3. Characters in Range\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -7,14 +7,16 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Smallest of Three Number
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Vowels Count", "2. Vowels Count\2. Vowels Count.csproj", "{F898F66C-0F16-42F7-B527-A5F2A4F40100}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Characters in Range", "3. Characters in Range\3. Characters in Range.csproj", "{71EC5C8C-8D67-44F5-B85C-65AF6C847AAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Characters in Range", "3. Characters in Range\3. Characters in Range.csproj", "{71EC5C8C-8D67-44F5-B85C-65AF6C847AAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Password Validator", "4. Password Validator\4. Password Validator.csproj", "{95A41911-93E1-416D-8E5A-49A6FF521827}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Password Validator", "4. Password Validator\4. Password Validator.csproj", "{95A41911-93E1-416D-8E5A-49A6FF521827}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F7A2BA6D-51D7-4E8A-B00E-31115321ECDB}"
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Add and Subtract", "5. Add and Subtract\5. Add and Subtract.csproj", "{3D0A4F1B-EDAE-4356-80A1-C77836023B9A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -38,6 +40,10 @@ Global
 		{95A41911-93E1-416D-8E5A-49A6FF521827}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95A41911-93E1-416D-8E5A-49A6FF521827}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95A41911-93E1-416D-8E5A-49A6FF521827}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D0A4F1B-EDAE-4356-80A1-C77836023B9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D0A4F1B-EDAE-4356-80A1-C77836023B9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D0A4F1B-EDAE-4356-80A1-C77836023B9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D0A4F1B-EDAE-4356-80A1-C77836023B9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
