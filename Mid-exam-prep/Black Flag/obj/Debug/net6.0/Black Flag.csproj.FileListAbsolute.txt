@@ -1,0 +1,30 @@
+E:\SoftUni\Fundamentals\Black Flag\Black Flag\bin\Debug\net6.0\Black Flag.exe
+E:\SoftUni\Fundamentals\Black Flag\Black Flag\bin\Debug\net6.0\Black Flag.deps.json
+E:\SoftUni\Fundamentals\Black Flag\Black Flag\bin\Debug\net6.0\Black Flag.runtimeconfig.json
+E:\SoftUni\Fundamentals\Black Flag\Black Flag\bin\Debug\net6.0\Black Flag.dll
+E:\SoftUni\Fundamentals\Black Flag\Black Flag\bin\Debug\net6.0\Black Flag.pdb
+E:\SoftUni\Fundamentals\Black Flag\Black Flag\obj\Debug\net6.0\Black Flag.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\Black Flag\Black Flag\obj\Debug\net6.0\Black Flag.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\Black Flag\Black Flag\obj\Debug\net6.0\Black Flag.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\Black Flag\Black Flag\obj\Debug\net6.0\Black Flag.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\Black Flag\Black Flag\obj\Debug\net6.0\Black Flag.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\Black Flag\Black Flag\obj\Debug\net6.0\Black Flag.dll
+E:\SoftUni\Fundamentals\Black Flag\Black Flag\obj\Debug\net6.0\refint\Black Flag.dll
+E:\SoftUni\Fundamentals\Black Flag\Black Flag\obj\Debug\net6.0\Black Flag.pdb
+E:\SoftUni\Fundamentals\Black Flag\Black Flag\obj\Debug\net6.0\Black Flag.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\Black Flag\Black Flag\obj\Debug\net6.0\ref\Black Flag.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Black Flag\bin\Debug\net6.0\Black Flag.exe
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Black Flag\bin\Debug\net6.0\Black Flag.deps.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Black Flag\bin\Debug\net6.0\Black Flag.runtimeconfig.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Black Flag\bin\Debug\net6.0\Black Flag.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Black Flag\bin\Debug\net6.0\Black Flag.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Black Flag\obj\Debug\net6.0\Black Flag.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Black Flag\obj\Debug\net6.0\Black Flag.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Black Flag\obj\Debug\net6.0\Black Flag.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Black Flag\obj\Debug\net6.0\Black Flag.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Black Flag\obj\Debug\net6.0\Black Flag.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Black Flag\obj\Debug\net6.0\Black Flag.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Black Flag\obj\Debug\net6.0\refint\Black Flag.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Black Flag\obj\Debug\net6.0\Black Flag.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Black Flag\obj\Debug\net6.0\Black Flag.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Black Flag\obj\Debug\net6.0\ref\Black Flag.dll

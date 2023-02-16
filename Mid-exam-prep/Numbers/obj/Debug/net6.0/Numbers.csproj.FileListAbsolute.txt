@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Numbers\bin\Debug\net6.0\Numbers.exe
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Numbers\bin\Debug\net6.0\Numbers.deps.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Numbers\bin\Debug\net6.0\Numbers.runtimeconfig.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Numbers\bin\Debug\net6.0\Numbers.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Numbers\bin\Debug\net6.0\Numbers.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Numbers\obj\Debug\net6.0\Numbers.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Numbers\obj\Debug\net6.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Numbers\obj\Debug\net6.0\Numbers.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Numbers\obj\Debug\net6.0\Numbers.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Numbers\obj\Debug\net6.0\Numbers.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Numbers\obj\Debug\net6.0\Numbers.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Numbers\obj\Debug\net6.0\refint\Numbers.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Numbers\obj\Debug\net6.0\Numbers.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Numbers\obj\Debug\net6.0\Numbers.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Numbers\obj\Debug\net6.0\ref\Numbers.dll
