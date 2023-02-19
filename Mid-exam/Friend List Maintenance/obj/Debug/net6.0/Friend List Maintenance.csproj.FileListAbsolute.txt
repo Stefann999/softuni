@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\Mid-exam\Friend List Maintenance\bin\Debug\net6.0\Friend List Maintenance.exe
+E:\SoftUni\Fundamentals\Mid-exam\Friend List Maintenance\bin\Debug\net6.0\Friend List Maintenance.deps.json
+E:\SoftUni\Fundamentals\Mid-exam\Friend List Maintenance\bin\Debug\net6.0\Friend List Maintenance.runtimeconfig.json
+E:\SoftUni\Fundamentals\Mid-exam\Friend List Maintenance\bin\Debug\net6.0\Friend List Maintenance.dll
+E:\SoftUni\Fundamentals\Mid-exam\Friend List Maintenance\bin\Debug\net6.0\Friend List Maintenance.pdb
+E:\SoftUni\Fundamentals\Mid-exam\Friend List Maintenance\obj\Debug\net6.0\Friend List Maintenance.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\Mid-exam\Friend List Maintenance\obj\Debug\net6.0\Friend List Maintenance.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\Mid-exam\Friend List Maintenance\obj\Debug\net6.0\Friend List Maintenance.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\Mid-exam\Friend List Maintenance\obj\Debug\net6.0\Friend List Maintenance.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\Mid-exam\Friend List Maintenance\obj\Debug\net6.0\Friend List Maintenance.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\Mid-exam\Friend List Maintenance\obj\Debug\net6.0\Friend List Maintenance.dll
+E:\SoftUni\Fundamentals\Mid-exam\Friend List Maintenance\obj\Debug\net6.0\refint\Friend List Maintenance.dll
+E:\SoftUni\Fundamentals\Mid-exam\Friend List Maintenance\obj\Debug\net6.0\Friend List Maintenance.pdb
+E:\SoftUni\Fundamentals\Mid-exam\Friend List Maintenance\obj\Debug\net6.0\Friend List Maintenance.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\Mid-exam\Friend List Maintenance\obj\Debug\net6.0\ref\Friend List Maintenance.dll

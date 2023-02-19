@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Array Modifier\bin\Debug\net6.0\Array Modifier.exe
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Array Modifier\bin\Debug\net6.0\Array Modifier.deps.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Array Modifier\bin\Debug\net6.0\Array Modifier.runtimeconfig.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Array Modifier\bin\Debug\net6.0\Array Modifier.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Array Modifier\bin\Debug\net6.0\Array Modifier.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Array Modifier\obj\Debug\net6.0\Array Modifier.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Array Modifier\obj\Debug\net6.0\Array Modifier.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Array Modifier\obj\Debug\net6.0\Array Modifier.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Array Modifier\obj\Debug\net6.0\Array Modifier.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Array Modifier\obj\Debug\net6.0\Array Modifier.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Array Modifier\obj\Debug\net6.0\Array Modifier.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Array Modifier\obj\Debug\net6.0\refint\Array Modifier.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Array Modifier\obj\Debug\net6.0\Array Modifier.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Array Modifier\obj\Debug\net6.0\Array Modifier.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Mid-exam-prep\Array Modifier\obj\Debug\net6.0\ref\Array Modifier.dll

@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\Mid-exam\Mid-exam\bin\Debug\net6.0\Experience Gain.exe
+E:\SoftUni\Fundamentals\Mid-exam\Mid-exam\bin\Debug\net6.0\Experience Gain.deps.json
+E:\SoftUni\Fundamentals\Mid-exam\Mid-exam\bin\Debug\net6.0\Experience Gain.runtimeconfig.json
+E:\SoftUni\Fundamentals\Mid-exam\Mid-exam\bin\Debug\net6.0\Experience Gain.dll
+E:\SoftUni\Fundamentals\Mid-exam\Mid-exam\bin\Debug\net6.0\Experience Gain.pdb
+E:\SoftUni\Fundamentals\Mid-exam\Mid-exam\obj\Debug\net6.0\Experience Gain.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\Mid-exam\Mid-exam\obj\Debug\net6.0\Experience Gain.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\Mid-exam\Mid-exam\obj\Debug\net6.0\Experience Gain.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\Mid-exam\Mid-exam\obj\Debug\net6.0\Experience Gain.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\Mid-exam\Mid-exam\obj\Debug\net6.0\Experience Gain.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\Mid-exam\Mid-exam\obj\Debug\net6.0\Experience Gain.dll
+E:\SoftUni\Fundamentals\Mid-exam\Mid-exam\obj\Debug\net6.0\refint\Experience Gain.dll
+E:\SoftUni\Fundamentals\Mid-exam\Mid-exam\obj\Debug\net6.0\Experience Gain.pdb
+E:\SoftUni\Fundamentals\Mid-exam\Mid-exam\obj\Debug\net6.0\Experience Gain.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\Mid-exam\Mid-exam\obj\Debug\net6.0\ref\Experience Gain.dll
