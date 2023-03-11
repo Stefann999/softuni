@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\1. Count Chars in a String\bin\Debug\net6.0\1. Count Chars in a String.exe
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\1. Count Chars in a String\bin\Debug\net6.0\1. Count Chars in a String.deps.json
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\1. Count Chars in a String\bin\Debug\net6.0\1. Count Chars in a String.runtimeconfig.json
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\1. Count Chars in a String\bin\Debug\net6.0\1. Count Chars in a String.dll
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\1. Count Chars in a String\bin\Debug\net6.0\1. Count Chars in a String.pdb
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\1. Count Chars in a String\obj\Debug\net6.0\1. Count Chars in a String.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\1. Count Chars in a String\obj\Debug\net6.0\1. Count Chars in a String.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\1. Count Chars in a String\obj\Debug\net6.0\1. Count Chars in a String.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\1. Count Chars in a String\obj\Debug\net6.0\1. Count Chars in a String.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\1. Count Chars in a String\obj\Debug\net6.0\1. Count Chars in a String.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\1. Count Chars in a String\obj\Debug\net6.0\1. Count Chars in a String.dll
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\1. Count Chars in a String\obj\Debug\net6.0\refint\1. Count Chars in a String.dll
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\1. Count Chars in a String\obj\Debug\net6.0\1. Count Chars in a String.pdb
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\1. Count Chars in a String\obj\Debug\net6.0\1. Count Chars in a String.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\1. Count Chars in a String\obj\Debug\net6.0\ref\1. Count Chars in a String.dll

@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\4. SoftUni Parking\bin\Debug\net6.0\4. SoftUni Parking.exe
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\4. SoftUni Parking\bin\Debug\net6.0\4. SoftUni Parking.deps.json
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\4. SoftUni Parking\bin\Debug\net6.0\4. SoftUni Parking.runtimeconfig.json
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\4. SoftUni Parking\bin\Debug\net6.0\4. SoftUni Parking.dll
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\4. SoftUni Parking\bin\Debug\net6.0\4. SoftUni Parking.pdb
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\4. SoftUni Parking\obj\Debug\net6.0\4. SoftUni Parking.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\4. SoftUni Parking\obj\Debug\net6.0\4. SoftUni Parking.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\4. SoftUni Parking\obj\Debug\net6.0\4. SoftUni Parking.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\4. SoftUni Parking\obj\Debug\net6.0\4. SoftUni Parking.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\4. SoftUni Parking\obj\Debug\net6.0\4. SoftUni Parking.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\4. SoftUni Parking\obj\Debug\net6.0\4. SoftUni Parking.dll
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\4. SoftUni Parking\obj\Debug\net6.0\refint\4. SoftUni Parking.dll
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\4. SoftUni Parking\obj\Debug\net6.0\4. SoftUni Parking.pdb
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\4. SoftUni Parking\obj\Debug\net6.0\4. SoftUni Parking.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\4. SoftUni Parking\obj\Debug\net6.0\ref\4. SoftUni Parking.dll

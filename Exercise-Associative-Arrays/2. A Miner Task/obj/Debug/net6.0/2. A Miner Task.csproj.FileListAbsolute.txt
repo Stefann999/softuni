@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\2. A Miner Task\bin\Debug\net6.0\2. A Miner Task.exe
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\2. A Miner Task\bin\Debug\net6.0\2. A Miner Task.deps.json
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\2. A Miner Task\bin\Debug\net6.0\2. A Miner Task.runtimeconfig.json
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\2. A Miner Task\bin\Debug\net6.0\2. A Miner Task.dll
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\2. A Miner Task\bin\Debug\net6.0\2. A Miner Task.pdb
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\2. A Miner Task\obj\Debug\net6.0\2. A Miner Task.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\2. A Miner Task\obj\Debug\net6.0\2. A Miner Task.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\2. A Miner Task\obj\Debug\net6.0\2. A Miner Task.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\2. A Miner Task\obj\Debug\net6.0\2. A Miner Task.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\2. A Miner Task\obj\Debug\net6.0\2. A Miner Task.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\2. A Miner Task\obj\Debug\net6.0\2. A Miner Task.dll
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\2. A Miner Task\obj\Debug\net6.0\refint\2. A Miner Task.dll
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\2. A Miner Task\obj\Debug\net6.0\2. A Miner Task.pdb
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\2. A Miner Task\obj\Debug\net6.0\2. A Miner Task.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\2. A Miner Task\obj\Debug\net6.0\ref\2. A Miner Task.dll

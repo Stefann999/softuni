@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\6. Student Academy\bin\Debug\net6.0\6. Student Academy.exe
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\6. Student Academy\bin\Debug\net6.0\6. Student Academy.deps.json
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\6. Student Academy\bin\Debug\net6.0\6. Student Academy.runtimeconfig.json
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\6. Student Academy\bin\Debug\net6.0\6. Student Academy.dll
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\6. Student Academy\bin\Debug\net6.0\6. Student Academy.pdb
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\6. Student Academy\obj\Debug\net6.0\6. Student Academy.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\6. Student Academy\obj\Debug\net6.0\6. Student Academy.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\6. Student Academy\obj\Debug\net6.0\6. Student Academy.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\6. Student Academy\obj\Debug\net6.0\6. Student Academy.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\6. Student Academy\obj\Debug\net6.0\6. Student Academy.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\6. Student Academy\obj\Debug\net6.0\6. Student Academy.dll
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\6. Student Academy\obj\Debug\net6.0\refint\6. Student Academy.dll
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\6. Student Academy\obj\Debug\net6.0\6. Student Academy.pdb
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\6. Student Academy\obj\Debug\net6.0\6. Student Academy.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\Exercise-Associative-Arrays\6. Student Academy\obj\Debug\net6.0\ref\6. Student Academy.dll
