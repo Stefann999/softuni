@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\05. Multiply Big Number\obj\Debug\net6.0\05. Multiply Big Number.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\05. Multiply Big Number\obj\Debug\net6.0\05. Multiply Big Number.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\05. Multiply Big Number\obj\Debug\net6.0\05. Multiply Big Number.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\05. Multiply Big Number\obj\Debug\net6.0\05. Multiply Big Number.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\05. Multiply Big Number\obj\Debug\net6.0\05. Multiply Big Number.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\05. Multiply Big Number\bin\Debug\net6.0\05. Multiply Big Number.exe
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\05. Multiply Big Number\bin\Debug\net6.0\05. Multiply Big Number.deps.json
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\05. Multiply Big Number\bin\Debug\net6.0\05. Multiply Big Number.runtimeconfig.json
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\05. Multiply Big Number\bin\Debug\net6.0\05. Multiply Big Number.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\05. Multiply Big Number\bin\Debug\net6.0\05. Multiply Big Number.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\05. Multiply Big Number\obj\Debug\net6.0\05. Multiply Big Number.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\05. Multiply Big Number\obj\Debug\net6.0\refint\05. Multiply Big Number.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\05. Multiply Big Number\obj\Debug\net6.0\05. Multiply Big Number.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\05. Multiply Big Number\obj\Debug\net6.0\05. Multiply Big Number.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\05. Multiply Big Number\obj\Debug\net6.0\ref\05. Multiply Big Number.dll

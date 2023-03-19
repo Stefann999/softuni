@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\2. Race\bin\Debug\net6.0\2. Race.exe
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\2. Race\bin\Debug\net6.0\2. Race.deps.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\2. Race\bin\Debug\net6.0\2. Race.runtimeconfig.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\2. Race\bin\Debug\net6.0\2. Race.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\2. Race\bin\Debug\net6.0\2. Race.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\2. Race\obj\Debug\net6.0\2. Race.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\2. Race\obj\Debug\net6.0\2. Race.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\2. Race\obj\Debug\net6.0\2. Race.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\2. Race\obj\Debug\net6.0\2. Race.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\2. Race\obj\Debug\net6.0\2. Race.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\2. Race\obj\Debug\net6.0\2. Race.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\2. Race\obj\Debug\net6.0\refint\2. Race.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\2. Race\obj\Debug\net6.0\2. Race.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\2. Race\obj\Debug\net6.0\2. Race.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\2. Race\obj\Debug\net6.0\ref\2. Race.dll

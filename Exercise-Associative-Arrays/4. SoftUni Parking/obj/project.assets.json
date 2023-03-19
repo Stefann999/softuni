@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\SoftUni\\Fundamentals\\Exercise-Associative-Arrays\\4. SoftUni Parking\\4. SoftUni Parking.csproj",
+      "projectUniqueName": "E:\\SoftUni\\Fundamentals\\GitHub\\softuni\\Exercise-Associative-Arrays\\4. SoftUni Parking\\4. SoftUni Parking.csproj",
       "projectName": "4. SoftUni Parking",
-      "projectPath": "E:\\SoftUni\\Fundamentals\\Exercise-Associative-Arrays\\4. SoftUni Parking\\4. SoftUni Parking.csproj",
+      "projectPath": "E:\\SoftUni\\Fundamentals\\GitHub\\softuni\\Exercise-Associative-Arrays\\4. SoftUni Parking\\4. SoftUni Parking.csproj",
       "packagesPath": "C:\\Users\\stefc\\.nuget\\packages\\",
-      "outputPath": "E:\\SoftUni\\Fundamentals\\Exercise-Associative-Arrays\\4. SoftUni Parking\\obj\\",
+      "outputPath": "E:\\SoftUni\\Fundamentals\\GitHub\\softuni\\Exercise-Associative-Arrays\\4. SoftUni Parking\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

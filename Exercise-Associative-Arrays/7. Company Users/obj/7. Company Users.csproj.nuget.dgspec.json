@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\SoftUni\\Fundamentals\\Exercise-Associative-Arrays\\7. Company Users\\7. Company Users.csproj": {}
+    "E:\\SoftUni\\Fundamentals\\GitHub\\softuni\\Exercise-Associative-Arrays\\7. Company Users\\7. Company Users.csproj": {}
   },
   "projects": {
-    "E:\\SoftUni\\Fundamentals\\Exercise-Associative-Arrays\\7. Company Users\\7. Company Users.csproj": {
+    "E:\\SoftUni\\Fundamentals\\GitHub\\softuni\\Exercise-Associative-Arrays\\7. Company Users\\7. Company Users.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SoftUni\\Fundamentals\\Exercise-Associative-Arrays\\7. Company Users\\7. Company Users.csproj",
+        "projectUniqueName": "E:\\SoftUni\\Fundamentals\\GitHub\\softuni\\Exercise-Associative-Arrays\\7. Company Users\\7. Company Users.csproj",
         "projectName": "7. Company Users",
-        "projectPath": "E:\\SoftUni\\Fundamentals\\Exercise-Associative-Arrays\\7. Company Users\\7. Company Users.csproj",
+        "projectPath": "E:\\SoftUni\\Fundamentals\\GitHub\\softuni\\Exercise-Associative-Arrays\\7. Company Users\\7. Company Users.csproj",
         "packagesPath": "C:\\Users\\stefc\\.nuget\\packages\\",
-        "outputPath": "E:\\SoftUni\\Fundamentals\\Exercise-Associative-Arrays\\7. Company Users\\obj\\",
+        "outputPath": "E:\\SoftUni\\Fundamentals\\GitHub\\softuni\\Exercise-Associative-Arrays\\7. Company Users\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

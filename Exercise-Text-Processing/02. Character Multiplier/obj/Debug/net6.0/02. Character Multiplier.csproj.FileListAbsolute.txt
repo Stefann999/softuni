@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\02. Character Multiplier\bin\Debug\net6.0\02. Character Multiplier.exe
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\02. Character Multiplier\bin\Debug\net6.0\02. Character Multiplier.deps.json
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\02. Character Multiplier\bin\Debug\net6.0\02. Character Multiplier.runtimeconfig.json
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\02. Character Multiplier\bin\Debug\net6.0\02. Character Multiplier.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\02. Character Multiplier\bin\Debug\net6.0\02. Character Multiplier.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\02. Character Multiplier\obj\Debug\net6.0\02. Character Multiplier.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\02. Character Multiplier\obj\Debug\net6.0\02. Character Multiplier.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\02. Character Multiplier\obj\Debug\net6.0\02. Character Multiplier.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\02. Character Multiplier\obj\Debug\net6.0\02. Character Multiplier.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\02. Character Multiplier\obj\Debug\net6.0\02. Character Multiplier.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\02. Character Multiplier\obj\Debug\net6.0\02. Character Multiplier.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\02. Character Multiplier\obj\Debug\net6.0\refint\02. Character Multiplier.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\02. Character Multiplier\obj\Debug\net6.0\02. Character Multiplier.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\02. Character Multiplier\obj\Debug\net6.0\02. Character Multiplier.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\02. Character Multiplier\obj\Debug\net6.0\ref\02. Character Multiplier.dll

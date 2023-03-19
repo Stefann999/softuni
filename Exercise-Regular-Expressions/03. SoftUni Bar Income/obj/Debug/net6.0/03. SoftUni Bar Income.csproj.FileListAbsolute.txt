@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\03. SoftUni Bar Income\bin\Debug\net6.0\03. SoftUni Bar Income.exe
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\03. SoftUni Bar Income\bin\Debug\net6.0\03. SoftUni Bar Income.deps.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\03. SoftUni Bar Income\bin\Debug\net6.0\03. SoftUni Bar Income.runtimeconfig.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\03. SoftUni Bar Income\bin\Debug\net6.0\03. SoftUni Bar Income.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\03. SoftUni Bar Income\bin\Debug\net6.0\03. SoftUni Bar Income.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\03. SoftUni Bar Income\obj\Debug\net6.0\03. SoftUni Bar Income.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\03. SoftUni Bar Income\obj\Debug\net6.0\03. SoftUni Bar Income.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\03. SoftUni Bar Income\obj\Debug\net6.0\03. SoftUni Bar Income.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\03. SoftUni Bar Income\obj\Debug\net6.0\03. SoftUni Bar Income.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\03. SoftUni Bar Income\obj\Debug\net6.0\03. SoftUni Bar Income.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\03. SoftUni Bar Income\obj\Debug\net6.0\03. SoftUni Bar Income.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\03. SoftUni Bar Income\obj\Debug\net6.0\refint\03. SoftUni Bar Income.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\03. SoftUni Bar Income\obj\Debug\net6.0\03. SoftUni Bar Income.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\03. SoftUni Bar Income\obj\Debug\net6.0\03. SoftUni Bar Income.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\03. SoftUni Bar Income\obj\Debug\net6.0\ref\03. SoftUni Bar Income.dll

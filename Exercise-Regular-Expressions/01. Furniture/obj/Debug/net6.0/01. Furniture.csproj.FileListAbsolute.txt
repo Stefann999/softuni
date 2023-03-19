@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\01. Furniture\bin\Debug\net6.0\01. Furniture.exe
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\01. Furniture\bin\Debug\net6.0\01. Furniture.deps.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\01. Furniture\bin\Debug\net6.0\01. Furniture.runtimeconfig.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\01. Furniture\bin\Debug\net6.0\01. Furniture.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\01. Furniture\bin\Debug\net6.0\01. Furniture.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\01. Furniture\obj\Debug\net6.0\01. Furniture.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\01. Furniture\obj\Debug\net6.0\01. Furniture.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\01. Furniture\obj\Debug\net6.0\01. Furniture.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\01. Furniture\obj\Debug\net6.0\01. Furniture.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\01. Furniture\obj\Debug\net6.0\01. Furniture.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\01. Furniture\obj\Debug\net6.0\01. Furniture.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\01. Furniture\obj\Debug\net6.0\refint\01. Furniture.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\01. Furniture\obj\Debug\net6.0\01. Furniture.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\01. Furniture\obj\Debug\net6.0\01. Furniture.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Exercise-Regular-Expressions\01. Furniture\obj\Debug\net6.0\ref\01. Furniture.dll

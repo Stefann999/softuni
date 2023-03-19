@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\01. Valid Usernames\bin\Debug\net6.0\01. Valid Usernames.exe
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\01. Valid Usernames\bin\Debug\net6.0\01. Valid Usernames.deps.json
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\01. Valid Usernames\bin\Debug\net6.0\01. Valid Usernames.runtimeconfig.json
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\01. Valid Usernames\bin\Debug\net6.0\01. Valid Usernames.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\01. Valid Usernames\bin\Debug\net6.0\01. Valid Usernames.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\01. Valid Usernames\obj\Debug\net6.0\01. Valid Usernames.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\01. Valid Usernames\obj\Debug\net6.0\01. Valid Usernames.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\01. Valid Usernames\obj\Debug\net6.0\01. Valid Usernames.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\01. Valid Usernames\obj\Debug\net6.0\01. Valid Usernames.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\01. Valid Usernames\obj\Debug\net6.0\01. Valid Usernames.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\01. Valid Usernames\obj\Debug\net6.0\01. Valid Usernames.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\01. Valid Usernames\obj\Debug\net6.0\refint\01. Valid Usernames.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\01. Valid Usernames\obj\Debug\net6.0\01. Valid Usernames.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\01. Valid Usernames\obj\Debug\net6.0\01. Valid Usernames.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\01. Valid Usernames\obj\Debug\net6.0\ref\01. Valid Usernames.dll

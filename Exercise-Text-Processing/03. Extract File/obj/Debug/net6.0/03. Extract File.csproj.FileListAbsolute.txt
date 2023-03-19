@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\03. Extract File\bin\Debug\net6.0\03. Extract File.exe
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\03. Extract File\bin\Debug\net6.0\03. Extract File.deps.json
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\03. Extract File\bin\Debug\net6.0\03. Extract File.runtimeconfig.json
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\03. Extract File\bin\Debug\net6.0\03. Extract File.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\03. Extract File\bin\Debug\net6.0\03. Extract File.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\03. Extract File\obj\Debug\net6.0\03. Extract File.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\03. Extract File\obj\Debug\net6.0\03. Extract File.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\03. Extract File\obj\Debug\net6.0\03. Extract File.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\03. Extract File\obj\Debug\net6.0\03. Extract File.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\03. Extract File\obj\Debug\net6.0\03. Extract File.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\03. Extract File\obj\Debug\net6.0\03. Extract File.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\03. Extract File\obj\Debug\net6.0\refint\03. Extract File.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\03. Extract File\obj\Debug\net6.0\03. Extract File.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\03. Extract File\obj\Debug\net6.0\03. Extract File.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\01. Valid Usernames\03. Extract File\obj\Debug\net6.0\ref\03. Extract File.dll
