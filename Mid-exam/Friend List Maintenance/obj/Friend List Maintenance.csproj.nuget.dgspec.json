@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\SoftUni\\Fundamentals\\Mid-exam\\Friend List Maintenance\\Friend List Maintenance.csproj": {}
+    "E:\\SoftUni\\Fundamentals\\GitHub\\softuni\\Mid-exam\\Friend List Maintenance\\Friend List Maintenance.csproj": {}
   },
   "projects": {
-    "E:\\SoftUni\\Fundamentals\\Mid-exam\\Friend List Maintenance\\Friend List Maintenance.csproj": {
+    "E:\\SoftUni\\Fundamentals\\GitHub\\softuni\\Mid-exam\\Friend List Maintenance\\Friend List Maintenance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SoftUni\\Fundamentals\\Mid-exam\\Friend List Maintenance\\Friend List Maintenance.csproj",
+        "projectUniqueName": "E:\\SoftUni\\Fundamentals\\GitHub\\softuni\\Mid-exam\\Friend List Maintenance\\Friend List Maintenance.csproj",
         "projectName": "Friend List Maintenance",
-        "projectPath": "E:\\SoftUni\\Fundamentals\\Mid-exam\\Friend List Maintenance\\Friend List Maintenance.csproj",
+        "projectPath": "E:\\SoftUni\\Fundamentals\\GitHub\\softuni\\Mid-exam\\Friend List Maintenance\\Friend List Maintenance.csproj",
         "packagesPath": "C:\\Users\\stefc\\.nuget\\packages\\",
-        "outputPath": "E:\\SoftUni\\Fundamentals\\Mid-exam\\Friend List Maintenance\\obj\\",
+        "outputPath": "E:\\SoftUni\\Fundamentals\\GitHub\\softuni\\Mid-exam\\Friend List Maintenance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
