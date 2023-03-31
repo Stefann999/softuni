@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\01. World Tour\bin\Debug\net6.0\01. World Tour.exe
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\01. World Tour\bin\Debug\net6.0\01. World Tour.deps.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\01. World Tour\bin\Debug\net6.0\01. World Tour.runtimeconfig.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\01. World Tour\bin\Debug\net6.0\01. World Tour.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\01. World Tour\bin\Debug\net6.0\01. World Tour.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\01. World Tour\obj\Debug\net6.0\01. World Tour.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\01. World Tour\obj\Debug\net6.0\01. World Tour.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\01. World Tour\obj\Debug\net6.0\01. World Tour.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\01. World Tour\obj\Debug\net6.0\01. World Tour.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\01. World Tour\obj\Debug\net6.0\01. World Tour.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\01. World Tour\obj\Debug\net6.0\01. World Tour.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\01. World Tour\obj\Debug\net6.0\refint\01. World Tour.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\01. World Tour\obj\Debug\net6.0\01. World Tour.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\01. World Tour\obj\Debug\net6.0\01. World Tour.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\01. World Tour\obj\Debug\net6.0\ref\01. World Tour.dll

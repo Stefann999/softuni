@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Mirror Words\bin\Debug\net6.0\Mirror Words.exe
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Mirror Words\bin\Debug\net6.0\Mirror Words.deps.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Mirror Words\bin\Debug\net6.0\Mirror Words.runtimeconfig.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Mirror Words\bin\Debug\net6.0\Mirror Words.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Mirror Words\bin\Debug\net6.0\Mirror Words.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Mirror Words\obj\Debug\net6.0\Mirror Words.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Mirror Words\obj\Debug\net6.0\Mirror Words.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Mirror Words\obj\Debug\net6.0\Mirror Words.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Mirror Words\obj\Debug\net6.0\Mirror Words.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Mirror Words\obj\Debug\net6.0\Mirror Words.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Mirror Words\obj\Debug\net6.0\Mirror Words.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Mirror Words\obj\Debug\net6.0\refint\Mirror Words.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Mirror Words\obj\Debug\net6.0\Mirror Words.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Mirror Words\obj\Debug\net6.0\Mirror Words.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Mirror Words\obj\Debug\net6.0\ref\Mirror Words.dll

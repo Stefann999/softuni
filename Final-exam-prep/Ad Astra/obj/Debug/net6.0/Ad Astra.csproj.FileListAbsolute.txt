@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Ad Astra\obj\Debug\net6.0\Ad Astra.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Ad Astra\obj\Debug\net6.0\Ad Astra.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Ad Astra\obj\Debug\net6.0\Ad Astra.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Ad Astra\obj\Debug\net6.0\Ad Astra.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Ad Astra\obj\Debug\net6.0\Ad Astra.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Ad Astra\bin\Debug\net6.0\Ad Astra.exe
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Ad Astra\bin\Debug\net6.0\Ad Astra.deps.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Ad Astra\bin\Debug\net6.0\Ad Astra.runtimeconfig.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Ad Astra\bin\Debug\net6.0\Ad Astra.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Ad Astra\bin\Debug\net6.0\Ad Astra.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Ad Astra\obj\Debug\net6.0\Ad Astra.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Ad Astra\obj\Debug\net6.0\refint\Ad Astra.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Ad Astra\obj\Debug\net6.0\Ad Astra.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Ad Astra\obj\Debug\net6.0\Ad Astra.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Ad Astra\obj\Debug\net6.0\ref\Ad Astra.dll

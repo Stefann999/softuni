@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\02. Destination Mapper\bin\Debug\net6.0\02. Destination Mapper.exe
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\02. Destination Mapper\bin\Debug\net6.0\02. Destination Mapper.deps.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\02. Destination Mapper\bin\Debug\net6.0\02. Destination Mapper.runtimeconfig.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\02. Destination Mapper\bin\Debug\net6.0\02. Destination Mapper.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\02. Destination Mapper\bin\Debug\net6.0\02. Destination Mapper.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\02. Destination Mapper\obj\Debug\net6.0\02. Destination Mapper.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\02. Destination Mapper\obj\Debug\net6.0\02. Destination Mapper.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\02. Destination Mapper\obj\Debug\net6.0\02. Destination Mapper.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\02. Destination Mapper\obj\Debug\net6.0\02. Destination Mapper.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\02. Destination Mapper\obj\Debug\net6.0\02. Destination Mapper.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\02. Destination Mapper\obj\Debug\net6.0\02. Destination Mapper.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\02. Destination Mapper\obj\Debug\net6.0\refint\02. Destination Mapper.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\02. Destination Mapper\obj\Debug\net6.0\02. Destination Mapper.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\02. Destination Mapper\obj\Debug\net6.0\02. Destination Mapper.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\02. Destination Mapper\obj\Debug\net6.0\ref\02. Destination Mapper.dll

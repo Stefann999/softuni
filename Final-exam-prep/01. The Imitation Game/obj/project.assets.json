@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\SoftUni\\Fundamentals\\GitHub\\softuni\\Final-exam-prep\\01. The Imitation Game\\01. The Imitation Game.csproj",
-      "projectName": "01. The Imitation Game",
-      "projectPath": "E:\\SoftUni\\Fundamentals\\GitHub\\softuni\\Final-exam-prep\\01. The Imitation Game\\01. The Imitation Game.csproj",
+      "projectUniqueName": "E:\\SoftUni\\Fundamentals\\GitHub\\softuni\\Final-exam-prep\\01. The Imitation Game\\The Imitation Game.csproj",
+      "projectName": "The Imitation Game",
+      "projectPath": "E:\\SoftUni\\Fundamentals\\GitHub\\softuni\\Final-exam-prep\\01. The Imitation Game\\The Imitation Game.csproj",
       "packagesPath": "C:\\Users\\stefc\\.nuget\\packages\\",
       "outputPath": "E:\\SoftUni\\Fundamentals\\GitHub\\softuni\\Final-exam-prep\\01. The Imitation Game\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\The Pianist\bin\Debug\net6.0\The Pianist.exe
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\The Pianist\bin\Debug\net6.0\The Pianist.deps.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\The Pianist\bin\Debug\net6.0\The Pianist.runtimeconfig.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\The Pianist\bin\Debug\net6.0\The Pianist.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\The Pianist\bin\Debug\net6.0\The Pianist.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\The Pianist\obj\Debug\net6.0\The Pianist.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\The Pianist\obj\Debug\net6.0\The Pianist.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\The Pianist\obj\Debug\net6.0\The Pianist.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\The Pianist\obj\Debug\net6.0\The Pianist.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\The Pianist\obj\Debug\net6.0\The Pianist.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\The Pianist\obj\Debug\net6.0\The Pianist.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\The Pianist\obj\Debug\net6.0\refint\The Pianist.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\The Pianist\obj\Debug\net6.0\The Pianist.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\The Pianist\obj\Debug\net6.0\The Pianist.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\The Pianist\obj\Debug\net6.0\ref\The Pianist.dll

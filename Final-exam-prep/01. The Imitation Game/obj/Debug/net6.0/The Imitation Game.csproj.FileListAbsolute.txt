@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\01. The Imitation Game\bin\Debug\net6.0\The Imitation Game.exe
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\01. The Imitation Game\bin\Debug\net6.0\The Imitation Game.deps.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\01. The Imitation Game\bin\Debug\net6.0\The Imitation Game.runtimeconfig.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\01. The Imitation Game\bin\Debug\net6.0\The Imitation Game.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\01. The Imitation Game\bin\Debug\net6.0\The Imitation Game.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\01. The Imitation Game\obj\Debug\net6.0\The Imitation Game.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\01. The Imitation Game\obj\Debug\net6.0\The Imitation Game.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\01. The Imitation Game\obj\Debug\net6.0\The Imitation Game.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\01. The Imitation Game\obj\Debug\net6.0\The Imitation Game.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\01. The Imitation Game\obj\Debug\net6.0\The Imitation Game.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\01. The Imitation Game\obj\Debug\net6.0\The Imitation Game.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\01. The Imitation Game\obj\Debug\net6.0\refint\The Imitation Game.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\01. The Imitation Game\obj\Debug\net6.0\The Imitation Game.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\01. The Imitation Game\obj\Debug\net6.0\The Imitation Game.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\01. The Imitation Game\obj\Debug\net6.0\ref\The Imitation Game.dll

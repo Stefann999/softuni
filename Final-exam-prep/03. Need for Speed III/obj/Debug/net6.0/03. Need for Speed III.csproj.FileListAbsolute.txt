@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\03. Need for Speed III\bin\Debug\net6.0\03. Need for Speed III.exe
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\03. Need for Speed III\bin\Debug\net6.0\03. Need for Speed III.deps.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\03. Need for Speed III\bin\Debug\net6.0\03. Need for Speed III.runtimeconfig.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\03. Need for Speed III\bin\Debug\net6.0\03. Need for Speed III.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\03. Need for Speed III\bin\Debug\net6.0\03. Need for Speed III.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\03. Need for Speed III\obj\Debug\net6.0\03. Need for Speed III.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\03. Need for Speed III\obj\Debug\net6.0\03. Need for Speed III.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\03. Need for Speed III\obj\Debug\net6.0\03. Need for Speed III.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\03. Need for Speed III\obj\Debug\net6.0\03. Need for Speed III.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\03. Need for Speed III\obj\Debug\net6.0\03. Need for Speed III.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\03. Need for Speed III\obj\Debug\net6.0\03. Need for Speed III.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\03. Need for Speed III\obj\Debug\net6.0\refint\03. Need for Speed III.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\03. Need for Speed III\obj\Debug\net6.0\03. Need for Speed III.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\03. Need for Speed III\obj\Debug\net6.0\03. Need for Speed III.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\03. Need for Speed III\obj\Debug\net6.0\ref\03. Need for Speed III.dll
