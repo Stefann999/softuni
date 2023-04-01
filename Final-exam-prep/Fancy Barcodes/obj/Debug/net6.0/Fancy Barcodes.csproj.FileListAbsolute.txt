@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Fancy Barcodes\bin\Debug\net6.0\Fancy Barcodes.exe
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Fancy Barcodes\bin\Debug\net6.0\Fancy Barcodes.deps.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Fancy Barcodes\bin\Debug\net6.0\Fancy Barcodes.runtimeconfig.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Fancy Barcodes\bin\Debug\net6.0\Fancy Barcodes.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Fancy Barcodes\bin\Debug\net6.0\Fancy Barcodes.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Fancy Barcodes\obj\Debug\net6.0\Fancy Barcodes.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Fancy Barcodes\obj\Debug\net6.0\Fancy Barcodes.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Fancy Barcodes\obj\Debug\net6.0\Fancy Barcodes.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Fancy Barcodes\obj\Debug\net6.0\Fancy Barcodes.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Fancy Barcodes\obj\Debug\net6.0\Fancy Barcodes.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Fancy Barcodes\obj\Debug\net6.0\Fancy Barcodes.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Fancy Barcodes\obj\Debug\net6.0\refint\Fancy Barcodes.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Fancy Barcodes\obj\Debug\net6.0\Fancy Barcodes.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Fancy Barcodes\obj\Debug\net6.0\Fancy Barcodes.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Fancy Barcodes\obj\Debug\net6.0\ref\Fancy Barcodes.dll

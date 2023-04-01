@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Heroes of Code and Logic VII\bin\Debug\net6.0\Heroes of Code and Logic VII.exe
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Heroes of Code and Logic VII\bin\Debug\net6.0\Heroes of Code and Logic VII.deps.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Heroes of Code and Logic VII\bin\Debug\net6.0\Heroes of Code and Logic VII.runtimeconfig.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Heroes of Code and Logic VII\bin\Debug\net6.0\Heroes of Code and Logic VII.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Heroes of Code and Logic VII\bin\Debug\net6.0\Heroes of Code and Logic VII.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Heroes of Code and Logic VII\obj\Debug\net6.0\Heroes of Code and Logic VII.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Heroes of Code and Logic VII\obj\Debug\net6.0\Heroes of Code and Logic VII.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Heroes of Code and Logic VII\obj\Debug\net6.0\Heroes of Code and Logic VII.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Heroes of Code and Logic VII\obj\Debug\net6.0\Heroes of Code and Logic VII.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Heroes of Code and Logic VII\obj\Debug\net6.0\Heroes of Code and Logic VII.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Heroes of Code and Logic VII\obj\Debug\net6.0\Heroes of Code and Logic VII.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Heroes of Code and Logic VII\obj\Debug\net6.0\refint\Heroes of Code and Logic VII.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Heroes of Code and Logic VII\obj\Debug\net6.0\Heroes of Code and Logic VII.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Heroes of Code and Logic VII\obj\Debug\net6.0\Heroes of Code and Logic VII.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Heroes of Code and Logic VII\obj\Debug\net6.0\ref\Heroes of Code and Logic VII.dll
