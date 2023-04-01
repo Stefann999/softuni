@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Plant Discovery\obj\Debug\net6.0\Plant Discovery.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Plant Discovery\obj\Debug\net6.0\Plant Discovery.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Plant Discovery\obj\Debug\net6.0\Plant Discovery.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Plant Discovery\obj\Debug\net6.0\Plant Discovery.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Plant Discovery\obj\Debug\net6.0\Plant Discovery.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Plant Discovery\bin\Debug\net6.0\Plant Discovery.exe
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Plant Discovery\bin\Debug\net6.0\Plant Discovery.deps.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Plant Discovery\bin\Debug\net6.0\Plant Discovery.runtimeconfig.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Plant Discovery\bin\Debug\net6.0\Plant Discovery.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Plant Discovery\bin\Debug\net6.0\Plant Discovery.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Plant Discovery\obj\Debug\net6.0\Plant Discovery.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Plant Discovery\obj\Debug\net6.0\refint\Plant Discovery.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Plant Discovery\obj\Debug\net6.0\Plant Discovery.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Plant Discovery\obj\Debug\net6.0\Plant Discovery.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Plant Discovery\obj\Debug\net6.0\ref\Plant Discovery.dll
