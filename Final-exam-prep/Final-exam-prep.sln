@@ -11,11 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Need for Speed III", "03. N
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "World Tour", "01. World Tour\World Tour.csproj", "{5008876F-F59C-45B7-8ACC-00019BAE83D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirror Words", "Mirror Words\Mirror Words.csproj", "{D1E702EE-D7C9-4066-96BF-DAB28A432B55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mirror Words", "Mirror Words\Mirror Words.csproj", "{D1E702EE-D7C9-4066-96BF-DAB28A432B55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Pianist", "The Pianist\The Pianist.csproj", "{E52B45D5-7148-489D-BE24-3EBA0E5099B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "The Pianist", "The Pianist\The Pianist.csproj", "{E52B45D5-7148-489D-BE24-3EBA0E5099B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ad Astra", "Ad Astra\Ad Astra.csproj", "{2BABEFC5-2D3D-4D47-AD75-18C7B30C89CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ad Astra", "Ad Astra\Ad Astra.csproj", "{2BABEFC5-2D3D-4D47-AD75-18C7B30C89CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Password Reset", "Password Reset\Password Reset.csproj", "{07E64EA6-0AF7-4982-834A-8A6761CFB0E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{2BABEFC5-2D3D-4D47-AD75-18C7B30C89CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BABEFC5-2D3D-4D47-AD75-18C7B30C89CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BABEFC5-2D3D-4D47-AD75-18C7B30C89CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07E64EA6-0AF7-4982-834A-8A6761CFB0E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E64EA6-0AF7-4982-834A-8A6761CFB0E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07E64EA6-0AF7-4982-834A-8A6761CFB0E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07E64EA6-0AF7-4982-834A-8A6761CFB0E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
