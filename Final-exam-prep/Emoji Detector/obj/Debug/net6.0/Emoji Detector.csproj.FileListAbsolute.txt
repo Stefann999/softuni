@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Emoji Detector\obj\Debug\net6.0\Emoji Detector.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Emoji Detector\obj\Debug\net6.0\Emoji Detector.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Emoji Detector\obj\Debug\net6.0\Emoji Detector.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Emoji Detector\obj\Debug\net6.0\Emoji Detector.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Emoji Detector\obj\Debug\net6.0\Emoji Detector.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Emoji Detector\bin\Debug\net6.0\Emoji Detector.exe
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Emoji Detector\bin\Debug\net6.0\Emoji Detector.deps.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Emoji Detector\bin\Debug\net6.0\Emoji Detector.runtimeconfig.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Emoji Detector\bin\Debug\net6.0\Emoji Detector.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Emoji Detector\bin\Debug\net6.0\Emoji Detector.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Emoji Detector\obj\Debug\net6.0\Emoji Detector.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Emoji Detector\obj\Debug\net6.0\refint\Emoji Detector.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Emoji Detector\obj\Debug\net6.0\Emoji Detector.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Emoji Detector\obj\Debug\net6.0\Emoji Detector.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Emoji Detector\obj\Debug\net6.0\ref\Emoji Detector.dll

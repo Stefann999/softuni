@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Activation Keys\bin\Debug\net6.0\Activation Keys.exe
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Activation Keys\bin\Debug\net6.0\Activation Keys.deps.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Activation Keys\bin\Debug\net6.0\Activation Keys.runtimeconfig.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Activation Keys\bin\Debug\net6.0\Activation Keys.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Activation Keys\bin\Debug\net6.0\Activation Keys.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Activation Keys\obj\Debug\net6.0\Activation Keys.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Activation Keys\obj\Debug\net6.0\Activation Keys.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Activation Keys\obj\Debug\net6.0\Activation Keys.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Activation Keys\obj\Debug\net6.0\Activation Keys.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Activation Keys\obj\Debug\net6.0\Activation Keys.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Activation Keys\obj\Debug\net6.0\Activation Keys.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Activation Keys\obj\Debug\net6.0\refint\Activation Keys.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Activation Keys\obj\Debug\net6.0\Activation Keys.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Activation Keys\obj\Debug\net6.0\Activation Keys.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam-prep\Activation Keys\obj\Debug\net6.0\ref\Activation Keys.dll
