@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam\Messages Manager\obj\Debug\net6.0\Messages Manager.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam\Messages Manager\obj\Debug\net6.0\Messages Manager.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam\Messages Manager\obj\Debug\net6.0\Messages Manager.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam\Messages Manager\obj\Debug\net6.0\Messages Manager.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam\Messages Manager\obj\Debug\net6.0\Messages Manager.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam\Messages Manager\bin\Debug\net6.0\Messages Manager.exe
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam\Messages Manager\bin\Debug\net6.0\Messages Manager.deps.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam\Messages Manager\bin\Debug\net6.0\Messages Manager.runtimeconfig.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam\Messages Manager\bin\Debug\net6.0\Messages Manager.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam\Messages Manager\bin\Debug\net6.0\Messages Manager.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam\Messages Manager\obj\Debug\net6.0\Messages Manager.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam\Messages Manager\obj\Debug\net6.0\refint\Messages Manager.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam\Messages Manager\obj\Debug\net6.0\Messages Manager.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam\Messages Manager\obj\Debug\net6.0\Messages Manager.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam\Messages Manager\obj\Debug\net6.0\ref\Messages Manager.dll

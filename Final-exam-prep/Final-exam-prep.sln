@@ -27,9 +27,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Plant Discovery", "Plant Di
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Activation Keys", "Activation Keys\Activation Keys.csproj", "{707B65B9-2305-47AA-B3EA-9E1E45155263}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emoji Detector", "Emoji Detector\Emoji Detector.csproj", "{E92BC6D4-0A48-4C35-906C-E20D4A9458C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Emoji Detector", "Emoji Detector\Emoji Detector.csproj", "{E92BC6D4-0A48-4C35-906C-E20D4A9458C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P!rates", "P!rates\P!rates.csproj", "{4F43FBF3-B27F-492E-9754-3F31C76FA112}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P!rates", "P!rates\P!rates.csproj", "{4F43FBF3-B27F-492E-9754-3F31C76FA112}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secret Chat", "Secret Chat\Secret Chat.csproj", "{B47314D3-18CD-42F4-83E5-D9F56FA93312}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Santa's Secret Helper", "Santa's Secret Helper\Santa's Secret Helper.csproj", "{75D37A17-625C-450E-B367-9BF965890187}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +97,14 @@ Global
 		{4F43FBF3-B27F-492E-9754-3F31C76FA112}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F43FBF3-B27F-492E-9754-3F31C76FA112}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F43FBF3-B27F-492E-9754-3F31C76FA112}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B47314D3-18CD-42F4-83E5-D9F56FA93312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B47314D3-18CD-42F4-83E5-D9F56FA93312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B47314D3-18CD-42F4-83E5-D9F56FA93312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B47314D3-18CD-42F4-83E5-D9F56FA93312}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75D37A17-625C-450E-B367-9BF965890187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75D37A17-625C-450E-B367-9BF965890187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75D37A17-625C-450E-B367-9BF965890187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75D37A17-625C-450E-B367-9BF965890187}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

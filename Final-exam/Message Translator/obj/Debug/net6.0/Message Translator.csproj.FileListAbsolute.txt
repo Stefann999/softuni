@@ -1,0 +1,15 @@
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam\Message Translator\bin\Debug\net6.0\Message Translator.exe
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam\Message Translator\bin\Debug\net6.0\Message Translator.deps.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam\Message Translator\bin\Debug\net6.0\Message Translator.runtimeconfig.json
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam\Message Translator\bin\Debug\net6.0\Message Translator.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam\Message Translator\bin\Debug\net6.0\Message Translator.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam\Message Translator\obj\Debug\net6.0\Message Translator.csproj.AssemblyReference.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam\Message Translator\obj\Debug\net6.0\Message Translator.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam\Message Translator\obj\Debug\net6.0\Message Translator.AssemblyInfoInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam\Message Translator\obj\Debug\net6.0\Message Translator.AssemblyInfo.cs
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam\Message Translator\obj\Debug\net6.0\Message Translator.csproj.CoreCompileInputs.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam\Message Translator\obj\Debug\net6.0\Message Translator.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam\Message Translator\obj\Debug\net6.0\refint\Message Translator.dll
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam\Message Translator\obj\Debug\net6.0\Message Translator.pdb
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam\Message Translator\obj\Debug\net6.0\Message Translator.genruntimeconfig.cache
+E:\SoftUni\Fundamentals\GitHub\softuni\Final-exam\Message Translator\obj\Debug\net6.0\ref\Message Translator.dll
