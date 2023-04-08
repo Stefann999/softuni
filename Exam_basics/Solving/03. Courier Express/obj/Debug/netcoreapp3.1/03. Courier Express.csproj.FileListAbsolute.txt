@@ -1,0 +1,14 @@
+E:\SoftUni\Exam\01. Excursion\03. Courier Express\bin\Debug\netcoreapp3.1\03. Courier Express.exe
+E:\SoftUni\Exam\01. Excursion\03. Courier Express\bin\Debug\netcoreapp3.1\03. Courier Express.deps.json
+E:\SoftUni\Exam\01. Excursion\03. Courier Express\bin\Debug\netcoreapp3.1\03. Courier Express.runtimeconfig.json
+E:\SoftUni\Exam\01. Excursion\03. Courier Express\bin\Debug\netcoreapp3.1\03. Courier Express.runtimeconfig.dev.json
+E:\SoftUni\Exam\01. Excursion\03. Courier Express\bin\Debug\netcoreapp3.1\03. Courier Express.dll
+E:\SoftUni\Exam\01. Excursion\03. Courier Express\bin\Debug\netcoreapp3.1\03. Courier Express.pdb
+E:\SoftUni\Exam\01. Excursion\03. Courier Express\obj\Debug\netcoreapp3.1\03. Courier Express.csproj.AssemblyReference.cache
+E:\SoftUni\Exam\01. Excursion\03. Courier Express\obj\Debug\netcoreapp3.1\03. Courier Express.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Exam\01. Excursion\03. Courier Express\obj\Debug\netcoreapp3.1\03. Courier Express.AssemblyInfoInputs.cache
+E:\SoftUni\Exam\01. Excursion\03. Courier Express\obj\Debug\netcoreapp3.1\03. Courier Express.AssemblyInfo.cs
+E:\SoftUni\Exam\01. Excursion\03. Courier Express\obj\Debug\netcoreapp3.1\03. Courier Express.csproj.CoreCompileInputs.cache
+E:\SoftUni\Exam\01. Excursion\03. Courier Express\obj\Debug\netcoreapp3.1\03. Courier Express.dll
+E:\SoftUni\Exam\01. Excursion\03. Courier Express\obj\Debug\netcoreapp3.1\03. Courier Express.pdb
+E:\SoftUni\Exam\01. Excursion\03. Courier Express\obj\Debug\netcoreapp3.1\03. Courier Express.genruntimeconfig.cache
