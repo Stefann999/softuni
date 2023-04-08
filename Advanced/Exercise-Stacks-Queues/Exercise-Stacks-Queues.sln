@@ -15,9 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Fashion Boutique", "05.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Songs Queue", "06. Songs Queue\06. Songs Queue.csproj", "{94A7CB83-208D-49A5-9F91-9EB85DA035EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Truck Tour", "07. Truck Tour\07. Truck Tour.csproj", "{1CE2FCDF-F320-4202-9D3A-932F8AB3533B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Truck Tour", "07. Truck Tour\07. Truck Tour.csproj", "{1CE2FCDF-F320-4202-9D3A-932F8AB3533B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Balanced Parenthesis", "08. Balanced Parenthesis\08. Balanced Parenthesis.csproj", "{D3B26B57-9262-43EB-9BE7-E7447817E64E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. Balanced Parenthesis", "08. Balanced Parenthesis\08. Balanced Parenthesis.csproj", "{D3B26B57-9262-43EB-9BE7-E7447817E64E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Simple Text Editor", "09. Simple Text Editor\09. Simple Text Editor.csproj", "{6928437E-D4E0-47DF-BDB9-4483E391A29E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{D3B26B57-9262-43EB-9BE7-E7447817E64E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3B26B57-9262-43EB-9BE7-E7447817E64E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3B26B57-9262-43EB-9BE7-E7447817E64E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6928437E-D4E0-47DF-BDB9-4483E391A29E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6928437E-D4E0-47DF-BDB9-4483E391A29E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6928437E-D4E0-47DF-BDB9-4483E391A29E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6928437E-D4E0-47DF-BDB9-4483E391A29E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
