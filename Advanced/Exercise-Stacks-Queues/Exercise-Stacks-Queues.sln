@@ -3,17 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Basic Stack Operations", "01. Basic Stack Operations\01. Basic Stack Operations.csproj", "{5B86E841-E8D5-4BB4-9646-135A39BEAC89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Basic Stack Operations", "01. Basic Stack Operations\01. Basic Stack Operations.csproj", "{5B86E841-E8D5-4BB4-9646-135A39BEAC89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Basic Queue Operations", "02. Basic Queue Operations\02. Basic Queue Operations.csproj", "{8C5589CA-0189-4E03-B808-E2FF11D3D273}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Basic Queue Operations", "02. Basic Queue Operations\02. Basic Queue Operations.csproj", "{8C5589CA-0189-4E03-B808-E2FF11D3D273}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Maximum and Minimum Element", "03. Maximum and Minimum Element\03. Maximum and Minimum Element.csproj", "{793BB2E8-A7E4-45AB-841F-188452E838B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Maximum and Minimum Element", "03. Maximum and Minimum Element\03. Maximum and Minimum Element.csproj", "{793BB2E8-A7E4-45AB-841F-188452E838B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Fast Food", "04. Fast Food\04. Fast Food.csproj", "{E18289D7-6C84-446A-90D3-DBF786357FC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Fast Food", "04. Fast Food\04. Fast Food.csproj", "{E18289D7-6C84-446A-90D3-DBF786357FC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Fashion Boutique", "05. Fashion Boutique\05. Fashion Boutique.csproj", "{D9F014C7-50CB-4EBD-A7CF-B22A2484B3C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Fashion Boutique", "05. Fashion Boutique\05. Fashion Boutique.csproj", "{D9F014C7-50CB-4EBD-A7CF-B22A2484B3C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Songs Queue", "06. Songs Queue\06. Songs Queue.csproj", "{94A7CB83-208D-49A5-9F91-9EB85DA035EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Songs Queue", "06. Songs Queue\06. Songs Queue.csproj", "{94A7CB83-208D-49A5-9F91-9EB85DA035EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Truck Tour", "07. Truck Tour\07. Truck Tour.csproj", "{1CE2FCDF-F320-4202-9D3A-932F8AB3533B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Balanced Parenthesis", "08. Balanced Parenthesis\08. Balanced Parenthesis.csproj", "{D3B26B57-9262-43EB-9BE7-E7447817E64E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{94A7CB83-208D-49A5-9F91-9EB85DA035EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94A7CB83-208D-49A5-9F91-9EB85DA035EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94A7CB83-208D-49A5-9F91-9EB85DA035EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CE2FCDF-F320-4202-9D3A-932F8AB3533B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CE2FCDF-F320-4202-9D3A-932F8AB3533B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CE2FCDF-F320-4202-9D3A-932F8AB3533B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CE2FCDF-F320-4202-9D3A-932F8AB3533B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3B26B57-9262-43EB-9BE7-E7447817E64E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3B26B57-9262-43EB-9BE7-E7447817E64E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3B26B57-9262-43EB-9BE7-E7447817E64E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3B26B57-9262-43EB-9BE7-E7447817E64E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
