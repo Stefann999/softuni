@@ -29,13 +29,6 @@ else
         {
             currNum = stack.Peek();
 
-            if (currNum == cmdArgs[2])
-            {
-                Console.WriteLine(cmdArgs[2]);
-                break;
-            }
-            else
-            {
                 if (currNum < minNum)
                 {
                     minNum = stack.Pop();
@@ -44,7 +37,6 @@ else
                 {
                     stack.Pop();
                 }
-            }
 
         }
         Console.WriteLine(minNum);
