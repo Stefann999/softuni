@@ -1,0 +1,14 @@
+E:\SoftUni\Exam\01. Excursion\05. Best Player\bin\Debug\netcoreapp3.1\05. Best Player.exe
+E:\SoftUni\Exam\01. Excursion\05. Best Player\bin\Debug\netcoreapp3.1\05. Best Player.deps.json
+E:\SoftUni\Exam\01. Excursion\05. Best Player\bin\Debug\netcoreapp3.1\05. Best Player.runtimeconfig.json
+E:\SoftUni\Exam\01. Excursion\05. Best Player\bin\Debug\netcoreapp3.1\05. Best Player.runtimeconfig.dev.json
+E:\SoftUni\Exam\01. Excursion\05. Best Player\bin\Debug\netcoreapp3.1\05. Best Player.dll
+E:\SoftUni\Exam\01. Excursion\05. Best Player\bin\Debug\netcoreapp3.1\05. Best Player.pdb
+E:\SoftUni\Exam\01. Excursion\05. Best Player\obj\Debug\netcoreapp3.1\05. Best Player.csproj.AssemblyReference.cache
+E:\SoftUni\Exam\01. Excursion\05. Best Player\obj\Debug\netcoreapp3.1\05. Best Player.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Exam\01. Excursion\05. Best Player\obj\Debug\netcoreapp3.1\05. Best Player.AssemblyInfoInputs.cache
+E:\SoftUni\Exam\01. Excursion\05. Best Player\obj\Debug\netcoreapp3.1\05. Best Player.AssemblyInfo.cs
+E:\SoftUni\Exam\01. Excursion\05. Best Player\obj\Debug\netcoreapp3.1\05. Best Player.csproj.CoreCompileInputs.cache
+E:\SoftUni\Exam\01. Excursion\05. Best Player\obj\Debug\netcoreapp3.1\05. Best Player.dll
+E:\SoftUni\Exam\01. Excursion\05. Best Player\obj\Debug\netcoreapp3.1\05. Best Player.pdb
+E:\SoftUni\Exam\01. Excursion\05. Best Player\obj\Debug\netcoreapp3.1\05. Best Player.genruntimeconfig.cache
