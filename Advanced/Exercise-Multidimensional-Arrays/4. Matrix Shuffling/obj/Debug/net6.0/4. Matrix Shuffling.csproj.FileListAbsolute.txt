@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\4. Matrix Shuffling\bin\Debug\net6.0\4. Matrix Shuffling.exe
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\4. Matrix Shuffling\bin\Debug\net6.0\4. Matrix Shuffling.deps.json
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\4. Matrix Shuffling\bin\Debug\net6.0\4. Matrix Shuffling.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\4. Matrix Shuffling\bin\Debug\net6.0\4. Matrix Shuffling.dll
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\4. Matrix Shuffling\bin\Debug\net6.0\4. Matrix Shuffling.pdb
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\4. Matrix Shuffling\obj\Debug\net6.0\4. Matrix Shuffling.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\4. Matrix Shuffling\obj\Debug\net6.0\4. Matrix Shuffling.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\4. Matrix Shuffling\obj\Debug\net6.0\4. Matrix Shuffling.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\4. Matrix Shuffling\obj\Debug\net6.0\4. Matrix Shuffling.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\4. Matrix Shuffling\obj\Debug\net6.0\4. Matrix Shuffling.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\4. Matrix Shuffling\obj\Debug\net6.0\4. Matrix Shuffling.dll
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\4. Matrix Shuffling\obj\Debug\net6.0\refint\4. Matrix Shuffling.dll
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\4. Matrix Shuffling\obj\Debug\net6.0\4. Matrix Shuffling.pdb
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\4. Matrix Shuffling\obj\Debug\net6.0\4. Matrix Shuffling.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\4. Matrix Shuffling\obj\Debug\net6.0\ref\4. Matrix Shuffling.dll

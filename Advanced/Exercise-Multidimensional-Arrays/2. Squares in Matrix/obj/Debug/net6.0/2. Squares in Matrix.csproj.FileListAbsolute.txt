@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\2. Squares in Matrix\bin\Debug\net6.0\2. Squares in Matrix.exe
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\2. Squares in Matrix\bin\Debug\net6.0\2. Squares in Matrix.deps.json
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\2. Squares in Matrix\bin\Debug\net6.0\2. Squares in Matrix.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\2. Squares in Matrix\bin\Debug\net6.0\2. Squares in Matrix.dll
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\2. Squares in Matrix\bin\Debug\net6.0\2. Squares in Matrix.pdb
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.dll
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\2. Squares in Matrix\obj\Debug\net6.0\refint\2. Squares in Matrix.dll
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.pdb
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\2. Squares in Matrix\obj\Debug\net6.0\ref\2. Squares in Matrix.dll

@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\3. Maximal Sum\bin\Debug\net6.0\3. Maximal Sum.exe
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\3. Maximal Sum\bin\Debug\net6.0\3. Maximal Sum.deps.json
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\3. Maximal Sum\bin\Debug\net6.0\3. Maximal Sum.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\3. Maximal Sum\bin\Debug\net6.0\3. Maximal Sum.dll
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\3. Maximal Sum\bin\Debug\net6.0\3. Maximal Sum.pdb
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.dll
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\3. Maximal Sum\obj\Debug\net6.0\refint\3. Maximal Sum.dll
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.pdb
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\3. Maximal Sum\obj\Debug\net6.0\ref\3. Maximal Sum.dll

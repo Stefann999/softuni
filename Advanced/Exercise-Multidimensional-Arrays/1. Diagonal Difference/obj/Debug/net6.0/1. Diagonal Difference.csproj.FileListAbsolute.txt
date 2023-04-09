@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\1. Diagonal Difference\bin\Debug\net6.0\1. Diagonal Difference.exe
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\1. Diagonal Difference\bin\Debug\net6.0\1. Diagonal Difference.deps.json
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\1. Diagonal Difference\bin\Debug\net6.0\1. Diagonal Difference.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\1. Diagonal Difference\bin\Debug\net6.0\1. Diagonal Difference.dll
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\1. Diagonal Difference\bin\Debug\net6.0\1. Diagonal Difference.pdb
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\1. Diagonal Difference\obj\Debug\net6.0\1. Diagonal Difference.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\1. Diagonal Difference\obj\Debug\net6.0\1. Diagonal Difference.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\1. Diagonal Difference\obj\Debug\net6.0\1. Diagonal Difference.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\1. Diagonal Difference\obj\Debug\net6.0\1. Diagonal Difference.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\1. Diagonal Difference\obj\Debug\net6.0\1. Diagonal Difference.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\1. Diagonal Difference\obj\Debug\net6.0\1. Diagonal Difference.dll
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\1. Diagonal Difference\obj\Debug\net6.0\refint\1. Diagonal Difference.dll
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\1. Diagonal Difference\obj\Debug\net6.0\1. Diagonal Difference.pdb
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\1. Diagonal Difference\obj\Debug\net6.0\1. Diagonal Difference.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\Exercise-Multidimensional-Arrays\1. Diagonal Difference\obj\Debug\net6.0\ref\1. Diagonal Difference.dll
