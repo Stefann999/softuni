@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\01. Unique Usernames\03. Periodic Table\bin\Debug\net6.0\03. Periodic Table.exe
+E:\SoftUni\softuni\Advanced\01. Unique Usernames\03. Periodic Table\bin\Debug\net6.0\03. Periodic Table.deps.json
+E:\SoftUni\softuni\Advanced\01. Unique Usernames\03. Periodic Table\bin\Debug\net6.0\03. Periodic Table.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\01. Unique Usernames\03. Periodic Table\bin\Debug\net6.0\03. Periodic Table.dll
+E:\SoftUni\softuni\Advanced\01. Unique Usernames\03. Periodic Table\bin\Debug\net6.0\03. Periodic Table.pdb
+E:\SoftUni\softuni\Advanced\01. Unique Usernames\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\01. Unique Usernames\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\01. Unique Usernames\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\01. Unique Usernames\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\01. Unique Usernames\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\01. Unique Usernames\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.dll
+E:\SoftUni\softuni\Advanced\01. Unique Usernames\03. Periodic Table\obj\Debug\net6.0\refint\03. Periodic Table.dll
+E:\SoftUni\softuni\Advanced\01. Unique Usernames\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.pdb
+E:\SoftUni\softuni\Advanced\01. Unique Usernames\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\01. Unique Usernames\03. Periodic Table\obj\Debug\net6.0\ref\03. Periodic Table.dll

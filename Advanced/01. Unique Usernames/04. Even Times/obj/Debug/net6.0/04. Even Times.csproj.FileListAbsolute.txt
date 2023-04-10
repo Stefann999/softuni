@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\01. Unique Usernames\04. Even Times\bin\Debug\net6.0\04. Even Times.exe
+E:\SoftUni\softuni\Advanced\01. Unique Usernames\04. Even Times\bin\Debug\net6.0\04. Even Times.deps.json
+E:\SoftUni\softuni\Advanced\01. Unique Usernames\04. Even Times\bin\Debug\net6.0\04. Even Times.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\01. Unique Usernames\04. Even Times\bin\Debug\net6.0\04. Even Times.dll
+E:\SoftUni\softuni\Advanced\01. Unique Usernames\04. Even Times\bin\Debug\net6.0\04. Even Times.pdb
+E:\SoftUni\softuni\Advanced\01. Unique Usernames\04. Even Times\obj\Debug\net6.0\04. Even Times.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\01. Unique Usernames\04. Even Times\obj\Debug\net6.0\04. Even Times.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\01. Unique Usernames\04. Even Times\obj\Debug\net6.0\04. Even Times.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\01. Unique Usernames\04. Even Times\obj\Debug\net6.0\04. Even Times.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\01. Unique Usernames\04. Even Times\obj\Debug\net6.0\04. Even Times.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\01. Unique Usernames\04. Even Times\obj\Debug\net6.0\04. Even Times.dll
+E:\SoftUni\softuni\Advanced\01. Unique Usernames\04. Even Times\obj\Debug\net6.0\refint\04. Even Times.dll
+E:\SoftUni\softuni\Advanced\01. Unique Usernames\04. Even Times\obj\Debug\net6.0\04. Even Times.pdb
+E:\SoftUni\softuni\Advanced\01. Unique Usernames\04. Even Times\obj\Debug\net6.0\04. Even Times.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\01. Unique Usernames\04. Even Times\obj\Debug\net6.0\ref\04. Even Times.dll
