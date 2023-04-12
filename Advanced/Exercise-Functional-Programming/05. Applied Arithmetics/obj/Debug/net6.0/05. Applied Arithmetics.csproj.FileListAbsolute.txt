@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\Exercise-Functional-Programming\05. Applied Arithmetics\bin\Debug\net6.0\05. Applied Arithmetics.exe
+E:\SoftUni\softuni\Advanced\Exercise-Functional-Programming\05. Applied Arithmetics\bin\Debug\net6.0\05. Applied Arithmetics.deps.json
+E:\SoftUni\softuni\Advanced\Exercise-Functional-Programming\05. Applied Arithmetics\bin\Debug\net6.0\05. Applied Arithmetics.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\Exercise-Functional-Programming\05. Applied Arithmetics\bin\Debug\net6.0\05. Applied Arithmetics.dll
+E:\SoftUni\softuni\Advanced\Exercise-Functional-Programming\05. Applied Arithmetics\bin\Debug\net6.0\05. Applied Arithmetics.pdb
+E:\SoftUni\softuni\Advanced\Exercise-Functional-Programming\05. Applied Arithmetics\obj\Debug\net6.0\05. Applied Arithmetics.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\Exercise-Functional-Programming\05. Applied Arithmetics\obj\Debug\net6.0\05. Applied Arithmetics.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\Exercise-Functional-Programming\05. Applied Arithmetics\obj\Debug\net6.0\05. Applied Arithmetics.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\Exercise-Functional-Programming\05. Applied Arithmetics\obj\Debug\net6.0\05. Applied Arithmetics.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\Exercise-Functional-Programming\05. Applied Arithmetics\obj\Debug\net6.0\05. Applied Arithmetics.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\Exercise-Functional-Programming\05. Applied Arithmetics\obj\Debug\net6.0\05. Applied Arithmetics.dll
+E:\SoftUni\softuni\Advanced\Exercise-Functional-Programming\05. Applied Arithmetics\obj\Debug\net6.0\refint\05. Applied Arithmetics.dll
+E:\SoftUni\softuni\Advanced\Exercise-Functional-Programming\05. Applied Arithmetics\obj\Debug\net6.0\05. Applied Arithmetics.pdb
+E:\SoftUni\softuni\Advanced\Exercise-Functional-Programming\05. Applied Arithmetics\obj\Debug\net6.0\05. Applied Arithmetics.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\Exercise-Functional-Programming\05. Applied Arithmetics\obj\Debug\net6.0\ref\05. Applied Arithmetics.dll

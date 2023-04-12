@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\Exercise-Streams-Files-Directories\Skeleton-Exercise\EvenLines\bin\Debug\net6.0\EvenLines.exe
+E:\SoftUni\softuni\Advanced\Exercise-Streams-Files-Directories\Skeleton-Exercise\EvenLines\bin\Debug\net6.0\EvenLines.deps.json
+E:\SoftUni\softuni\Advanced\Exercise-Streams-Files-Directories\Skeleton-Exercise\EvenLines\bin\Debug\net6.0\EvenLines.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\Exercise-Streams-Files-Directories\Skeleton-Exercise\EvenLines\bin\Debug\net6.0\EvenLines.dll
+E:\SoftUni\softuni\Advanced\Exercise-Streams-Files-Directories\Skeleton-Exercise\EvenLines\bin\Debug\net6.0\EvenLines.pdb
+E:\SoftUni\softuni\Advanced\Exercise-Streams-Files-Directories\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\Exercise-Streams-Files-Directories\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\Exercise-Streams-Files-Directories\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\Exercise-Streams-Files-Directories\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\Exercise-Streams-Files-Directories\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\Exercise-Streams-Files-Directories\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.dll
+E:\SoftUni\softuni\Advanced\Exercise-Streams-Files-Directories\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\refint\EvenLines.dll
+E:\SoftUni\softuni\Advanced\Exercise-Streams-Files-Directories\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.pdb
+E:\SoftUni\softuni\Advanced\Exercise-Streams-Files-Directories\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\Exercise-Streams-Files-Directories\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\ref\EvenLines.dll
