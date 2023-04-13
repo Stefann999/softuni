@@ -1,5 +1,0 @@
-E:\SoftUni\softuni\Advanced\Exercise-Stacks-Queues\07. Truck Tour\obj\Debug\net6.0\07. Truck Tour.csproj.AssemblyReference.cache
-E:\SoftUni\softuni\Advanced\Exercise-Stacks-Queues\07. Truck Tour\obj\Debug\net6.0\07. Truck Tour.GeneratedMSBuildEditorConfig.editorconfig
-E:\SoftUni\softuni\Advanced\Exercise-Stacks-Queues\07. Truck Tour\obj\Debug\net6.0\07. Truck Tour.AssemblyInfoInputs.cache
-E:\SoftUni\softuni\Advanced\Exercise-Stacks-Queues\07. Truck Tour\obj\Debug\net6.0\07. Truck Tour.AssemblyInfo.cs
-E:\SoftUni\softuni\Advanced\Exercise-Stacks-Queues\07. Truck Tour\obj\Debug\net6.0\07. Truck Tour.csproj.CoreCompileInputs.cache
