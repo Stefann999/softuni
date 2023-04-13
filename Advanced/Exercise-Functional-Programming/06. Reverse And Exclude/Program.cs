@@ -1,5 +1,5 @@
-﻿int[] input = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
-int n = int.Parse(Console.ReadLine());
+﻿int n = int.Parse(Console.ReadLine());
+int[] input = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
 
 List<int> numsForPrint = new();
 
