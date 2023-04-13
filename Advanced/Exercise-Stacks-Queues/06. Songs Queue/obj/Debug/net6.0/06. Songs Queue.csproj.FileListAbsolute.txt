@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\Exercise-Stacks-Queues\06. Songs Queue\bin\Debug\net6.0\06. Songs Queue.exe
+E:\SoftUni\softuni\Advanced\Exercise-Stacks-Queues\06. Songs Queue\bin\Debug\net6.0\06. Songs Queue.deps.json
+E:\SoftUni\softuni\Advanced\Exercise-Stacks-Queues\06. Songs Queue\bin\Debug\net6.0\06. Songs Queue.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\Exercise-Stacks-Queues\06. Songs Queue\bin\Debug\net6.0\06. Songs Queue.dll
+E:\SoftUni\softuni\Advanced\Exercise-Stacks-Queues\06. Songs Queue\bin\Debug\net6.0\06. Songs Queue.pdb
+E:\SoftUni\softuni\Advanced\Exercise-Stacks-Queues\06. Songs Queue\obj\Debug\net6.0\06. Songs Queue.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\Exercise-Stacks-Queues\06. Songs Queue\obj\Debug\net6.0\06. Songs Queue.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\Exercise-Stacks-Queues\06. Songs Queue\obj\Debug\net6.0\06. Songs Queue.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\Exercise-Stacks-Queues\06. Songs Queue\obj\Debug\net6.0\06. Songs Queue.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\Exercise-Stacks-Queues\06. Songs Queue\obj\Debug\net6.0\06. Songs Queue.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\Exercise-Stacks-Queues\06. Songs Queue\obj\Debug\net6.0\06. Songs Queue.dll
+E:\SoftUni\softuni\Advanced\Exercise-Stacks-Queues\06. Songs Queue\obj\Debug\net6.0\refint\06. Songs Queue.dll
+E:\SoftUni\softuni\Advanced\Exercise-Stacks-Queues\06. Songs Queue\obj\Debug\net6.0\06. Songs Queue.pdb
+E:\SoftUni\softuni\Advanced\Exercise-Stacks-Queues\06. Songs Queue\obj\Debug\net6.0\06. Songs Queue.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\Exercise-Stacks-Queues\06. Songs Queue\obj\Debug\net6.0\ref\06. Songs Queue.dll
