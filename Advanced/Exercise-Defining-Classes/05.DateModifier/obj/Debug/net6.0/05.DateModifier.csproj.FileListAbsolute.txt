@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\05.DateModifier\bin\Debug\net6.0\05.DateModifier.exe
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\05.DateModifier\bin\Debug\net6.0\05.DateModifier.deps.json
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\05.DateModifier\bin\Debug\net6.0\05.DateModifier.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\05.DateModifier\bin\Debug\net6.0\05.DateModifier.dll
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\05.DateModifier\bin\Debug\net6.0\05.DateModifier.pdb
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\05.DateModifier\obj\Debug\net6.0\05.DateModifier.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\05.DateModifier\obj\Debug\net6.0\05.DateModifier.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\05.DateModifier\obj\Debug\net6.0\05.DateModifier.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\05.DateModifier\obj\Debug\net6.0\05.DateModifier.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\05.DateModifier\obj\Debug\net6.0\05.DateModifier.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\05.DateModifier\obj\Debug\net6.0\05.DateModifier.dll
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\05.DateModifier\obj\Debug\net6.0\refint\05.DateModifier.dll
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\05.DateModifier\obj\Debug\net6.0\05.DateModifier.pdb
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\05.DateModifier\obj\Debug\net6.0\05.DateModifier.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\05.DateModifier\obj\Debug\net6.0\ref\05.DateModifier.dll

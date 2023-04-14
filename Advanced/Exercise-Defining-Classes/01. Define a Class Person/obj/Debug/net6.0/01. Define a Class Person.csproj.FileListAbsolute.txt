@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\01. Define a Class Person\bin\Debug\net6.0\01. Define a Class Person.exe
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\01. Define a Class Person\bin\Debug\net6.0\01. Define a Class Person.deps.json
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\01. Define a Class Person\bin\Debug\net6.0\01. Define a Class Person.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\01. Define a Class Person\bin\Debug\net6.0\01. Define a Class Person.dll
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\01. Define a Class Person\bin\Debug\net6.0\01. Define a Class Person.pdb
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\01. Define a Class Person\obj\Debug\net6.0\01. Define a Class Person.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\01. Define a Class Person\obj\Debug\net6.0\01. Define a Class Person.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\01. Define a Class Person\obj\Debug\net6.0\01. Define a Class Person.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\01. Define a Class Person\obj\Debug\net6.0\01. Define a Class Person.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\01. Define a Class Person\obj\Debug\net6.0\01. Define a Class Person.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\01. Define a Class Person\obj\Debug\net6.0\01. Define a Class Person.dll
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\01. Define a Class Person\obj\Debug\net6.0\refint\01. Define a Class Person.dll
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\01. Define a Class Person\obj\Debug\net6.0\01. Define a Class Person.pdb
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\01. Define a Class Person\obj\Debug\net6.0\01. Define a Class Person.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\01. Define a Class Person\obj\Debug\net6.0\ref\01. Define a Class Person.dll

@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\02. Creating Constructors\bin\Debug\net6.0\02.CreatingConstructors.exe
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\02. Creating Constructors\bin\Debug\net6.0\02.CreatingConstructors.deps.json
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\02. Creating Constructors\bin\Debug\net6.0\02.CreatingConstructors.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\02. Creating Constructors\bin\Debug\net6.0\02.CreatingConstructors.dll
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\02. Creating Constructors\bin\Debug\net6.0\02.CreatingConstructors.pdb
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\02. Creating Constructors\obj\Debug\net6.0\02.CreatingConstructors.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\02. Creating Constructors\obj\Debug\net6.0\02.CreatingConstructors.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\02. Creating Constructors\obj\Debug\net6.0\02.CreatingConstructors.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\02. Creating Constructors\obj\Debug\net6.0\02.CreatingConstructors.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\02. Creating Constructors\obj\Debug\net6.0\02.CreatingConstructors.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\02. Creating Constructors\obj\Debug\net6.0\02.CreatingConstructors.dll
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\02. Creating Constructors\obj\Debug\net6.0\refint\02.CreatingConstructors.dll
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\02. Creating Constructors\obj\Debug\net6.0\02.CreatingConstructors.pdb
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\02. Creating Constructors\obj\Debug\net6.0\02.CreatingConstructors.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\02. Creating Constructors\obj\Debug\net6.0\ref\02.CreatingConstructors.dll

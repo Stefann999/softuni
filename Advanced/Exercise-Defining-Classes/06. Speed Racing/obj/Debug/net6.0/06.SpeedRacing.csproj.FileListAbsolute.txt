@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\06. Speed Racing\bin\Debug\net6.0\06.SpeedRacing.exe
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\06. Speed Racing\bin\Debug\net6.0\06.SpeedRacing.deps.json
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\06. Speed Racing\bin\Debug\net6.0\06.SpeedRacing.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\06. Speed Racing\bin\Debug\net6.0\06.SpeedRacing.dll
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\06. Speed Racing\bin\Debug\net6.0\06.SpeedRacing.pdb
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\06. Speed Racing\obj\Debug\net6.0\06.SpeedRacing.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\06. Speed Racing\obj\Debug\net6.0\06.SpeedRacing.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\06. Speed Racing\obj\Debug\net6.0\06.SpeedRacing.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\06. Speed Racing\obj\Debug\net6.0\06.SpeedRacing.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\06. Speed Racing\obj\Debug\net6.0\06.SpeedRacing.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\06. Speed Racing\obj\Debug\net6.0\06.SpeedRacing.dll
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\06. Speed Racing\obj\Debug\net6.0\refint\06.SpeedRacing.dll
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\06. Speed Racing\obj\Debug\net6.0\06.SpeedRacing.pdb
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\06. Speed Racing\obj\Debug\net6.0\06.SpeedRacing.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\06. Speed Racing\obj\Debug\net6.0\ref\06.SpeedRacing.dll

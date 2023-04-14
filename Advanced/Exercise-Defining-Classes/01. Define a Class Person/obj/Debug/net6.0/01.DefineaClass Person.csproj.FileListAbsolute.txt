@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\01. Define a Class Person\obj\Debug\net6.0\01.DefineaClass Person.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\01. Define a Class Person\obj\Debug\net6.0\01.DefineaClass Person.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\01. Define a Class Person\obj\Debug\net6.0\01.DefineaClass Person.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\01. Define a Class Person\obj\Debug\net6.0\01.DefineaClass Person.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\01. Define a Class Person\obj\Debug\net6.0\01.DefineaClass Person.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\01. Define a Class Person\bin\Debug\net6.0\01.DefineaClass Person.exe
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\01. Define a Class Person\bin\Debug\net6.0\01.DefineaClass Person.deps.json
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\01. Define a Class Person\bin\Debug\net6.0\01.DefineaClass Person.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\01. Define a Class Person\bin\Debug\net6.0\01.DefineaClass Person.dll
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\01. Define a Class Person\bin\Debug\net6.0\01.DefineaClass Person.pdb
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\01. Define a Class Person\obj\Debug\net6.0\01.DefineaClass Person.dll
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\01. Define a Class Person\obj\Debug\net6.0\refint\01.DefineaClass Person.dll
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\01. Define a Class Person\obj\Debug\net6.0\01.DefineaClass Person.pdb
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\01. Define a Class Person\obj\Debug\net6.0\01.DefineaClass Person.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\Exercise-Defining-Classes\01. Define a Class Person\obj\Debug\net6.0\ref\01.DefineaClass Person.dll
