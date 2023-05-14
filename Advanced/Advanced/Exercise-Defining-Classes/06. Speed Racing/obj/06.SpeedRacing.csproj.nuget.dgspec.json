@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\SoftUni\\softuni\\Advanced\\Exercise-Defining-Classes\\06. Speed Racing\\06.SpeedRacing.csproj": {}
+    "E:\\SoftUni\\softuni\\Advanced\\Advanced\\Exercise-Defining-Classes\\06. Speed Racing\\06.SpeedRacing.csproj": {}
   },
   "projects": {
-    "E:\\SoftUni\\softuni\\Advanced\\Exercise-Defining-Classes\\06. Speed Racing\\06.SpeedRacing.csproj": {
+    "E:\\SoftUni\\softuni\\Advanced\\Advanced\\Exercise-Defining-Classes\\06. Speed Racing\\06.SpeedRacing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SoftUni\\softuni\\Advanced\\Exercise-Defining-Classes\\06. Speed Racing\\06.SpeedRacing.csproj",
+        "projectUniqueName": "E:\\SoftUni\\softuni\\Advanced\\Advanced\\Exercise-Defining-Classes\\06. Speed Racing\\06.SpeedRacing.csproj",
         "projectName": "06.SpeedRacing",
-        "projectPath": "E:\\SoftUni\\softuni\\Advanced\\Exercise-Defining-Classes\\06. Speed Racing\\06.SpeedRacing.csproj",
+        "projectPath": "E:\\SoftUni\\softuni\\Advanced\\Advanced\\Exercise-Defining-Classes\\06. Speed Racing\\06.SpeedRacing.csproj",
         "packagesPath": "C:\\Users\\stefc\\.nuget\\packages\\",
-        "outputPath": "E:\\SoftUni\\softuni\\Advanced\\Exercise-Defining-Classes\\06. Speed Racing\\obj\\",
+        "outputPath": "E:\\SoftUni\\softuni\\Advanced\\Advanced\\Exercise-Defining-Classes\\06. Speed Racing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

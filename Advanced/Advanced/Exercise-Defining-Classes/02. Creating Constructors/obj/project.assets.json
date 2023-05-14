@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\SoftUni\\softuni\\Advanced\\Exercise-Defining-Classes\\02. Creating Constructors\\02.CreatingConstructors.csproj",
+      "projectUniqueName": "E:\\SoftUni\\softuni\\Advanced\\Advanced\\Exercise-Defining-Classes\\02. Creating Constructors\\02.CreatingConstructors.csproj",
       "projectName": "02.CreatingConstructors",
-      "projectPath": "E:\\SoftUni\\softuni\\Advanced\\Exercise-Defining-Classes\\02. Creating Constructors\\02.CreatingConstructors.csproj",
+      "projectPath": "E:\\SoftUni\\softuni\\Advanced\\Advanced\\Exercise-Defining-Classes\\02. Creating Constructors\\02.CreatingConstructors.csproj",
       "packagesPath": "C:\\Users\\stefc\\.nuget\\packages\\",
-      "outputPath": "E:\\SoftUni\\softuni\\Advanced\\Exercise-Defining-Classes\\02. Creating Constructors\\obj\\",
+      "outputPath": "E:\\SoftUni\\softuni\\Advanced\\Advanced\\Exercise-Defining-Classes\\02. Creating Constructors\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

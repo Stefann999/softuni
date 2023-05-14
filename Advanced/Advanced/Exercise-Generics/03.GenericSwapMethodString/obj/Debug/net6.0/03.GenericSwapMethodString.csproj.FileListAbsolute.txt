@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\03.GenericSwapMethodString\bin\Debug\net6.0\03.GenericSwapMethodString.exe
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\03.GenericSwapMethodString\bin\Debug\net6.0\03.GenericSwapMethodString.deps.json
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\03.GenericSwapMethodString\bin\Debug\net6.0\03.GenericSwapMethodString.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\03.GenericSwapMethodString\bin\Debug\net6.0\03.GenericSwapMethodString.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\03.GenericSwapMethodString\bin\Debug\net6.0\03.GenericSwapMethodString.pdb
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\03.GenericSwapMethodString\obj\Debug\net6.0\03.GenericSwapMethodString.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\03.GenericSwapMethodString\obj\Debug\net6.0\03.GenericSwapMethodString.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\03.GenericSwapMethodString\obj\Debug\net6.0\03.GenericSwapMethodString.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\03.GenericSwapMethodString\obj\Debug\net6.0\03.GenericSwapMethodString.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\03.GenericSwapMethodString\obj\Debug\net6.0\03.GenericSwapMethodString.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\03.GenericSwapMethodString\obj\Debug\net6.0\03.GenericSwapMethodString.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\03.GenericSwapMethodString\obj\Debug\net6.0\refint\03.GenericSwapMethodString.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\03.GenericSwapMethodString\obj\Debug\net6.0\03.GenericSwapMethodString.pdb
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\03.GenericSwapMethodString\obj\Debug\net6.0\03.GenericSwapMethodString.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\03.GenericSwapMethodString\obj\Debug\net6.0\ref\03.GenericSwapMethodString.dll

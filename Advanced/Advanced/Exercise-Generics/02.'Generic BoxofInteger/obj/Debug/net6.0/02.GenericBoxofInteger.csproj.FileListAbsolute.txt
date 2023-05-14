@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\02.'Generic BoxofInteger\bin\Debug\net6.0\02.GenericBoxofInteger.exe
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\02.'Generic BoxofInteger\bin\Debug\net6.0\02.GenericBoxofInteger.deps.json
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\02.'Generic BoxofInteger\bin\Debug\net6.0\02.GenericBoxofInteger.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\02.'Generic BoxofInteger\bin\Debug\net6.0\02.GenericBoxofInteger.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\02.'Generic BoxofInteger\bin\Debug\net6.0\02.GenericBoxofInteger.pdb
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\02.'Generic BoxofInteger\obj\Debug\net6.0\02.GenericBoxofInteger.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\02.'Generic BoxofInteger\obj\Debug\net6.0\02.GenericBoxofInteger.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\02.'Generic BoxofInteger\obj\Debug\net6.0\02.GenericBoxofInteger.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\02.'Generic BoxofInteger\obj\Debug\net6.0\02.GenericBoxofInteger.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\02.'Generic BoxofInteger\obj\Debug\net6.0\02.GenericBoxofInteger.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\02.'Generic BoxofInteger\obj\Debug\net6.0\02.GenericBoxofInteger.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\02.'Generic BoxofInteger\obj\Debug\net6.0\refint\02.GenericBoxofInteger.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\02.'Generic BoxofInteger\obj\Debug\net6.0\02.GenericBoxofInteger.pdb
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\02.'Generic BoxofInteger\obj\Debug\net6.0\02.GenericBoxofInteger.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\02.'Generic BoxofInteger\obj\Debug\net6.0\ref\02.GenericBoxofInteger.dll

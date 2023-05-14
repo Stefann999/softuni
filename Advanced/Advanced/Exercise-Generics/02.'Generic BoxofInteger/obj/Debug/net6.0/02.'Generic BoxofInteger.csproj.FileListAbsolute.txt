@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\02.'Generic BoxofInteger\obj\Debug\net6.0\02.'Generic BoxofInteger.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\02.'Generic BoxofInteger\obj\Debug\net6.0\02.'Generic BoxofInteger.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\02.'Generic BoxofInteger\obj\Debug\net6.0\02.'Generic BoxofInteger.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\02.'Generic BoxofInteger\obj\Debug\net6.0\02.'Generic BoxofInteger.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\02.'Generic BoxofInteger\obj\Debug\net6.0\02.'Generic BoxofInteger.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\02.'Generic BoxofInteger\bin\Debug\net6.0\02.'Generic BoxofInteger.exe
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\02.'Generic BoxofInteger\bin\Debug\net6.0\02.'Generic BoxofInteger.deps.json
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\02.'Generic BoxofInteger\bin\Debug\net6.0\02.'Generic BoxofInteger.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\02.'Generic BoxofInteger\bin\Debug\net6.0\02.'Generic BoxofInteger.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\02.'Generic BoxofInteger\bin\Debug\net6.0\02.'Generic BoxofInteger.pdb
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\02.'Generic BoxofInteger\obj\Debug\net6.0\02.'Generic BoxofInteger.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\02.'Generic BoxofInteger\obj\Debug\net6.0\refint\02.'Generic BoxofInteger.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\02.'Generic BoxofInteger\obj\Debug\net6.0\02.'Generic BoxofInteger.pdb
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\02.'Generic BoxofInteger\obj\Debug\net6.0\02.'Generic BoxofInteger.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\02.'Generic BoxofInteger\obj\Debug\net6.0\ref\02.'Generic BoxofInteger.dll

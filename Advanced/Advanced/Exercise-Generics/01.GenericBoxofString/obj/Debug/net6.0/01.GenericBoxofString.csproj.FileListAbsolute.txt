@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\01.GenericBoxofString\obj\Debug\net6.0\01.GenericBoxofString.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\01.GenericBoxofString\obj\Debug\net6.0\01.GenericBoxofString.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\01.GenericBoxofString\obj\Debug\net6.0\01.GenericBoxofString.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\01.GenericBoxofString\obj\Debug\net6.0\01.GenericBoxofString.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\01.GenericBoxofString\obj\Debug\net6.0\01.GenericBoxofString.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\01.GenericBoxofString\bin\Debug\net6.0\01.GenericBoxofString.exe
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\01.GenericBoxofString\bin\Debug\net6.0\01.GenericBoxofString.deps.json
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\01.GenericBoxofString\bin\Debug\net6.0\01.GenericBoxofString.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\01.GenericBoxofString\bin\Debug\net6.0\01.GenericBoxofString.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\01.GenericBoxofString\bin\Debug\net6.0\01.GenericBoxofString.pdb
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\01.GenericBoxofString\obj\Debug\net6.0\01.GenericBoxofString.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\01.GenericBoxofString\obj\Debug\net6.0\refint\01.GenericBoxofString.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\01.GenericBoxofString\obj\Debug\net6.0\01.GenericBoxofString.pdb
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\01.GenericBoxofString\obj\Debug\net6.0\01.GenericBoxofString.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\01.GenericBoxofString\obj\Debug\net6.0\ref\01.GenericBoxofString.dll
