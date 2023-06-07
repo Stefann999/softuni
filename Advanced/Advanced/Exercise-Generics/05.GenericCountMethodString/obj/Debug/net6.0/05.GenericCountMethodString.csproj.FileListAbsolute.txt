@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\05.GenericCountMethodString\bin\Debug\net6.0\05.GenericCountMethodString.exe
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\05.GenericCountMethodString\bin\Debug\net6.0\05.GenericCountMethodString.deps.json
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\05.GenericCountMethodString\bin\Debug\net6.0\05.GenericCountMethodString.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\05.GenericCountMethodString\bin\Debug\net6.0\05.GenericCountMethodString.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\05.GenericCountMethodString\bin\Debug\net6.0\05.GenericCountMethodString.pdb
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\05.GenericCountMethodString\obj\Debug\net6.0\05.GenericCountMethodString.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\05.GenericCountMethodString\obj\Debug\net6.0\05.GenericCountMethodString.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\05.GenericCountMethodString\obj\Debug\net6.0\05.GenericCountMethodString.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\05.GenericCountMethodString\obj\Debug\net6.0\05.GenericCountMethodString.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\05.GenericCountMethodString\obj\Debug\net6.0\05.GenericCountMethodString.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\05.GenericCountMethodString\obj\Debug\net6.0\05.GenericCountMethodString.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\05.GenericCountMethodString\obj\Debug\net6.0\refint\05.GenericCountMethodString.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\05.GenericCountMethodString\obj\Debug\net6.0\05.GenericCountMethodString.pdb
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\05.GenericCountMethodString\obj\Debug\net6.0\05.GenericCountMethodString.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exercise-Generics\05.GenericCountMethodString\obj\Debug\net6.0\ref\05.GenericCountMethodString.dll

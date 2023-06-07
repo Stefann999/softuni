@@ -3,13 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.GenericBoxofString", "01.GenericBoxofString\01.GenericBoxofString.csproj", "{7440EC63-5586-4865-A257-F3862DB91FCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.GenericBoxofString", "01.GenericBoxofString\01.GenericBoxofString.csproj", "{7440EC63-5586-4865-A257-F3862DB91FCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.GenericBoxofInteger", "02.'Generic BoxofInteger\02.GenericBoxofInteger.csproj", "{1E6B4B01-1505-4C73-BABC-D2A59FF70053}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.GenericBoxofInteger", "02.'Generic BoxofInteger\02.GenericBoxofInteger.csproj", "{1E6B4B01-1505-4C73-BABC-D2A59FF70053}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.GenericSwapMethodString", "03.GenericSwapMethodString\03.GenericSwapMethodString.csproj", "{4BAD5792-17EE-4326-A02E-98CF8FA4E3BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.GenericSwapMethodString", "03.GenericSwapMethodString\03.GenericSwapMethodString.csproj", "{4BAD5792-17EE-4326-A02E-98CF8FA4E3BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.GenericSwapMethodInteger", "04.GenericSwapMethodInteger\04.GenericSwapMethodInteger.csproj", "{0F3F90F4-BBEC-4123-8840-8EB24EC292F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.GenericSwapMethodInteger", "04.GenericSwapMethodInteger\04.GenericSwapMethodInteger.csproj", "{0F3F90F4-BBEC-4123-8840-8EB24EC292F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.GenericCountMethodString", "05.GenericCountMethodString\05.GenericCountMethodString.csproj", "{F10D963F-BE55-4509-B36E-387ECE9D71D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.GenericCountMethodDouble", "06.GenericCountMethodDouble\06.GenericCountMethodDouble.csproj", "{1E8C0110-3F20-40CD-8717-FB8F2B4D446F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Tuple", "07.Tuple\07.Tuple.csproj", "{FB216291-17DE-4667-A28B-E78B02F708AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.Threeuple", "08.Threeuple\08.Threeuple.csproj", "{570E6AC0-3D6C-49F7-A7EB-BE359FC82583}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +41,22 @@ Global
 		{0F3F90F4-BBEC-4123-8840-8EB24EC292F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F3F90F4-BBEC-4123-8840-8EB24EC292F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F3F90F4-BBEC-4123-8840-8EB24EC292F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F10D963F-BE55-4509-B36E-387ECE9D71D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F10D963F-BE55-4509-B36E-387ECE9D71D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F10D963F-BE55-4509-B36E-387ECE9D71D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F10D963F-BE55-4509-B36E-387ECE9D71D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E8C0110-3F20-40CD-8717-FB8F2B4D446F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E8C0110-3F20-40CD-8717-FB8F2B4D446F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E8C0110-3F20-40CD-8717-FB8F2B4D446F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E8C0110-3F20-40CD-8717-FB8F2B4D446F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB216291-17DE-4667-A28B-E78B02F708AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB216291-17DE-4667-A28B-E78B02F708AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB216291-17DE-4667-A28B-E78B02F708AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB216291-17DE-4667-A28B-E78B02F708AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{570E6AC0-3D6C-49F7-A7EB-BE359FC82583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{570E6AC0-3D6C-49F7-A7EB-BE359FC82583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{570E6AC0-3D6C-49F7-A7EB-BE359FC82583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{570E6AC0-3D6C-49F7-A7EB-BE359FC82583}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
