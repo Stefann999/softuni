@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\Shoe Store_Skeleton_6.0\bin\Debug\net6.0\ShoeStore.exe
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\Shoe Store_Skeleton_6.0\bin\Debug\net6.0\ShoeStore.deps.json
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\Shoe Store_Skeleton_6.0\bin\Debug\net6.0\ShoeStore.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\Shoe Store_Skeleton_6.0\bin\Debug\net6.0\ShoeStore.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\Shoe Store_Skeleton_6.0\bin\Debug\net6.0\ShoeStore.pdb
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\Shoe Store_Skeleton_6.0\obj\Debug\net6.0\ShoeStore.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\Shoe Store_Skeleton_6.0\obj\Debug\net6.0\ShoeStore.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\Shoe Store_Skeleton_6.0\obj\Debug\net6.0\ShoeStore.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\Shoe Store_Skeleton_6.0\obj\Debug\net6.0\ShoeStore.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\Shoe Store_Skeleton_6.0\obj\Debug\net6.0\ShoeStore.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\Shoe Store_Skeleton_6.0\obj\Debug\net6.0\ShoeStore.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\Shoe Store_Skeleton_6.0\obj\Debug\net6.0\refint\ShoeStore.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\Shoe Store_Skeleton_6.0\obj\Debug\net6.0\ShoeStore.pdb
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\Shoe Store_Skeleton_6.0\obj\Debug\net6.0\ShoeStore.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\Shoe Store_Skeleton_6.0\obj\Debug\net6.0\ref\ShoeStore.dll

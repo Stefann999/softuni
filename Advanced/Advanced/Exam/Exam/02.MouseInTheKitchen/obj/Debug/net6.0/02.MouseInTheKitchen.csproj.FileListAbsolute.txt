@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\02.MouseInTheKitchen\bin\Debug\net6.0\02.MouseInTheKitchen.exe
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\02.MouseInTheKitchen\bin\Debug\net6.0\02.MouseInTheKitchen.deps.json
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\02.MouseInTheKitchen\bin\Debug\net6.0\02.MouseInTheKitchen.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\02.MouseInTheKitchen\bin\Debug\net6.0\02.MouseInTheKitchen.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\02.MouseInTheKitchen\bin\Debug\net6.0\02.MouseInTheKitchen.pdb
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\02.MouseInTheKitchen\obj\Debug\net6.0\02.MouseInTheKitchen.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\02.MouseInTheKitchen\obj\Debug\net6.0\02.MouseInTheKitchen.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\02.MouseInTheKitchen\obj\Debug\net6.0\02.MouseInTheKitchen.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\02.MouseInTheKitchen\obj\Debug\net6.0\02.MouseInTheKitchen.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\02.MouseInTheKitchen\obj\Debug\net6.0\02.MouseInTheKitchen.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\02.MouseInTheKitchen\obj\Debug\net6.0\02.MouseInTheKitchen.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\02.MouseInTheKitchen\obj\Debug\net6.0\refint\02.MouseInTheKitchen.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\02.MouseInTheKitchen\obj\Debug\net6.0\02.MouseInTheKitchen.pdb
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\02.MouseInTheKitchen\obj\Debug\net6.0\02.MouseInTheKitchen.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\02.MouseInTheKitchen\obj\Debug\net6.0\ref\02.MouseInTheKitchen.dll

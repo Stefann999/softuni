@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\RubberDuckDebugers\bin\Debug\net6.0\RubberDuckDebugers.exe
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\RubberDuckDebugers\bin\Debug\net6.0\RubberDuckDebugers.deps.json
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\RubberDuckDebugers\bin\Debug\net6.0\RubberDuckDebugers.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\RubberDuckDebugers\bin\Debug\net6.0\RubberDuckDebugers.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\RubberDuckDebugers\bin\Debug\net6.0\RubberDuckDebugers.pdb
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\RubberDuckDebugers\obj\Debug\net6.0\RubberDuckDebugers.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\RubberDuckDebugers\obj\Debug\net6.0\RubberDuckDebugers.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\RubberDuckDebugers\obj\Debug\net6.0\RubberDuckDebugers.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\RubberDuckDebugers\obj\Debug\net6.0\RubberDuckDebugers.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\RubberDuckDebugers\obj\Debug\net6.0\RubberDuckDebugers.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\RubberDuckDebugers\obj\Debug\net6.0\RubberDuckDebugers.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\RubberDuckDebugers\obj\Debug\net6.0\refint\RubberDuckDebugers.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\RubberDuckDebugers\obj\Debug\net6.0\RubberDuckDebugers.pdb
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\RubberDuckDebugers\obj\Debug\net6.0\RubberDuckDebugers.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\RubberDuckDebugers\obj\Debug\net6.0\ref\RubberDuckDebugers.dll

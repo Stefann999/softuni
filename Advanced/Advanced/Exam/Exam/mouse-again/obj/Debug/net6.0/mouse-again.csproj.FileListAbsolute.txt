@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\mouse-again\bin\Debug\net6.0\mouse-again.exe
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\mouse-again\bin\Debug\net6.0\mouse-again.deps.json
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\mouse-again\bin\Debug\net6.0\mouse-again.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\mouse-again\bin\Debug\net6.0\mouse-again.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\mouse-again\bin\Debug\net6.0\mouse-again.pdb
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\mouse-again\obj\Debug\net6.0\mouse-again.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\mouse-again\obj\Debug\net6.0\mouse-again.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\mouse-again\obj\Debug\net6.0\mouse-again.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\mouse-again\obj\Debug\net6.0\mouse-again.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\mouse-again\obj\Debug\net6.0\mouse-again.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\mouse-again\obj\Debug\net6.0\mouse-again.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\mouse-again\obj\Debug\net6.0\refint\mouse-again.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\mouse-again\obj\Debug\net6.0\mouse-again.pdb
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\mouse-again\obj\Debug\net6.0\mouse-again.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\mouse-again\obj\Debug\net6.0\ref\mouse-again.dll

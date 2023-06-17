@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\SoftUniKindergarten_Skeleton_6.0\bin\Debug\net6.0\SoftUniKindergarten.exe
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\SoftUniKindergarten_Skeleton_6.0\bin\Debug\net6.0\SoftUniKindergarten.deps.json
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\SoftUniKindergarten_Skeleton_6.0\bin\Debug\net6.0\SoftUniKindergarten.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\SoftUniKindergarten_Skeleton_6.0\bin\Debug\net6.0\SoftUniKindergarten.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\SoftUniKindergarten_Skeleton_6.0\bin\Debug\net6.0\SoftUniKindergarten.pdb
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\SoftUniKindergarten_Skeleton_6.0\obj\Debug\net6.0\SoftUniKindergarten.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\SoftUniKindergarten_Skeleton_6.0\obj\Debug\net6.0\SoftUniKindergarten.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\SoftUniKindergarten_Skeleton_6.0\obj\Debug\net6.0\SoftUniKindergarten.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\SoftUniKindergarten_Skeleton_6.0\obj\Debug\net6.0\SoftUniKindergarten.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\SoftUniKindergarten_Skeleton_6.0\obj\Debug\net6.0\SoftUniKindergarten.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\SoftUniKindergarten_Skeleton_6.0\obj\Debug\net6.0\SoftUniKindergarten.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\SoftUniKindergarten_Skeleton_6.0\obj\Debug\net6.0\refint\SoftUniKindergarten.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\SoftUniKindergarten_Skeleton_6.0\obj\Debug\net6.0\SoftUniKindergarten.pdb
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\SoftUniKindergarten_Skeleton_6.0\obj\Debug\net6.0\SoftUniKindergarten.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\SoftUniKindergarten_Skeleton_6.0\obj\Debug\net6.0\ref\SoftUniKindergarten.dll

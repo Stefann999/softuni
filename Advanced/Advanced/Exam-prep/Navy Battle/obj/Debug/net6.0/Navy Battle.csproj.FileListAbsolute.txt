@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\Navy Battle\bin\Debug\net6.0\Navy Battle.exe
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\Navy Battle\bin\Debug\net6.0\Navy Battle.deps.json
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\Navy Battle\bin\Debug\net6.0\Navy Battle.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\Navy Battle\bin\Debug\net6.0\Navy Battle.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\Navy Battle\bin\Debug\net6.0\Navy Battle.pdb
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\Navy Battle\obj\Debug\net6.0\Navy Battle.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\Navy Battle\obj\Debug\net6.0\Navy Battle.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\Navy Battle\obj\Debug\net6.0\Navy Battle.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\Navy Battle\obj\Debug\net6.0\Navy Battle.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\Navy Battle\obj\Debug\net6.0\Navy Battle.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\Navy Battle\obj\Debug\net6.0\Navy Battle.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\Navy Battle\obj\Debug\net6.0\refint\Navy Battle.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\Navy Battle\obj\Debug\net6.0\Navy Battle.pdb
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\Navy Battle\obj\Debug\net6.0\Navy Battle.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\Navy Battle\obj\Debug\net6.0\ref\Navy Battle.dll

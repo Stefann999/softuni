@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\The Squirrel\bin\Debug\net6.0\The Squirrel.exe
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\The Squirrel\bin\Debug\net6.0\The Squirrel.deps.json
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\The Squirrel\bin\Debug\net6.0\The Squirrel.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\The Squirrel\bin\Debug\net6.0\The Squirrel.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\The Squirrel\bin\Debug\net6.0\The Squirrel.pdb
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\The Squirrel\obj\Debug\net6.0\The Squirrel.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\The Squirrel\obj\Debug\net6.0\The Squirrel.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\The Squirrel\obj\Debug\net6.0\The Squirrel.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\The Squirrel\obj\Debug\net6.0\The Squirrel.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\The Squirrel\obj\Debug\net6.0\The Squirrel.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\The Squirrel\obj\Debug\net6.0\The Squirrel.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\The Squirrel\obj\Debug\net6.0\refint\The Squirrel.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\The Squirrel\obj\Debug\net6.0\The Squirrel.pdb
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\The Squirrel\obj\Debug\net6.0\The Squirrel.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\The Squirrel\obj\Debug\net6.0\ref\The Squirrel.dll

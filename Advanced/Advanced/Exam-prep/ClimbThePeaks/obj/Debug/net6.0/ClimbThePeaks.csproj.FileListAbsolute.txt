@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\01.ClimbThePeaks\bin\Debug\net6.0\ClimbThePeaks.exe
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\01.ClimbThePeaks\bin\Debug\net6.0\ClimbThePeaks.deps.json
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\01.ClimbThePeaks\bin\Debug\net6.0\ClimbThePeaks.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\01.ClimbThePeaks\bin\Debug\net6.0\ClimbThePeaks.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\01.ClimbThePeaks\bin\Debug\net6.0\ClimbThePeaks.pdb
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\01.ClimbThePeaks\obj\Debug\net6.0\ClimbThePeaks.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\01.ClimbThePeaks\obj\Debug\net6.0\ClimbThePeaks.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\01.ClimbThePeaks\obj\Debug\net6.0\ClimbThePeaks.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\01.ClimbThePeaks\obj\Debug\net6.0\ClimbThePeaks.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\01.ClimbThePeaks\obj\Debug\net6.0\ClimbThePeaks.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\01.ClimbThePeaks\obj\Debug\net6.0\ClimbThePeaks.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\01.ClimbThePeaks\obj\Debug\net6.0\refint\ClimbThePeaks.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\01.ClimbThePeaks\obj\Debug\net6.0\ClimbThePeaks.pdb
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\01.ClimbThePeaks\obj\Debug\net6.0\ClimbThePeaks.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\01.ClimbThePeaks\obj\Debug\net6.0\ref\ClimbThePeaks.dll

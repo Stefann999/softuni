@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\01.Temple of Doom\bin\Debug\net6.0\01.Temple of Doom.exe
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\01.Temple of Doom\bin\Debug\net6.0\01.Temple of Doom.deps.json
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\01.Temple of Doom\bin\Debug\net6.0\01.Temple of Doom.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\01.Temple of Doom\bin\Debug\net6.0\01.Temple of Doom.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\01.Temple of Doom\bin\Debug\net6.0\01.Temple of Doom.pdb
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\01.Temple of Doom\obj\Debug\net6.0\01.Temple of Doom.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\01.Temple of Doom\obj\Debug\net6.0\01.Temple of Doom.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\01.Temple of Doom\obj\Debug\net6.0\01.Temple of Doom.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\01.Temple of Doom\obj\Debug\net6.0\01.Temple of Doom.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\01.Temple of Doom\obj\Debug\net6.0\01.Temple of Doom.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\01.Temple of Doom\obj\Debug\net6.0\01.Temple of Doom.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\01.Temple of Doom\obj\Debug\net6.0\refint\01.Temple of Doom.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\01.Temple of Doom\obj\Debug\net6.0\01.Temple of Doom.pdb
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\01.Temple of Doom\obj\Debug\net6.0\01.Temple of Doom.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam\Exam\01.Temple of Doom\obj\Debug\net6.0\ref\01.Temple of Doom.dll

@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\ClothesMagazine-Skeleton-6.0\bin\Debug\net6.0\ClothesMagazine.exe
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\ClothesMagazine-Skeleton-6.0\bin\Debug\net6.0\ClothesMagazine.deps.json
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\ClothesMagazine-Skeleton-6.0\bin\Debug\net6.0\ClothesMagazine.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\ClothesMagazine-Skeleton-6.0\bin\Debug\net6.0\ClothesMagazine.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\ClothesMagazine-Skeleton-6.0\bin\Debug\net6.0\ClothesMagazine.pdb
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\ClothesMagazine-Skeleton-6.0\obj\Debug\net6.0\ClothesMagazine.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\ClothesMagazine-Skeleton-6.0\obj\Debug\net6.0\ClothesMagazine.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\ClothesMagazine-Skeleton-6.0\obj\Debug\net6.0\ClothesMagazine.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\ClothesMagazine-Skeleton-6.0\obj\Debug\net6.0\ClothesMagazine.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\ClothesMagazine-Skeleton-6.0\obj\Debug\net6.0\ClothesMagazine.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\ClothesMagazine-Skeleton-6.0\obj\Debug\net6.0\ClothesMagazine.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\ClothesMagazine-Skeleton-6.0\obj\Debug\net6.0\refint\ClothesMagazine.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\ClothesMagazine-Skeleton-6.0\obj\Debug\net6.0\ClothesMagazine.pdb
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\ClothesMagazine-Skeleton-6.0\obj\Debug\net6.0\ClothesMagazine.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\ClothesMagazine-Skeleton-6.0\obj\Debug\net6.0\ref\ClothesMagazine.dll

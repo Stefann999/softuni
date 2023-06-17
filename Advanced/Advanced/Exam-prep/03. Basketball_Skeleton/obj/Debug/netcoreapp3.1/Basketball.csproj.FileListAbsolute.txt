@@ -1,0 +1,14 @@
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\03. Basketball_Skeleton\bin\Debug\netcoreapp3.1\Basketball.exe
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\03. Basketball_Skeleton\bin\Debug\netcoreapp3.1\Basketball.deps.json
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\03. Basketball_Skeleton\bin\Debug\netcoreapp3.1\Basketball.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\03. Basketball_Skeleton\bin\Debug\netcoreapp3.1\Basketball.runtimeconfig.dev.json
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\03. Basketball_Skeleton\bin\Debug\netcoreapp3.1\Basketball.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\03. Basketball_Skeleton\bin\Debug\netcoreapp3.1\Basketball.pdb
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\03. Basketball_Skeleton\obj\Debug\netcoreapp3.1\Basketball.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\03. Basketball_Skeleton\obj\Debug\netcoreapp3.1\Basketball.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\03. Basketball_Skeleton\obj\Debug\netcoreapp3.1\Basketball.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\03. Basketball_Skeleton\obj\Debug\netcoreapp3.1\Basketball.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\03. Basketball_Skeleton\obj\Debug\netcoreapp3.1\Basketball.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\03. Basketball_Skeleton\obj\Debug\netcoreapp3.1\Basketball.dll
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\03. Basketball_Skeleton\obj\Debug\netcoreapp3.1\Basketball.pdb
+E:\SoftUni\softuni\Advanced\Advanced\Exam-prep\03. Basketball_Skeleton\obj\Debug\netcoreapp3.1\Basketball.genruntimeconfig.cache

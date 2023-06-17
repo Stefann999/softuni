@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rqzZXd8jqHUcxxfZJk1By7OcEuSDj7mqq4My2b4VcsvYkzKed7sbQoC3h56KNTCv5PbIU2t7JMuvJ0ND3DWZ0Q==",
+  "success": true,
+  "projectFilePath": "E:\\SoftUni\\softuni\\Advanced\\Advanced\\Exam-prep\\03. Zoo_Skeleton\\Skeleton\\Zoo\\Zoo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stefc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
