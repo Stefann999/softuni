@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\03.ShoppingSpree\bin\Debug\net6.0\03.ShoppingSpree.exe
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\03.ShoppingSpree\bin\Debug\net6.0\03.ShoppingSpree.deps.json
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\03.ShoppingSpree\bin\Debug\net6.0\03.ShoppingSpree.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\03.ShoppingSpree\bin\Debug\net6.0\03.ShoppingSpree.dll
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\03.ShoppingSpree\bin\Debug\net6.0\03.ShoppingSpree.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\03.ShoppingSpree\obj\Debug\net6.0\03.ShoppingSpree.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\03.ShoppingSpree\obj\Debug\net6.0\03.ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\03.ShoppingSpree\obj\Debug\net6.0\03.ShoppingSpree.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\03.ShoppingSpree\obj\Debug\net6.0\03.ShoppingSpree.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\03.ShoppingSpree\obj\Debug\net6.0\03.ShoppingSpree.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\03.ShoppingSpree\obj\Debug\net6.0\03.ShoppingSpree.dll
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\03.ShoppingSpree\obj\Debug\net6.0\refint\03.ShoppingSpree.dll
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\03.ShoppingSpree\obj\Debug\net6.0\03.ShoppingSpree.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\03.ShoppingSpree\obj\Debug\net6.0\03.ShoppingSpree.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\03.ShoppingSpree\obj\Debug\net6.0\ref\03.ShoppingSpree.dll

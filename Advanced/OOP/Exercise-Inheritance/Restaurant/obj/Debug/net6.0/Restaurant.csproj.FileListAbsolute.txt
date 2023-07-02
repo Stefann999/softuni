@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\Restaurant\bin\Debug\net6.0\Restaurant.exe
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\Restaurant\bin\Debug\net6.0\Restaurant.deps.json
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\Restaurant\bin\Debug\net6.0\Restaurant.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\Restaurant\bin\Debug\net6.0\Restaurant.dll
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\Restaurant\bin\Debug\net6.0\Restaurant.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\Restaurant\obj\Debug\net6.0\Restaurant.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\Restaurant\obj\Debug\net6.0\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\Restaurant\obj\Debug\net6.0\Restaurant.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\Restaurant\obj\Debug\net6.0\Restaurant.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\Restaurant\obj\Debug\net6.0\Restaurant.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\Restaurant\obj\Debug\net6.0\Restaurant.dll
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\Restaurant\obj\Debug\net6.0\refint\Restaurant.dll
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\Restaurant\obj\Debug\net6.0\Restaurant.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\Restaurant\obj\Debug\net6.0\Restaurant.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\Restaurant\obj\Debug\net6.0\ref\Restaurant.dll

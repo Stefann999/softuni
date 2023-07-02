@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\AnimalFarm\bin\Debug\net6.0\AnimalFarm.exe
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\AnimalFarm\bin\Debug\net6.0\AnimalFarm.deps.json
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\AnimalFarm\bin\Debug\net6.0\AnimalFarm.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\AnimalFarm\bin\Debug\net6.0\AnimalFarm.dll
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\AnimalFarm\bin\Debug\net6.0\AnimalFarm.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\AnimalFarm\obj\Debug\net6.0\AnimalFarm.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\AnimalFarm\obj\Debug\net6.0\AnimalFarm.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\AnimalFarm\obj\Debug\net6.0\AnimalFarm.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\AnimalFarm\obj\Debug\net6.0\AnimalFarm.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\AnimalFarm\obj\Debug\net6.0\AnimalFarm.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\AnimalFarm\obj\Debug\net6.0\AnimalFarm.dll
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\AnimalFarm\obj\Debug\net6.0\refint\AnimalFarm.dll
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\AnimalFarm\obj\Debug\net6.0\AnimalFarm.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\AnimalFarm\obj\Debug\net6.0\AnimalFarm.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\AnimalFarm\obj\Debug\net6.0\ref\AnimalFarm.dll

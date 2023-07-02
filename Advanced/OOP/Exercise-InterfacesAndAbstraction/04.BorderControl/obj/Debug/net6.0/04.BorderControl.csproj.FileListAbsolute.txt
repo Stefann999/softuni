@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\OOP\Exercise-InterfacesAndAbstraction\04.BorderControl\bin\Debug\net6.0\04.BorderControl.exe
+E:\SoftUni\softuni\Advanced\OOP\Exercise-InterfacesAndAbstraction\04.BorderControl\bin\Debug\net6.0\04.BorderControl.deps.json
+E:\SoftUni\softuni\Advanced\OOP\Exercise-InterfacesAndAbstraction\04.BorderControl\bin\Debug\net6.0\04.BorderControl.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\OOP\Exercise-InterfacesAndAbstraction\04.BorderControl\bin\Debug\net6.0\04.BorderControl.dll
+E:\SoftUni\softuni\Advanced\OOP\Exercise-InterfacesAndAbstraction\04.BorderControl\bin\Debug\net6.0\04.BorderControl.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exercise-InterfacesAndAbstraction\04.BorderControl\obj\Debug\net6.0\04.BorderControl.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-InterfacesAndAbstraction\04.BorderControl\obj\Debug\net6.0\04.BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\OOP\Exercise-InterfacesAndAbstraction\04.BorderControl\obj\Debug\net6.0\04.BorderControl.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-InterfacesAndAbstraction\04.BorderControl\obj\Debug\net6.0\04.BorderControl.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\OOP\Exercise-InterfacesAndAbstraction\04.BorderControl\obj\Debug\net6.0\04.BorderControl.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-InterfacesAndAbstraction\04.BorderControl\obj\Debug\net6.0\04.BorderControl.dll
+E:\SoftUni\softuni\Advanced\OOP\Exercise-InterfacesAndAbstraction\04.BorderControl\obj\Debug\net6.0\refint\04.BorderControl.dll
+E:\SoftUni\softuni\Advanced\OOP\Exercise-InterfacesAndAbstraction\04.BorderControl\obj\Debug\net6.0\04.BorderControl.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exercise-InterfacesAndAbstraction\04.BorderControl\obj\Debug\net6.0\04.BorderControl.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-InterfacesAndAbstraction\04.BorderControl\obj\Debug\net6.0\ref\04.BorderControl.dll

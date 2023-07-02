@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\OOP\Exercise-InterfacesAndAbstraction\01.DefineanInterfaceIPerson\bin\Debug\net6.0\01.DefineanInterfaceIPerson.exe
+E:\SoftUni\softuni\Advanced\OOP\Exercise-InterfacesAndAbstraction\01.DefineanInterfaceIPerson\bin\Debug\net6.0\01.DefineanInterfaceIPerson.deps.json
+E:\SoftUni\softuni\Advanced\OOP\Exercise-InterfacesAndAbstraction\01.DefineanInterfaceIPerson\bin\Debug\net6.0\01.DefineanInterfaceIPerson.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\OOP\Exercise-InterfacesAndAbstraction\01.DefineanInterfaceIPerson\bin\Debug\net6.0\01.DefineanInterfaceIPerson.dll
+E:\SoftUni\softuni\Advanced\OOP\Exercise-InterfacesAndAbstraction\01.DefineanInterfaceIPerson\bin\Debug\net6.0\01.DefineanInterfaceIPerson.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exercise-InterfacesAndAbstraction\01.DefineanInterfaceIPerson\obj\Debug\net6.0\01.DefineanInterfaceIPerson.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-InterfacesAndAbstraction\01.DefineanInterfaceIPerson\obj\Debug\net6.0\01.DefineanInterfaceIPerson.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\OOP\Exercise-InterfacesAndAbstraction\01.DefineanInterfaceIPerson\obj\Debug\net6.0\01.DefineanInterfaceIPerson.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-InterfacesAndAbstraction\01.DefineanInterfaceIPerson\obj\Debug\net6.0\01.DefineanInterfaceIPerson.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\OOP\Exercise-InterfacesAndAbstraction\01.DefineanInterfaceIPerson\obj\Debug\net6.0\01.DefineanInterfaceIPerson.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-InterfacesAndAbstraction\01.DefineanInterfaceIPerson\obj\Debug\net6.0\01.DefineanInterfaceIPerson.dll
+E:\SoftUni\softuni\Advanced\OOP\Exercise-InterfacesAndAbstraction\01.DefineanInterfaceIPerson\obj\Debug\net6.0\refint\01.DefineanInterfaceIPerson.dll
+E:\SoftUni\softuni\Advanced\OOP\Exercise-InterfacesAndAbstraction\01.DefineanInterfaceIPerson\obj\Debug\net6.0\01.DefineanInterfaceIPerson.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exercise-InterfacesAndAbstraction\01.DefineanInterfaceIPerson\obj\Debug\net6.0\01.DefineanInterfaceIPerson.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-InterfacesAndAbstraction\01.DefineanInterfaceIPerson\obj\Debug\net6.0\ref\01.DefineanInterfaceIPerson.dll

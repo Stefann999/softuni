@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\04.PizzaCalories\bin\Debug\net6.0\04.PizzaCalories.exe
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\04.PizzaCalories\bin\Debug\net6.0\04.PizzaCalories.deps.json
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\04.PizzaCalories\bin\Debug\net6.0\04.PizzaCalories.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\04.PizzaCalories\bin\Debug\net6.0\04.PizzaCalories.dll
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\04.PizzaCalories\bin\Debug\net6.0\04.PizzaCalories.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\04.PizzaCalories\obj\Debug\net6.0\04.PizzaCalories.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\04.PizzaCalories\obj\Debug\net6.0\04.PizzaCalories.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\04.PizzaCalories\obj\Debug\net6.0\04.PizzaCalories.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\04.PizzaCalories\obj\Debug\net6.0\04.PizzaCalories.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\04.PizzaCalories\obj\Debug\net6.0\04.PizzaCalories.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\04.PizzaCalories\obj\Debug\net6.0\04.PizzaCalories.dll
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\04.PizzaCalories\obj\Debug\net6.0\refint\04.PizzaCalories.dll
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\04.PizzaCalories\obj\Debug\net6.0\04.PizzaCalories.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\04.PizzaCalories\obj\Debug\net6.0\04.PizzaCalories.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\04.PizzaCalories\obj\Debug\net6.0\ref\04.PizzaCalories.dll

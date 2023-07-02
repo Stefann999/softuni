@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.exe
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.deps.json
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.dll
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.dll
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\01.ClassBoxData\obj\Debug\net6.0\refint\01.ClassBoxData.dll
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Encapsulation\Exercise-Encapsulation\01.ClassBoxData\obj\Debug\net6.0\ref\01.ClassBoxData.dll

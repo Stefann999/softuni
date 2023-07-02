@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.exe
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.deps.json
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.dll
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.dll
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\PlayersAndMonsters\obj\Debug\net6.0\refint\PlayersAndMonsters.dll
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\PlayersAndMonsters\obj\Debug\net6.0\ref\PlayersAndMonsters.dll
