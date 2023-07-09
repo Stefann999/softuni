@@ -1,0 +1,5 @@
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Polymorphism\04.WildFarm\obj\Debug\net6.0\04.WildFarm.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Polymorphism\04.WildFarm\obj\Debug\net6.0\04.WildFarm.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Polymorphism\04.WildFarm\obj\Debug\net6.0\04.WildFarm.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Polymorphism\04.WildFarm\obj\Debug\net6.0\04.WildFarm.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Polymorphism\04.WildFarm\obj\Debug\net6.0\04.WildFarm.csproj.CoreCompileInputs.cache
