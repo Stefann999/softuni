@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\OOP\Exercise-ReflectionAndAttributes\02.ValidationAttributes\bin\Debug\net6.0\02.ValidationAttributes.exe
+E:\SoftUni\softuni\Advanced\OOP\Exercise-ReflectionAndAttributes\02.ValidationAttributes\bin\Debug\net6.0\02.ValidationAttributes.deps.json
+E:\SoftUni\softuni\Advanced\OOP\Exercise-ReflectionAndAttributes\02.ValidationAttributes\bin\Debug\net6.0\02.ValidationAttributes.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\OOP\Exercise-ReflectionAndAttributes\02.ValidationAttributes\bin\Debug\net6.0\02.ValidationAttributes.dll
+E:\SoftUni\softuni\Advanced\OOP\Exercise-ReflectionAndAttributes\02.ValidationAttributes\bin\Debug\net6.0\02.ValidationAttributes.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exercise-ReflectionAndAttributes\02.ValidationAttributes\obj\Debug\net6.0\02.ValidationAttributes.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-ReflectionAndAttributes\02.ValidationAttributes\obj\Debug\net6.0\02.ValidationAttributes.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\OOP\Exercise-ReflectionAndAttributes\02.ValidationAttributes\obj\Debug\net6.0\02.ValidationAttributes.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-ReflectionAndAttributes\02.ValidationAttributes\obj\Debug\net6.0\02.ValidationAttributes.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\OOP\Exercise-ReflectionAndAttributes\02.ValidationAttributes\obj\Debug\net6.0\02.ValidationAttributes.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-ReflectionAndAttributes\02.ValidationAttributes\obj\Debug\net6.0\02.ValidationAttributes.dll
+E:\SoftUni\softuni\Advanced\OOP\Exercise-ReflectionAndAttributes\02.ValidationAttributes\obj\Debug\net6.0\refint\02.ValidationAttributes.dll
+E:\SoftUni\softuni\Advanced\OOP\Exercise-ReflectionAndAttributes\02.ValidationAttributes\obj\Debug\net6.0\02.ValidationAttributes.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exercise-ReflectionAndAttributes\02.ValidationAttributes\obj\Debug\net6.0\02.ValidationAttributes.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-ReflectionAndAttributes\02.ValidationAttributes\obj\Debug\net6.0\ref\02.ValidationAttributes.dll
