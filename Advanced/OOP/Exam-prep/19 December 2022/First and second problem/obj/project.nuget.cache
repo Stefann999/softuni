@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "yRPm0y5hOilw6sUA3PNvHrtr/WD+c1DM5ThGageTfldN3uHb5oxXWQo8U76oiH24Tp/PfTYg7ubKDr9iEyJwBw==",
+  "success": true,
+  "projectFilePath": "E:\\SoftUni\\softuni\\Advanced\\OOP\\Exam-prep\\19 December 2022\\First and second problem\\01. Structure_Skeleton_6.0\\UniversityCompetition.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stefc\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.13\\microsoft.extensions.configuration.3.1.13.nupkg.sha512",
+    "C:\\Users\\stefc\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.13\\microsoft.extensions.configuration.abstractions.3.1.13.nupkg.sha512",
+    "C:\\Users\\stefc\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.13\\microsoft.extensions.configuration.fileextensions.3.1.13.nupkg.sha512",
+    "C:\\Users\\stefc\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.13\\microsoft.extensions.configuration.json.3.1.13.nupkg.sha512",
+    "C:\\Users\\stefc\\.nuget\\packages\\microsoft.extensions.configuration.usersecrets\\3.1.13\\microsoft.extensions.configuration.usersecrets.3.1.13.nupkg.sha512",
+    "C:\\Users\\stefc\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.13\\microsoft.extensions.fileproviders.abstractions.3.1.13.nupkg.sha512",
+    "C:\\Users\\stefc\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.13\\microsoft.extensions.fileproviders.physical.3.1.13.nupkg.sha512",
+    "C:\\Users\\stefc\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.13\\microsoft.extensions.filesystemglobbing.3.1.13.nupkg.sha512",
+    "C:\\Users\\stefc\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.13\\microsoft.extensions.primitives.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

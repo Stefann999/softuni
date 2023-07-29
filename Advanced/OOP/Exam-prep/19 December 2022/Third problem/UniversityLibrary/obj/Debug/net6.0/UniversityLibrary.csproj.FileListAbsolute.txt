@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\19 December 2022\Third problem\03. Unit Tests_Skeleton_6.0\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.exe
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\19 December 2022\Third problem\03. Unit Tests_Skeleton_6.0\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.deps.json
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\19 December 2022\Third problem\03. Unit Tests_Skeleton_6.0\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\19 December 2022\Third problem\03. Unit Tests_Skeleton_6.0\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\19 December 2022\Third problem\03. Unit Tests_Skeleton_6.0\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\19 December 2022\Third problem\03. Unit Tests_Skeleton_6.0\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\19 December 2022\Third problem\03. Unit Tests_Skeleton_6.0\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\19 December 2022\Third problem\03. Unit Tests_Skeleton_6.0\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\19 December 2022\Third problem\03. Unit Tests_Skeleton_6.0\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\19 December 2022\Third problem\03. Unit Tests_Skeleton_6.0\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\19 December 2022\Third problem\03. Unit Tests_Skeleton_6.0\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\19 December 2022\Third problem\03. Unit Tests_Skeleton_6.0\UniversityLibrary\obj\Debug\net6.0\refint\UniversityLibrary.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\19 December 2022\Third problem\03. Unit Tests_Skeleton_6.0\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\19 December 2022\Third problem\03. Unit Tests_Skeleton_6.0\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\19 December 2022\Third problem\03. Unit Tests_Skeleton_6.0\UniversityLibrary\obj\Debug\net6.0\ref\UniversityLibrary.dll

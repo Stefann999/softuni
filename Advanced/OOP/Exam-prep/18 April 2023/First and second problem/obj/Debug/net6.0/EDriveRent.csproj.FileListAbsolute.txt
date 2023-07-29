@@ -1,0 +1,30 @@
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\bin\Debug\net6.0\EDriveRent.exe
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\bin\Debug\net6.0\EDriveRent.deps.json
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\bin\Debug\net6.0\EDriveRent.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\bin\Debug\net6.0\EDriveRent.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\bin\Debug\net6.0\EDriveRent.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\obj\Debug\net6.0\EDriveRent.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\obj\Debug\net6.0\EDriveRent.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\obj\Debug\net6.0\EDriveRent.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\obj\Debug\net6.0\EDriveRent.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\obj\Debug\net6.0\EDriveRent.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\obj\Debug\net6.0\EDriveRent.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\obj\Debug\net6.0\refint\EDriveRent.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\obj\Debug\net6.0\EDriveRent.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\obj\Debug\net6.0\EDriveRent.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\obj\Debug\net6.0\ref\EDriveRent.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\First and secont problem\bin\Debug\net6.0\EDriveRent.exe
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\First and secont problem\bin\Debug\net6.0\EDriveRent.deps.json
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\First and secont problem\bin\Debug\net6.0\EDriveRent.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\First and secont problem\bin\Debug\net6.0\EDriveRent.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\First and secont problem\bin\Debug\net6.0\EDriveRent.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\First and secont problem\obj\Debug\net6.0\EDriveRent.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\First and secont problem\obj\Debug\net6.0\EDriveRent.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\First and secont problem\obj\Debug\net6.0\EDriveRent.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\First and secont problem\obj\Debug\net6.0\EDriveRent.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\First and secont problem\obj\Debug\net6.0\EDriveRent.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\First and secont problem\obj\Debug\net6.0\EDriveRent.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\First and secont problem\obj\Debug\net6.0\refint\EDriveRent.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\First and secont problem\obj\Debug\net6.0\EDriveRent.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\First and secont problem\obj\Debug\net6.0\EDriveRent.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\First and secont problem\obj\Debug\net6.0\ref\EDriveRent.dll

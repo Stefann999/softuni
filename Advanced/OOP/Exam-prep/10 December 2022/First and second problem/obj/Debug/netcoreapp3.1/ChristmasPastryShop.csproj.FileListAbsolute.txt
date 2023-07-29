@@ -1,0 +1,14 @@
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\10 December 2022\First and second problem\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\ChristmasPastryShop.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\10 December 2022\First and second problem\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\ChristmasPastryShop.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\10 December 2022\First and second problem\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\ChristmasPastryShop.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\10 December 2022\First and second problem\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\ChristmasPastryShop.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\10 December 2022\First and second problem\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\ChristmasPastryShop.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\10 December 2022\First and second problem\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\ChristmasPastryShop.exe
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\10 December 2022\First and second problem\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\ChristmasPastryShop.deps.json
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\10 December 2022\First and second problem\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\ChristmasPastryShop.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\10 December 2022\First and second problem\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\ChristmasPastryShop.runtimeconfig.dev.json
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\10 December 2022\First and second problem\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\ChristmasPastryShop.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\10 December 2022\First and second problem\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\ChristmasPastryShop.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\10 December 2022\First and second problem\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\ChristmasPastryShop.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\10 December 2022\First and second problem\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\ChristmasPastryShop.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\10 December 2022\First and second problem\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\ChristmasPastryShop.genruntimeconfig.cache

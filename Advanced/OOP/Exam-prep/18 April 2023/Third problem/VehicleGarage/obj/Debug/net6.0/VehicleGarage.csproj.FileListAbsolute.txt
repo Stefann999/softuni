@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\Third problem\VehicleGarage_Skeleton_6.0\VehicleGarage_Skeleton_6.0\VehicleGarage\bin\Debug\net6.0\VehicleGarage.exe
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\Third problem\VehicleGarage_Skeleton_6.0\VehicleGarage_Skeleton_6.0\VehicleGarage\bin\Debug\net6.0\VehicleGarage.deps.json
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\Third problem\VehicleGarage_Skeleton_6.0\VehicleGarage_Skeleton_6.0\VehicleGarage\bin\Debug\net6.0\VehicleGarage.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\Third problem\VehicleGarage_Skeleton_6.0\VehicleGarage_Skeleton_6.0\VehicleGarage\bin\Debug\net6.0\VehicleGarage.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\Third problem\VehicleGarage_Skeleton_6.0\VehicleGarage_Skeleton_6.0\VehicleGarage\bin\Debug\net6.0\VehicleGarage.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\Third problem\VehicleGarage_Skeleton_6.0\VehicleGarage_Skeleton_6.0\VehicleGarage\obj\Debug\net6.0\VehicleGarage.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\Third problem\VehicleGarage_Skeleton_6.0\VehicleGarage_Skeleton_6.0\VehicleGarage\obj\Debug\net6.0\VehicleGarage.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\Third problem\VehicleGarage_Skeleton_6.0\VehicleGarage_Skeleton_6.0\VehicleGarage\obj\Debug\net6.0\VehicleGarage.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\Third problem\VehicleGarage_Skeleton_6.0\VehicleGarage_Skeleton_6.0\VehicleGarage\obj\Debug\net6.0\VehicleGarage.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\Third problem\VehicleGarage_Skeleton_6.0\VehicleGarage_Skeleton_6.0\VehicleGarage\obj\Debug\net6.0\VehicleGarage.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\Third problem\VehicleGarage_Skeleton_6.0\VehicleGarage_Skeleton_6.0\VehicleGarage\obj\Debug\net6.0\VehicleGarage.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\Third problem\VehicleGarage_Skeleton_6.0\VehicleGarage_Skeleton_6.0\VehicleGarage\obj\Debug\net6.0\refint\VehicleGarage.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\Third problem\VehicleGarage_Skeleton_6.0\VehicleGarage_Skeleton_6.0\VehicleGarage\obj\Debug\net6.0\VehicleGarage.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\Third problem\VehicleGarage_Skeleton_6.0\VehicleGarage_Skeleton_6.0\VehicleGarage\obj\Debug\net6.0\VehicleGarage.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\18 April 2023- not done, learned, to do\Third problem\VehicleGarage_Skeleton_6.0\VehicleGarage_Skeleton_6.0\VehicleGarage\obj\Debug\net6.0\ref\VehicleGarage.dll

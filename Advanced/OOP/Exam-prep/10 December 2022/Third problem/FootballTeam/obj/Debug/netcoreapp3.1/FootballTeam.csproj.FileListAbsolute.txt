@@ -1,0 +1,14 @@
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\10 December 2022\Third problem\03. Unit Tests_Skeleton\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.exe
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\10 December 2022\Third problem\03. Unit Tests_Skeleton\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.deps.json
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\10 December 2022\Third problem\03. Unit Tests_Skeleton\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\10 December 2022\Third problem\03. Unit Tests_Skeleton\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.runtimeconfig.dev.json
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\10 December 2022\Third problem\03. Unit Tests_Skeleton\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\10 December 2022\Third problem\03. Unit Tests_Skeleton\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\10 December 2022\Third problem\03. Unit Tests_Skeleton\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\10 December 2022\Third problem\03. Unit Tests_Skeleton\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\10 December 2022\Third problem\03. Unit Tests_Skeleton\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\10 December 2022\Third problem\03. Unit Tests_Skeleton\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\10 December 2022\Third problem\03. Unit Tests_Skeleton\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\10 December 2022\Third problem\03. Unit Tests_Skeleton\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\10 December 2022\Third problem\03. Unit Tests_Skeleton\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\10 December 2022\Third problem\03. Unit Tests_Skeleton\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.genruntimeconfig.cache
