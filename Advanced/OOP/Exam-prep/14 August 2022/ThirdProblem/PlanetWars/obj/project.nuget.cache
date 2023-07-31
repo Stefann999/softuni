@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nkaobf78W8NeLa6Uw37tbQV8AersK5+PNn/+8Jyho4UN/UtU3YmkQl3hQdxQzqw5xKiph+bZlU7IxzRY/dSUnQ==",
+  "success": true,
+  "projectFilePath": "E:\\SoftUni\\softuni\\Advanced\\OOP\\Exam-prep\\14 August 2022\\ThirdProblem\\PlanetWars\\PlanetWars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stefc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

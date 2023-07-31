@@ -1,0 +1,14 @@
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\14 August 2022\ThirdProblem\PlanetWars\bin\Debug\netcoreapp3.1\PlanetWars.exe
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\14 August 2022\ThirdProblem\PlanetWars\bin\Debug\netcoreapp3.1\PlanetWars.deps.json
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\14 August 2022\ThirdProblem\PlanetWars\bin\Debug\netcoreapp3.1\PlanetWars.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\14 August 2022\ThirdProblem\PlanetWars\bin\Debug\netcoreapp3.1\PlanetWars.runtimeconfig.dev.json
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\14 August 2022\ThirdProblem\PlanetWars\bin\Debug\netcoreapp3.1\PlanetWars.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\14 August 2022\ThirdProblem\PlanetWars\bin\Debug\netcoreapp3.1\PlanetWars.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\14 August 2022\ThirdProblem\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\14 August 2022\ThirdProblem\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\14 August 2022\ThirdProblem\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\14 August 2022\ThirdProblem\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\14 August 2022\ThirdProblem\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\14 August 2022\ThirdProblem\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\14 August 2022\ThirdProblem\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\14 August 2022\ThirdProblem\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.genruntimeconfig.cache
