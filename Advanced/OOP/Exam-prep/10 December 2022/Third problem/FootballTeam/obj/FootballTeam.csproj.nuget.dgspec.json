@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\SoftUni\\softuni\\Advanced\\OOP\\Exam-prep\\10 December 2022\\Third problem\\03. Unit Tests_Skeleton\\FootballTeam\\FootballTeam.csproj": {}
+    "E:\\SoftUni\\softuni\\Advanced\\OOP\\Exam-prep\\10 December 2022\\Third problem\\FootballTeam\\FootballTeam.csproj": {}
   },
   "projects": {
-    "E:\\SoftUni\\softuni\\Advanced\\OOP\\Exam-prep\\10 December 2022\\Third problem\\03. Unit Tests_Skeleton\\FootballTeam\\FootballTeam.csproj": {
+    "E:\\SoftUni\\softuni\\Advanced\\OOP\\Exam-prep\\10 December 2022\\Third problem\\FootballTeam\\FootballTeam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SoftUni\\softuni\\Advanced\\OOP\\Exam-prep\\10 December 2022\\Third problem\\03. Unit Tests_Skeleton\\FootballTeam\\FootballTeam.csproj",
+        "projectUniqueName": "E:\\SoftUni\\softuni\\Advanced\\OOP\\Exam-prep\\10 December 2022\\Third problem\\FootballTeam\\FootballTeam.csproj",
         "projectName": "FootballTeam",
-        "projectPath": "E:\\SoftUni\\softuni\\Advanced\\OOP\\Exam-prep\\10 December 2022\\Third problem\\03. Unit Tests_Skeleton\\FootballTeam\\FootballTeam.csproj",
+        "projectPath": "E:\\SoftUni\\softuni\\Advanced\\OOP\\Exam-prep\\10 December 2022\\Third problem\\FootballTeam\\FootballTeam.csproj",
         "packagesPath": "C:\\Users\\stefc\\.nuget\\packages\\",
-        "outputPath": "E:\\SoftUni\\softuni\\Advanced\\OOP\\Exam-prep\\10 December 2022\\Third problem\\03. Unit Tests_Skeleton\\FootballTeam\\obj\\",
+        "outputPath": "E:\\SoftUni\\softuni\\Advanced\\OOP\\Exam-prep\\10 December 2022\\Third problem\\FootballTeam\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

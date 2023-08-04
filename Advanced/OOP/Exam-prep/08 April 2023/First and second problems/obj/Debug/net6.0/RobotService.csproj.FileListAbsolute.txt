@@ -1,15 +1,30 @@
-E:\SoftUni\softuni\Advanced\OOP\Exam-prep\08 April 2023\RobotService_Skeleton_6.0\bin\Debug\net6.0\RobotService.exe
-E:\SoftUni\softuni\Advanced\OOP\Exam-prep\08 April 2023\RobotService_Skeleton_6.0\bin\Debug\net6.0\RobotService.deps.json
-E:\SoftUni\softuni\Advanced\OOP\Exam-prep\08 April 2023\RobotService_Skeleton_6.0\bin\Debug\net6.0\RobotService.runtimeconfig.json
-E:\SoftUni\softuni\Advanced\OOP\Exam-prep\08 April 2023\RobotService_Skeleton_6.0\bin\Debug\net6.0\RobotService.dll
-E:\SoftUni\softuni\Advanced\OOP\Exam-prep\08 April 2023\RobotService_Skeleton_6.0\bin\Debug\net6.0\RobotService.pdb
-E:\SoftUni\softuni\Advanced\OOP\Exam-prep\08 April 2023\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.csproj.AssemblyReference.cache
-E:\SoftUni\softuni\Advanced\OOP\Exam-prep\08 April 2023\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.GeneratedMSBuildEditorConfig.editorconfig
-E:\SoftUni\softuni\Advanced\OOP\Exam-prep\08 April 2023\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.AssemblyInfoInputs.cache
-E:\SoftUni\softuni\Advanced\OOP\Exam-prep\08 April 2023\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.AssemblyInfo.cs
-E:\SoftUni\softuni\Advanced\OOP\Exam-prep\08 April 2023\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.csproj.CoreCompileInputs.cache
-E:\SoftUni\softuni\Advanced\OOP\Exam-prep\08 April 2023\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.dll
-E:\SoftUni\softuni\Advanced\OOP\Exam-prep\08 April 2023\RobotService_Skeleton_6.0\obj\Debug\net6.0\refint\RobotService.dll
-E:\SoftUni\softuni\Advanced\OOP\Exam-prep\08 April 2023\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.pdb
-E:\SoftUni\softuni\Advanced\OOP\Exam-prep\08 April 2023\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.genruntimeconfig.cache
-E:\SoftUni\softuni\Advanced\OOP\Exam-prep\08 April 2023\RobotService_Skeleton_6.0\obj\Debug\net6.0\ref\RobotService.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\8 April 2023 again\First and second problem\bin\Debug\net6.0\RobotService.exe
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\8 April 2023 again\First and second problem\bin\Debug\net6.0\RobotService.deps.json
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\8 April 2023 again\First and second problem\bin\Debug\net6.0\RobotService.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\8 April 2023 again\First and second problem\bin\Debug\net6.0\RobotService.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\8 April 2023 again\First and second problem\bin\Debug\net6.0\RobotService.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\8 April 2023 again\First and second problem\obj\Debug\net6.0\RobotService.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\8 April 2023 again\First and second problem\obj\Debug\net6.0\RobotService.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\8 April 2023 again\First and second problem\obj\Debug\net6.0\RobotService.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\8 April 2023 again\First and second problem\obj\Debug\net6.0\RobotService.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\8 April 2023 again\First and second problem\obj\Debug\net6.0\RobotService.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\8 April 2023 again\First and second problem\obj\Debug\net6.0\RobotService.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\8 April 2023 again\First and second problem\obj\Debug\net6.0\refint\RobotService.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\8 April 2023 again\First and second problem\obj\Debug\net6.0\RobotService.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\8 April 2023 again\First and second problem\obj\Debug\net6.0\RobotService.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\8 April 2023 again\First and second problem\obj\Debug\net6.0\ref\RobotService.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\08 April 2023\First and second problems\bin\Debug\net6.0\RobotService.exe
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\08 April 2023\First and second problems\bin\Debug\net6.0\RobotService.deps.json
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\08 April 2023\First and second problems\bin\Debug\net6.0\RobotService.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\08 April 2023\First and second problems\bin\Debug\net6.0\RobotService.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\08 April 2023\First and second problems\bin\Debug\net6.0\RobotService.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\08 April 2023\First and second problems\obj\Debug\net6.0\RobotService.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\08 April 2023\First and second problems\obj\Debug\net6.0\RobotService.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\08 April 2023\First and second problems\obj\Debug\net6.0\RobotService.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\08 April 2023\First and second problems\obj\Debug\net6.0\RobotService.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\08 April 2023\First and second problems\obj\Debug\net6.0\RobotService.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\08 April 2023\First and second problems\obj\Debug\net6.0\RobotService.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\08 April 2023\First and second problems\obj\Debug\net6.0\refint\RobotService.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\08 April 2023\First and second problems\obj\Debug\net6.0\RobotService.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\08 April 2023\First and second problems\obj\Debug\net6.0\RobotService.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\08 April 2023\First and second problems\obj\Debug\net6.0\ref\RobotService.dll

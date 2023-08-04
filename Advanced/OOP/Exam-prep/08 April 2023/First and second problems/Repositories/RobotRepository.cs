@@ -1,25 +1,27 @@
-﻿using RobotService.Models.Contracts;
+﻿using RobotService.Models;
+using RobotService.Models.Contracts;
 using RobotService.Repositories.Contracts;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Linq;
-using System.Reflection;
 
 namespace RobotService.Repositories
 {
     public class RobotRepository : IRepository<IRobot>
     {
-        private readonly List<IRobot> robots;
+        private List<IRobot> robots;
 
         public RobotRepository()
         {
             robots = new();
         }
-        public void AddNew(IRobot robot) => robots.Add(robot);
 
-        public IRobot FindByStandard(int interfaceStandard) => this.robots.FirstOrDefault(x => x.InterfaceStandards.Any(y => y == interfaceStandard));
+        public void AddNew(IRobot model) => robots.Add(model);
+
+        public IRobot FindByStandard(int interfaceStandard) => this.robots.FirstOrDefault(r => r.InterfaceStandards.Contains(interfaceStandard));
 
         public IReadOnlyCollection<IRobot> Models() => this.robots.AsReadOnly();
 
-        public bool RemoveByName(string typeName) => robots.Remove(robots.FirstOrDefault(x => x.GetType().Name == typeName));
+        public bool RemoveByName(string typeName) => this.robots.Remove(this.robots.FirstOrDefault(x => x.GetType().Name == typeName));
     }
 }

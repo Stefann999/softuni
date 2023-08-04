@@ -2,6 +2,7 @@
 using RobotService.Utilities.Messages;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace RobotService.Models
@@ -10,14 +11,15 @@ namespace RobotService.Models
     {
         private string model;
         private int batteryCapacity;
-        private List<int> interfaceStandards;
+        private readonly List<int> interfaceStandards;
 
         public Robot(string model, int batteryCapacity, int convertionCapacityIndex)
         {
             Model = model;
             BatteryCapacity = batteryCapacity;
             ConvertionCapacityIndex = convertionCapacityIndex;
-            this.interfaceStandards = new List<int>();
+            BatteryLevel = BatteryCapacity;
+            interfaceStandards = new List<int>();
         }
 
 
@@ -28,48 +30,49 @@ namespace RobotService.Models
             {
                 if (string.IsNullOrWhiteSpace(value))
                 {
-                    throw new ArgumentException(string.Format(ExceptionMessages.ModelNullOrWhitespace));
+                    throw new ArgumentException(ExceptionMessages.ModelNullOrWhitespace);
                 }
                 model = value;
             }
         }
-
 
         public int BatteryCapacity
         {
             get => batteryCapacity;
             private set
             {
-                if (batteryCapacity < 0)
+                if (value < 0)
                 {
-                    throw new ArgumentException(string.Format(ExceptionMessages.BatteryCapacityBelowZero));
+                    throw new ArgumentException(ExceptionMessages.BatteryCapacityBelowZero);
                 }
                 batteryCapacity = value;
             }
         }
 
-        public int BatteryLevel { get; private set; }
+        public int BatteryLevel {get; private set; }
 
-        public int ConvertionCapacityIndex { get; private set; }
+        public int ConvertionCapacityIndex {get; private set; }
 
-        public IReadOnlyCollection<int> InterfaceStandards => interfaceStandards;
+        public IReadOnlyCollection<int> InterfaceStandards => this.interfaceStandards.AsReadOnly();
 
         public void Eating(int minutes)
         {
             int producedEnergy = ConvertionCapacityIndex * minutes;
-            BatteryLevel += producedEnergy;
-
-            if (this.BatteryLevel > this.BatteryCapacity)
+            if (producedEnergy > BatteryCapacity - BatteryLevel)
             {
-                this.BatteryLevel = this.BatteryCapacity;
+                BatteryLevel = BatteryCapacity;
+            }
+            else
+            {
+                BatteryLevel += producedEnergy;
             }
         }
 
         public bool ExecuteService(int consumedEnergy)
         {
-            if (this.BatteryLevel >= consumedEnergy)
+            if (BatteryLevel >= consumedEnergy)
             {
-                this.BatteryLevel -= consumedEnergy;
+                BatteryLevel -= consumedEnergy;
                 return true;
             }
             else
@@ -81,27 +84,23 @@ namespace RobotService.Models
         public void InstallSupplement(ISupplement supplement)
         {
             interfaceStandards.Add(supplement.InterfaceStandard);
-            this.BatteryCapacity -= supplement.BatteryUsage;
-            this.BatteryLevel -= supplement.BatteryUsage;
+            BatteryCapacity -= supplement.BatteryUsage;
+            BatteryLevel -= supplement.BatteryUsage;
         }
 
         public override string ToString()
         {
-            StringBuilder sb = new StringBuilder();
+            StringBuilder sb = new();
 
-            sb.AppendLine($"{this.GetType().Name} {this.Model}:");
-            sb.AppendLine($"--Maximum battery capacity: {this.BatteryCapacity}");
-            sb.AppendLine($"--Current battery level: {this.BatteryLevel}");
-            sb.Append($"--Supplements installed: ");
+            sb.AppendLine($"{GetType().Name} {Model}:");
+            sb.AppendLine($"--Maximum battery capacity: {BatteryCapacity}");
+            sb.AppendLine($"--Current battery level: {BatteryLevel}");
 
-            if (this.InterfaceStandards.Count == 0)
-            {
-                sb.Append("none");
-            }
-            else
-            {
-                sb.Append(string.Join(" ", this.InterfaceStandards));
-            }
+            string supplementsInstalled = InterfaceStandards.Any()
+                ? $"{string.Join(" ", InterfaceStandards)}"
+                : "none";
+
+            sb.AppendLine($"--Supplements installed: {supplementsInstalled}");
 
             return sb.ToString().TrimEnd();
         }

@@ -9,9 +9,8 @@ namespace RobotService.Models
             InterfaceStandard = interfaceStandard;
             BatteryUsage = batteryUsage;
         }
+        public int InterfaceStandard {get; private set;}
 
-        public int InterfaceStandard { get; private set; }
-
-        public int BatteryUsage { get; private set; }
+        public int BatteryUsage {get; private set;}
     }
 }

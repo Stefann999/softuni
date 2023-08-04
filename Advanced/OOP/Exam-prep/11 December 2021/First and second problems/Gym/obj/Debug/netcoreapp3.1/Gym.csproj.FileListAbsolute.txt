@@ -1,0 +1,14 @@
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\11 December 2021\First and second problems\Gym\bin\Debug\netcoreapp3.1\Gym.exe
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\11 December 2021\First and second problems\Gym\bin\Debug\netcoreapp3.1\Gym.deps.json
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\11 December 2021\First and second problems\Gym\bin\Debug\netcoreapp3.1\Gym.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\11 December 2021\First and second problems\Gym\bin\Debug\netcoreapp3.1\Gym.runtimeconfig.dev.json
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\11 December 2021\First and second problems\Gym\bin\Debug\netcoreapp3.1\Gym.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\11 December 2021\First and second problems\Gym\bin\Debug\netcoreapp3.1\Gym.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\11 December 2021\First and second problems\Gym\obj\Debug\netcoreapp3.1\Gym.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\11 December 2021\First and second problems\Gym\obj\Debug\netcoreapp3.1\Gym.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\11 December 2021\First and second problems\Gym\obj\Debug\netcoreapp3.1\Gym.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\11 December 2021\First and second problems\Gym\obj\Debug\netcoreapp3.1\Gym.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\11 December 2021\First and second problems\Gym\obj\Debug\netcoreapp3.1\Gym.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\11 December 2021\First and second problems\Gym\obj\Debug\netcoreapp3.1\Gym.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\11 December 2021\First and second problems\Gym\obj\Debug\netcoreapp3.1\Gym.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\11 December 2021\First and second problems\Gym\obj\Debug\netcoreapp3.1\Gym.genruntimeconfig.cache

@@ -10,29 +10,27 @@ namespace BookingApp.Models.Bookings
 {
     public class Booking : IBooking
     {
-        private IRoom room;
         private int residenceDuration;
         private int adultsCount;
         private int childrenCount;
-        private int bookingNumber;
 
         public Booking(IRoom room, int residenceDuration, int adultsCount, int childrenCount, int bookingNumber)
         {
-            this.room = room;
+            Room = room;
             ResidenceDuration = residenceDuration;
             AdultsCount = adultsCount;
             ChildrenCount = childrenCount;
-            this.bookingNumber = bookingNumber;
+            BookingNumber = bookingNumber;
         }
 
-        public IRoom Room => this.room;
+        public IRoom Room { get; private set; }
 
         public int ResidenceDuration
         {
             get => this.residenceDuration;
             private set
             {
-                if (value <= 0)
+                if (value < 1)
                 {
                     throw new ArgumentException(ExceptionMessages.DurationZeroOrLess);
                 }
@@ -66,13 +64,13 @@ namespace BookingApp.Models.Bookings
             }
         }
 
-        public int BookingNumber => this.bookingNumber;
+        public int BookingNumber { get; private set; }
 
         public string BookingSummary()
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine($"Booking number: {BookingNumber}");
-            sb.AppendLine($"Room type: {this.room.GetType().Name}");
+            sb.AppendLine($"Room type: {Room.GetType().Name}");
             sb.AppendLine($"Adults: {AdultsCount} Children: {ChildrenCount}");
             sb.AppendLine($"Total amount paid: {TotalPaid():F2} $");
 

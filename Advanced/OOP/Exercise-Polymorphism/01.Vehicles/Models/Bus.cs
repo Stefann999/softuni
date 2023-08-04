@@ -1,80 +1,26 @@
-﻿namespace _01.Vehicles
+﻿using System;
+
+
+namespace _02._Vehicles_Extension
 {
-    public class Bus : Drivable
+    public class Bus : Vehicle
     {
-        private double fuelQuantity;
-        private double fuelConsumption;
-        private double tankCapacity;
+        private const double CONSUMPTION_INCREASE = 1.4;
 
         public Bus(double fuelQuantity, double fuelConsumption, double tankCapacity)
-        {
-            if (fuelQuantity > tankCapacity)
-            {
-                FuelQuantity = 0;
-            }
-            else
-            {
-                this.FuelQuantity = fuelQuantity;
+            : base(fuelQuantity, fuelConsumption, tankCapacity)
+        { }
 
-            }
-            this.FuelConsumption = fuelConsumption;
-            this.TankCapacity = tankCapacity;
+        public override void Drive(double km)
+        {
+            base.fuelConsumption += CONSUMPTION_INCREASE;
+            base.Drive(km);
+            base.fuelConsumption -= CONSUMPTION_INCREASE;
         }
 
-        public double FuelQuantity { get => fuelQuantity; set => fuelQuantity = value; }
-        public double FuelConsumption { get => fuelConsumption; set => fuelConsumption = value; }
-        public double TankCapacity { get => tankCapacity; set => tankCapacity = value; }
-
-        public override string Drive(double distance)
+        public void DriveEmpty(double km)
         {
-
-            if (FuelQuantity > distance * (FuelConsumption + 1.4))
-            {
-                FuelQuantity -= distance * (FuelConsumption + 1.4);
-                return $"Bus travelled {distance} km";
-            }
-            else
-            {
-                return "Bus needs refueling";
-            }
-        }
-        
-        public string DriveEmpty(double distance)
-        {
-            if (FuelQuantity >= distance * FuelConsumption)
-            {
-                FuelQuantity -= distance * FuelConsumption;
-                return $"Bus travelled {distance} km";
-            }
-            else
-            {
-                return "Bus needs refueling";
-            }
-        }
-
-        public override void Refuel(double quantity)
-        {
-            if (quantity <= 0)
-            {
-                Console.WriteLine("Fuel must be a positive number");
-            }
-            else
-            {
-                if (FuelQuantity + quantity > TankCapacity)
-                {
-                    Console.WriteLine($"Cannot fit {quantity} fuel in the tank");
-                }
-                else
-                {
-                    FuelQuantity += quantity;
-                }
-            }
-           
-        }
-
-        public override string ToString()
-        {
-            return $"Bus: {FuelQuantity:f2}";
+            base.Drive(km);
         }
     }
 }

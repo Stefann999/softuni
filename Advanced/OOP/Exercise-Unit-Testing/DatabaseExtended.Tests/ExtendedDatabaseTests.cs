@@ -4,6 +4,7 @@ namespace DatabaseExtended.Tests
     using NUnit.Framework;
     using System;
 
+
     [TestFixture]
     public class ExtendedDatabaseTests
     {
@@ -12,205 +13,118 @@ namespace DatabaseExtended.Tests
         [SetUp]
         public void Setup()
         {
-            Person[] persons =
-            {
-            new Person(1, "Pesho"),
-            new Person(2, "Gosho"),
-            new Person(3, "Ivan_Ivan"),
-            new Person(4, "Pesho_ivanov"),
-            new Person(5, "Gosho_Naskov"),
-            new Person(6, "Pesh-Peshov"),
-            new Person(7, "Ivan_Kaloqnov"),
-            new Person(8, "Ivan_Draganchov"),
-            new Person(9, "Asen"),
-            new Person(10, "Jivko"),
-            new Person(11, "Toshko")
-        };
-
-            database = new Database(persons);
+            Person[] people = new Person[14];
+            for (int i = 0; i < people.Length; i++)
+                people[i] = new Person(i, ((char)('A' + i)).ToString());
+            database = new Database(people);
         }
 
         [Test]
-        public void CreatingDatabaseCountShouldBeCorrect()
+        public void Constructor_CannotTakeMoreThan16People()
         {
-            int expectedResult = 11;
-            Assert.AreEqual(expectedResult, database.Count);
-        }
-        [Test]
-        public void CreatingDatabaseShouldThrowExceptionWhenCountIsMoreThan16()
-        {
-
-            Person[] persons =
-            {
-            new Person(1, "Pesho"),
-            new Person(2, "Gosho"),
-            new Person(3, "Ivan_Ivan"),
-            new Person(4, "Pesho_ivanov"),
-            new Person(5, "Gosho_Naskov"),
-            new Person(6, "Pesh-Peshov"),
-            new Person(7, "Ivan_Kaloqnov"),
-            new Person(8, "Ivan_Draganchov"),
-            new Person(9, "Asen"),
-            new Person(10, "Jivko"),
-            new Person(11, "Toshko"),
-            new Person(12, "Moshko"),
-            new Person(13, "Foshko"),
-            new Person(14, "Loshko"),
-            new Person(15, "Roshko"),
-            new Person(16, "Boshko"),
-            new Person(17, "Kokoshko")
-        };
-
-            ArgumentException exception = Assert.Throws<ArgumentException>(()
-                => database = new Database(persons));
-
-            Assert.AreEqual("Provided data length should be in range [0..16]!", exception.Message);
+            Person[] people = new Person[17];
+            for (int i = 0; i < people.Length; i++)
+                people[i] = new Person(i, ((char)('A' + i)).ToString());
+            Assert.Throws<ArgumentException>(() => database = new Database(people));
         }
 
         [Test]
-        public void DatabaseCountShouldWorkCorrectly()
+        public void Add_IncreasesTheCollectionCount()
         {
-            int expectedResult = 11;
-            int actualResult = database.Count;
-
-            Assert.AreEqual(expectedResult, actualResult);
+            database.Add(new Person(14, "Joe"));
+            Assert.AreEqual(database.Count, 15);
         }
 
         [Test]
-        public void DatabaseAddMethodShouldIncreaseCount()
+        public void Add_CannotAddPersonWithExistingName()
         {
-            var person = new Person(12, "Paul");
+            Assert.That(() => database.Add(new Person(100, "A")), Throws.InvalidOperationException);
+        }
 
+        [Test]
+        public void Add_CannotAddPersonWithExistingID()
+        {
+            Assert.That(() => database.Add(new Person(1, "John")), Throws.InvalidOperationException);
+        }
+
+        [Test]
+        public void Add_CannotExceedMaximumArrayCount()
+        {
+            database.Add(new Person(14, "Fourteen"));
+            database.Add(new Person(15, "Sixteen"));
+            Assert.That(() => database.Add(new Person(16, "Error")), Throws.InvalidOperationException);
+        }
+
+        [Test]
+        public void Add_AddsPersonToTheCollection()
+        {
+            Person person = new Person(14, "Jimmy");
             database.Add(person);
-
-            int expectedResult = 12;
-            int actualResult = database.Count;
-
-            Assert.AreEqual(expectedResult, actualResult);
+            Person expected = database.FindById(14);
+            Assert.AreEqual(person, expected);
         }
 
         [Test]
-        public void DatabaseAddMethodShouldWorkCorrectly()
+        public void Remove_RemovesLastPersonFromTheCollection()
         {
-            var person = new Person(12, "Paul");
-
+            Person person = new Person(14, "Lilly");
             database.Add(person);
-
-            int expectedResult = 12;
-            int actualResult = database.Count;
-
-            Assert.AreEqual(expectedResult, actualResult);
-        }
-
-        [Test]
-        public void DatabaseAddMethodShouldThrowExceptionIfCountIsMoreThan16()
-        {
-            Person person1 = new(12, "John");
-            Person person2 = new(13, "Paul");
-            Person person3 = new(14, "Green");
-            Person person4 = new(15, "Brown");
-            Person person5 = new(16, "Killer");
-
-            database.Add(person1);
-            database.Add(person2);
-            database.Add(person3);
-            database.Add(person4);
-            database.Add(person5);
-
-            InvalidOperationException exception = Assert.Throws<InvalidOperationException>(()
-                => database.Add(new Person(17, "Destroyer")));
-
-            Assert.AreEqual("Array's capacity must be exactly 16 integers!", exception.Message);
-        }
-
-        [Test]
-        public void DatabaseShouldThrowExceptionIfPersonWithSameUsernameIsAdded()
-        {
-            Person person = new(12, "Pesho");
-
-            InvalidOperationException exception = Assert.Throws<InvalidOperationException>(()
-                => database.Add(person), "There is already user with this username!");
-
-            Assert.AreEqual("There is already user with this username!", exception.Message);
-        }
-
-        [Test]
-        public void DatabaseShouldThrowExceptionIfPersonWithSameIdIsAdded()
-        {
-            Person person = new(1, "John");
-
-            InvalidOperationException exception = Assert.Throws<InvalidOperationException>(()
-                => database.Add(person));
-
-            Assert.AreEqual("There is already user with this Id!", exception.Message);
-        }
-
-        [Test]
-        public void DatabaseRemoveMethodShouldWorkCorrectly()
-        {
-            int expectedResult = 10;
-
             database.Remove();
-
-            Assert.AreEqual(expectedResult, database.Count);
+            Assert.That(() => database.FindByUsername("Lilly"), Throws.InvalidOperationException);
         }
 
         [Test]
-        public void DatabaseRemoveMethodShouldThrowExceptionIfDatabaseIsEmpty()
+        public void Remove_CantFunctionOnEmptyCollection()
         {
-            Database database = new();
-
-            Assert.Throws<InvalidOperationException>(() => database.Remove());
+            Database database = new Database();
+            Assert.That(() => database.Remove(), Throws.InvalidOperationException);
         }
 
         [Test]
-        [TestCase("Stoqncho")]
-        [TestCase("Vankata")]
-        public void UsernameNotPresentThrowsException(string username)
+        public void Remove_DecreasesTheCollectionCount()
         {
-            InvalidOperationException exception = Assert.Throws<InvalidOperationException>(() => database.FindByUsername(username));
-
-            Assert.AreEqual("No user is present by this username!", exception.Message);
+            int expectedCount = database.Count - 1;
+            database.Remove();
+            Assert.AreEqual(database.Count, expectedCount);
         }
 
         [Test]
-        [TestCase("")]
+        public void FindByUsername_ThrowsExceptionIfUsernameNotPresent()
+        {
+            Assert.That(() => database.FindByUsername("Misho"), Throws.InvalidOperationException);
+        }
+
         [TestCase(null)]
-        public void DatabaseFindByUsernameMethodShouldThrowExceptionIfUsernameIsNull(string username)
+        [TestCase("")]
+        public void FindByUsername_UserCantBeNull(string username)
         {
-            ArgumentNullException exception = Assert.Throws<ArgumentNullException>(()
-                => database.FindByUsername(username));
-
-            Assert.AreEqual("Username parameter is null!", exception.ParamName);
+            Assert.That(() => database.FindByUsername(username), Throws.ArgumentNullException);
         }
 
         [Test]
-        public void FindByIsCaseSensitive()
+        public void FindByUsername_ReturnsTheCorrectPerson()
         {
-            string expectedResult = "peShO";
-            string actualResult = database.FindByUsername("Pesho").UserName;
-
-            Assert.AreNotEqual(expectedResult, actualResult);
+            Person personToFind = database.FindByUsername("A");
+            Assert.AreEqual(personToFind.UserName, "A");
         }
 
         [Test]
-        [TestCase(123123123123)]
-        [TestCase(3333333333333333333)]
-        public void IdNotPresentThrowsException(long id)
+        public void FindById_ReturnsTheCorrectPerson()
         {
-            InvalidOperationException exception = Assert.Throws<InvalidOperationException>(() => database.FindById(id));
-
-            Assert.AreEqual("No user is present by this ID!", exception.Message);
+            Person personToFind = database.FindById(4);
+            Assert.AreEqual(personToFind.Id, 4);
         }
 
         [Test]
-        public void ThrowsExceptionIfIdIsNegative()
+        public void FindById_IdMustBePositiveNumber()
         {
-            ArgumentOutOfRangeException exception = Assert.Throws<ArgumentOutOfRangeException>(() => database.FindById(-1));
-
-            Assert.AreEqual("Id should be a positive number!", exception.ParamName);
-
+            Assert.Throws<ArgumentOutOfRangeException>(() => database.FindById(-1));
         }
 
+        [Test]
+        public void FindById_ThrowsExceptionIfNonExistingIdIsPassed()
+        {
+            Assert.That(() => database.FindById(1337), Throws.InvalidOperationException);
+        }
     }
 }

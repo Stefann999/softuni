@@ -1,0 +1,30 @@
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\22 August 2022\Submission_35418814\bin\Debug\net6.0\BookingApp.exe
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\22 August 2022\Submission_35418814\bin\Debug\net6.0\BookingApp.deps.json
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\22 August 2022\Submission_35418814\bin\Debug\net6.0\BookingApp.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\22 August 2022\Submission_35418814\bin\Debug\net6.0\BookingApp.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\22 August 2022\Submission_35418814\bin\Debug\net6.0\BookingApp.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\22 August 2022\Submission_35418814\obj\Debug\net6.0\BookingApp.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\22 August 2022\Submission_35418814\obj\Debug\net6.0\BookingApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\22 August 2022\Submission_35418814\obj\Debug\net6.0\BookingApp.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\22 August 2022\Submission_35418814\obj\Debug\net6.0\BookingApp.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\22 August 2022\Submission_35418814\obj\Debug\net6.0\BookingApp.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\22 August 2022\Submission_35418814\obj\Debug\net6.0\BookingApp.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\22 August 2022\Submission_35418814\obj\Debug\net6.0\refint\BookingApp.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\22 August 2022\Submission_35418814\obj\Debug\net6.0\BookingApp.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\22 August 2022\Submission_35418814\obj\Debug\net6.0\BookingApp.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\22 August 2022\Submission_35418814\obj\Debug\net6.0\ref\BookingApp.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\22 August 2022\First and second problem\bin\Debug\net6.0\BookingApp.exe
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\22 August 2022\First and second problem\bin\Debug\net6.0\BookingApp.deps.json
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\22 August 2022\First and second problem\bin\Debug\net6.0\BookingApp.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\22 August 2022\First and second problem\bin\Debug\net6.0\BookingApp.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\22 August 2022\First and second problem\bin\Debug\net6.0\BookingApp.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\22 August 2022\First and second problem\obj\Debug\net6.0\BookingApp.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\22 August 2022\First and second problem\obj\Debug\net6.0\BookingApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\22 August 2022\First and second problem\obj\Debug\net6.0\BookingApp.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\22 August 2022\First and second problem\obj\Debug\net6.0\BookingApp.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\22 August 2022\First and second problem\obj\Debug\net6.0\BookingApp.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\22 August 2022\First and second problem\obj\Debug\net6.0\BookingApp.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\22 August 2022\First and second problem\obj\Debug\net6.0\refint\BookingApp.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\22 August 2022\First and second problem\obj\Debug\net6.0\BookingApp.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\22 August 2022\First and second problem\obj\Debug\net6.0\BookingApp.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\22 August 2022\First and second problem\obj\Debug\net6.0\ref\BookingApp.dll

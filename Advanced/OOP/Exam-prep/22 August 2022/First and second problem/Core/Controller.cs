@@ -15,7 +15,7 @@ namespace BookingApp.Core
 {
     public class Controller : IController
     {
-        private HotelRepository hotels;
+        private readonly HotelRepository hotels;
 
         public Controller()
         {
@@ -24,16 +24,18 @@ namespace BookingApp.Core
 
         public string AddHotel(string hotelName, int category)
         {
-            if (hotels.All().Any(x => x.FullName == hotelName && x.Category == category))
+            IHotel hotel;
+
+            if (hotels.Select(hotelName) != null)
             {
-                return string.Format(OutputMessages.HotelAlreadyRegistered, hotelName);
+                return String.Format(OutputMessages.HotelAlreadyRegistered, hotelName);
             }
-            else
-            {
-                Hotel hotel = new(hotelName, category);
-                hotels.AddNew(hotel);
-                return string.Format(OutputMessages.HotelSuccessfullyRegistered, category, hotelName);
-            }
+
+            hotel = new Hotel(hotelName, category);
+            this.hotels.AddNew(hotel);
+            string result =
+                string.Format(OutputMessages.HotelSuccessfullyRegistered, category, hotelName);
+            return result;
         }
 
         public string BookAvailableRoom(int adults, int children, int duration, int category)
@@ -102,9 +104,9 @@ namespace BookingApp.Core
             IHotel hotel = hotels.Select(hotelName);
             if (hotel == null)
             {
-                throw new ArgumentException(OutputMessages.HotelNameInvalid, hotelName);
+                return string.Format(OutputMessages.HotelNameInvalid, hotelName);
             }
-            if (roomTypeName != "Apartment" && roomTypeName != "DoubleBed" && roomTypeName != "Studio")
+            if (roomTypeName != nameof(DoubleBed) && roomTypeName != nameof(Studio) && roomTypeName != nameof(Apartment))
             {
                 throw new ArgumentException(ExceptionMessages.RoomTypeIncorrect);
             }
@@ -127,12 +129,13 @@ namespace BookingApp.Core
 
         public string UploadRoomTypes(string hotelName, string roomTypeName)
         {
-            if (!hotels.All().Any(x => x.FullName == hotelName))
+            if (hotels.Select(hotelName) == null)
             {
                 return string.Format(OutputMessages.HotelNameInvalid, hotelName);
             }
 
-            else if (hotels.All().Any(x => x.GetType().Name == roomTypeName))
+            IHotel hotel = hotels.Select(hotelName);
+            if (hotel.Rooms.Select(roomTypeName) != default)
             {
                 return string.Format(OutputMessages.RoomTypeAlreadyCreated);
             }
@@ -155,7 +158,7 @@ namespace BookingApp.Core
                 throw new ArgumentException(ExceptionMessages.RoomTypeIncorrect);
             }
 
-            IHotel hotel = hotels.Select(hotelName);
+            hotel = hotels.Select(hotelName);
 
             hotel.Rooms.AddNew(room);
             return String.Format(OutputMessages.RoomTypeAdded, roomTypeName, hotelName);

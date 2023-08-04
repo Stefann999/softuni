@@ -52,8 +52,8 @@ namespace BookingApp.Models.Hotels
 
         public double Turnover => Math.Round(Bookings.All().Sum(x => x.ResidenceDuration * x.Room.PricePerNight), 2);
 
-        public IRepository<IRoom> Rooms { get; set; }
+        public IRepository<IRoom> Rooms { get; private set; }
 
-        public IRepository<IBooking> Bookings {get; set; }
+        public IRepository<IBooking> Bookings {get;private set; }
     }
 }

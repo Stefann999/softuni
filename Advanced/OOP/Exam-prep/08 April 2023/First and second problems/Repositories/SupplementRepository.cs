@@ -13,12 +13,13 @@ namespace RobotService.Repositories
         {
             supplements = new();
         }
+
         public void AddNew(ISupplement model) => supplements.Add(model);
 
         public ISupplement FindByStandard(int interfaceStandard) => this.supplements.FirstOrDefault(x => x.InterfaceStandard == interfaceStandard);
 
         public IReadOnlyCollection<ISupplement> Models() => this.supplements.AsReadOnly();
 
-        public bool RemoveByName(string typeName) => supplements.Remove(supplements.FirstOrDefault(x => x.GetType().Name == typeName));
+        public bool RemoveByName(string typeName) => this.supplements.Remove(this.supplements.FirstOrDefault(x => x.GetType().Name == typeName));
     }
 }

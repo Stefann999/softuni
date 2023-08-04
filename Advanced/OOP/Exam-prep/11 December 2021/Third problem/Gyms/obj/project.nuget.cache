@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bIjc0n9rvToG5sV/fIlhKgHmAgo9S6jZXugwyH5YDXSv9S+epxjJaOohdG9O90jPqe9blSWOvOg9mjnd5ddp3A==",
+  "success": true,
+  "projectFilePath": "E:\\SoftUni\\softuni\\Advanced\\OOP\\Exam-prep\\11 December 2021\\Third problem\\Gyms\\Gyms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stefc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

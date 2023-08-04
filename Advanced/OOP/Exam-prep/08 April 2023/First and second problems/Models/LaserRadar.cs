@@ -1,4 +1,6 @@
-﻿namespace RobotService.Models
+﻿using System.Data.Common;
+
+namespace RobotService.Models
 {
     public class LaserRadar : Supplement
     {

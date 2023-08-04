@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\09 April 2022\First and second problems\Formula1\obj\Debug\net6.0\Formula1.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\09 April 2022\First and second problems\Formula1\obj\Debug\net6.0\Formula1.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\09 April 2022\First and second problems\Formula1\obj\Debug\net6.0\Formula1.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\09 April 2022\First and second problems\Formula1\obj\Debug\net6.0\Formula1.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\09 April 2022\First and second problems\Formula1\obj\Debug\net6.0\Formula1.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\09 April 2022\First and second problems\Formula1\bin\Debug\net6.0\Formula1.exe
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\09 April 2022\First and second problems\Formula1\bin\Debug\net6.0\Formula1.deps.json
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\09 April 2022\First and second problems\Formula1\bin\Debug\net6.0\Formula1.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\09 April 2022\First and second problems\Formula1\bin\Debug\net6.0\Formula1.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\09 April 2022\First and second problems\Formula1\bin\Debug\net6.0\Formula1.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\09 April 2022\First and second problems\Formula1\obj\Debug\net6.0\Formula1.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\09 April 2022\First and second problems\Formula1\obj\Debug\net6.0\refint\Formula1.dll
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\09 April 2022\First and second problems\Formula1\obj\Debug\net6.0\Formula1.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\09 April 2022\First and second problems\Formula1\obj\Debug\net6.0\Formula1.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\OOP\Exam-prep\09 April 2022\First and second problems\Formula1\obj\Debug\net6.0\ref\Formula1.dll

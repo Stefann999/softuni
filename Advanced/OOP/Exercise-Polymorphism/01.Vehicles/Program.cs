@@ -1,58 +1,52 @@
-﻿using _01.Vehicles;
+﻿﻿using System;
 
-string[] carInfo = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
-string[] truckInfo = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
-string[] busInfo = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
-
-
-Car car = new(double.Parse(carInfo[1]),double.Parse(carInfo[2]), double.Parse(carInfo[3]));
-Truck truck = new(double.Parse(truckInfo[1]), double.Parse(truckInfo[2]), double.Parse(truckInfo[3]));
-Bus bus = new(double.Parse(busInfo[1]), double.Parse(busInfo[2]), double.Parse(busInfo[3]));
-
-int n = int.Parse(Console.ReadLine());
-
-for (int i = 0; i < n; i++)
+namespace _02._Vehicles_Extension
 {
-    string[] command = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
-
-    if (command[0] == "Drive")
+    public class StartUp
     {
-        if (command[1] == "Car")
+        static void Main()
         {
-            Console.WriteLine(car.Drive(double.Parse(command[2])));
-        }
-        else if (command[1] == "Truck")
-        {
-            Console.WriteLine(truck.Drive(double.Parse(command[2]))); 
-        }
-        else if (command[1] == "Bus")
-        {
-            Console.WriteLine(bus.Drive(double.Parse(command[2])));
-        }
-    }
+            string[] carInfo = Console.ReadLine().Split();
+            Car car = new Car(double.Parse(carInfo[1]), double.Parse(carInfo[2]), double.Parse(carInfo[3]));
+            string[] truckInfo = Console.ReadLine().Split();
+            Truck truck = new Truck(double.Parse(truckInfo[1]), double.Parse(truckInfo[2]), double.Parse(truckInfo[3]));
+            string[] busInfo = Console.ReadLine().Split();
+            Bus bus = new Bus(double.Parse(busInfo[1]), double.Parse(busInfo[2]), double.Parse(busInfo[3]));
 
-    else if (command[0] == "DriveEmpty")
-    {
-        Console.WriteLine(bus.DriveEmpty(double.Parse(command[2])));
-    }
+            int numberOfCommands = int.Parse(Console.ReadLine());
+            for (int i = 0; i < numberOfCommands; i++)
+            {
+                string[] tokens = Console.ReadLine().Split();
+                string command = tokens[0];
+                string type = tokens[1];
+                double value = double.Parse(tokens[2]);
 
-    else if (command[0] == "Refuel")
-    {
-        if (command[1] == "Car")
-        {
-            car.Refuel(double.Parse(command[2]));
-        }
-        else if (command[1] == "Truck")
-        {
-            truck.Refuel(double.Parse(command[2]));
-        }
-        else if (command[1] == "Bus")
-        {
-            bus.Refuel(double.Parse(command[2]));
+                if (command == "Drive")
+                {
+                    switch (type)
+                    {
+                        case "Car": car.Drive(value); break;
+                        case "Truck": truck.Drive(value); break;
+                        case "Bus": bus.Drive(value); break;
+                    }
+                }
+                else if (command == "Refuel")
+                {
+                    switch(type)
+                    {
+                        case "Car": car.Refuel(value); break;
+                        case "Truck": truck.Refuel(value); break;
+                        case "Bus": bus.Refuel(value); break;
+                    }
+                }
+                else if (command == "DriveEmpty")
+                {
+                    bus.DriveEmpty(value);
+                }
+            }
+            Console.WriteLine(car);
+            Console.WriteLine(truck);
+            Console.WriteLine(bus);
         }
     }
 }
-
-Console.WriteLine(car.ToString());
-Console.WriteLine(truck.ToString());
-Console.WriteLine(bus.ToString());

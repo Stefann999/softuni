@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\Animals\bin\Debug\net6.0\Animals.exe
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\Animals\bin\Debug\net6.0\Animals.deps.json
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\Animals\bin\Debug\net6.0\Animals.runtimeconfig.json
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\Animals\bin\Debug\net6.0\Animals.dll
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\Animals\bin\Debug\net6.0\Animals.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\Animals\obj\Debug\net6.0\Animals.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\Animals\obj\Debug\net6.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\Animals\obj\Debug\net6.0\Animals.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\Animals\obj\Debug\net6.0\Animals.AssemblyInfo.cs
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\Animals\obj\Debug\net6.0\Animals.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\Animals\obj\Debug\net6.0\Animals.dll
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\Animals\obj\Debug\net6.0\refint\Animals.dll
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\Animals\obj\Debug\net6.0\Animals.pdb
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\Animals\obj\Debug\net6.0\Animals.genruntimeconfig.cache
+E:\SoftUni\softuni\Advanced\OOP\Exercise-Inheritance\Animals\obj\Debug\net6.0\ref\Animals.dll
