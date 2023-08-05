@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\SoftUni\\softuni\\Advanced\\OOP\\Exam-prep\\18 April 2023\\First and secont problem\\EDriveRent.csproj",
+      "projectUniqueName": "E:\\SoftUni\\softuni\\Advanced\\OOP\\Exam-prep\\18 April 2023\\First and second problem\\EDriveRent.csproj",
       "projectName": "EDriveRent",
-      "projectPath": "E:\\SoftUni\\softuni\\Advanced\\OOP\\Exam-prep\\18 April 2023\\First and secont problem\\EDriveRent.csproj",
+      "projectPath": "E:\\SoftUni\\softuni\\Advanced\\OOP\\Exam-prep\\18 April 2023\\First and second problem\\EDriveRent.csproj",
       "packagesPath": "C:\\Users\\stefc\\.nuget\\packages\\",
-      "outputPath": "E:\\SoftUni\\softuni\\Advanced\\OOP\\Exam-prep\\18 April 2023\\First and secont problem\\obj\\",
+      "outputPath": "E:\\SoftUni\\softuni\\Advanced\\OOP\\Exam-prep\\18 April 2023\\First and second problem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
