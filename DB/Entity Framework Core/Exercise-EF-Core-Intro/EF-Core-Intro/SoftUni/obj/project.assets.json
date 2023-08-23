@@ -1912,11 +1912,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\EF Core\\Exercise-EF-Core-Intro\\EF-Core-Intro\\SoftUni\\SoftUni.csproj",
+      "projectUniqueName": "E:\\SoftUni\\softuni\\DB\\Entity Framework Core\\Exercise-EF-Core-Intro\\EF-Core-Intro\\SoftUni\\SoftUni.csproj",
       "projectName": "SoftUni",
-      "projectPath": "E:\\EF Core\\Exercise-EF-Core-Intro\\EF-Core-Intro\\SoftUni\\SoftUni.csproj",
+      "projectPath": "E:\\SoftUni\\softuni\\DB\\Entity Framework Core\\Exercise-EF-Core-Intro\\EF-Core-Intro\\SoftUni\\SoftUni.csproj",
       "packagesPath": "C:\\Users\\stefc\\.nuget\\packages\\",
-      "outputPath": "E:\\EF Core\\Exercise-EF-Core-Intro\\EF-Core-Intro\\SoftUni\\obj\\",
+      "outputPath": "E:\\SoftUni\\softuni\\DB\\Entity Framework Core\\Exercise-EF-Core-Intro\\EF-Core-Intro\\SoftUni\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

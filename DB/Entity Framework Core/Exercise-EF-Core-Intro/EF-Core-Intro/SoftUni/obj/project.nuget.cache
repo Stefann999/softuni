@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TmenOBOO+1/YeiYSL+KxnTtbbrXAHCH4fXrQtTIsoJFiaTLS9RxDBPjB5H1DVIkOVcx/rUAIqh2eAPQxAUG/2g==",
+  "dgSpecHash": "MfYevsqdrfRtEjM4h47R6+bw/wCN8DLAkgqBj0MGwFVI08QMSxmgDneFMpcodDv5AVC/YS0dA4qfDWGJh33rhA==",
   "success": true,
-  "projectFilePath": "E:\\EF Core\\Exercise-EF-Core-Intro\\EF-Core-Intro\\SoftUni\\SoftUni.csproj",
+  "projectFilePath": "E:\\SoftUni\\softuni\\DB\\Entity Framework Core\\Exercise-EF-Core-Intro\\EF-Core-Intro\\SoftUni\\SoftUni.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stefc\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\stefc\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
