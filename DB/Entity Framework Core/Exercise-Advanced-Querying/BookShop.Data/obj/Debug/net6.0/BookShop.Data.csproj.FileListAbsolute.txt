@@ -1,0 +1,17 @@
+E:\SoftUni\softuni\DB\Entity Framework Core\Exercise-Advanced-Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Data\bin\Debug\net6.0\BookShop.Data.deps.json
+E:\SoftUni\softuni\DB\Entity Framework Core\Exercise-Advanced-Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Data\bin\Debug\net6.0\BookShop.Data.dll
+E:\SoftUni\softuni\DB\Entity Framework Core\Exercise-Advanced-Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Data\bin\Debug\net6.0\BookShop.Data.pdb
+E:\SoftUni\softuni\DB\Entity Framework Core\Exercise-Advanced-Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Data\bin\Debug\net6.0\BookShop.Models.dll
+E:\SoftUni\softuni\DB\Entity Framework Core\Exercise-Advanced-Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Data\bin\Debug\net6.0\BookShop.Models.pdb
+E:\SoftUni\softuni\DB\Entity Framework Core\Exercise-Advanced-Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Data\obj\Debug\net6.0\BookShop.Data.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\DB\Entity Framework Core\Exercise-Advanced-Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Data\obj\Debug\net6.0\BookShop.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\DB\Entity Framework Core\Exercise-Advanced-Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Data\obj\Debug\net6.0\BookShop.Data.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\DB\Entity Framework Core\Exercise-Advanced-Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Data\obj\Debug\net6.0\BookShop.Data.AssemblyInfo.cs
+E:\SoftUni\softuni\DB\Entity Framework Core\Exercise-Advanced-Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Data\obj\Debug\net6.0\BookShop.Data.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\DB\Entity Framework Core\Exercise-Advanced-Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Data\obj\Debug\net6.0\BookShop.Data.csproj.CopyComplete
+E:\SoftUni\softuni\DB\Entity Framework Core\Exercise-Advanced-Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Data\obj\Debug\net6.0\BookShop.Data.dll
+E:\SoftUni\softuni\DB\Entity Framework Core\Exercise-Advanced-Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Data\obj\Debug\net6.0\refint\BookShop.Data.dll
+E:\SoftUni\softuni\DB\Entity Framework Core\Exercise-Advanced-Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Data\obj\Debug\net6.0\BookShop.Data.pdb
+E:\SoftUni\softuni\DB\Entity Framework Core\Exercise-Advanced-Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Data\obj\Debug\net6.0\ref\BookShop.Data.dll
+E:\SoftUni\softuni\DB\Entity Framework Core\Exercise-Advanced-Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Data\bin\Debug\net6.0\BookShop.Data.runtimeconfig.json
+E:\SoftUni\softuni\DB\Entity Framework Core\Exercise-Advanced-Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Data\obj\Debug\net6.0\BookShop.Data.genruntimeconfig.cache
