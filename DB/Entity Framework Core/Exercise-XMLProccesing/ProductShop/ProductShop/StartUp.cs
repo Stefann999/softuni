@@ -26,7 +26,6 @@ namespace ProductShop
             //string xmlCategoryProducts = File.ReadAllText(@"../../../Datasets/categories-products.xml");
             //ImportCategoryProducts(context, xmlCategoryProducts);
 
-            Console.WriteLine(GetCategoriesByProductsCount(context));
         }
         private static string Serializer<T>(T dataTransferObjects, string xmlRootAttributeName)
         {
