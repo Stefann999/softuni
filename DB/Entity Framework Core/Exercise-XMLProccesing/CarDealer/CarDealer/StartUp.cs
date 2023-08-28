@@ -5,6 +5,8 @@ using CarDealer.Data;
 using CarDealer.DTOs.Import;
 using CarDealer.DTOs.Export;
 using CarDealer.Models;
+using Microsoft.EntityFrameworkCore;
+using static CarDealer.DTOs.Export.ExportCarsWithTheirListOfPartsDto;
 
 namespace CarDealer
 {
@@ -28,8 +30,6 @@ namespace CarDealer
            //
            //string xmlSales = File.ReadAllText(@"../../../Datasets/sales.xml");
            //ImportSales(context, xmlSales);
-
-           Console.WriteLine(GetCarsFromMakeBmw(context));
         }
         private static T Deserializer<T>(string inputXml, string rootName)
         {
@@ -79,7 +79,7 @@ namespace CarDealer
             return $"Successfully imported {suppliers.Count()}";
         }
 
-        //10. Import Parts
+        //10. Import PartsFromCars
         public static string ImportParts(CarDealerContext context, string inputXml)
         {
             XDocument xmlDocument = XDocument.Parse(inputXml);
@@ -268,6 +268,85 @@ namespace CarDealer
                 .ToArray();
 
             return Serializer<ExportLocalSuppliersDto[]>(suppliers, "suppliers");
+        }
+
+        //Export Cars with Their List of PartsFromCars
+        public static string GetCarsWithTheirListOfParts(CarDealerContext context)
+        {
+            var carsParts = context.Cars
+                .OrderByDescending(cp => cp.TraveledDistance)
+                .ThenBy(cp => cp.Model)
+                .Take(5)
+                .Select(cp => new ExportCarsWithTheirListOfPartsDto()
+                {
+                    Make = cp.Make,
+                    Model = cp.Model,
+                    TraveledDistance = cp.TraveledDistance,
+                    Parts = cp.PartsCars
+                        .Select(p => new PartsFromCars()
+                        {
+                            Name = p.Part.Name,
+                            Price = p.Part.Price
+                        })
+                        .OrderByDescending(p => p.Price)
+                        .ToArray()
+                })
+                .AsNoTracking()
+                .ToArray();
+
+            return Serializer<ExportCarsWithTheirListOfPartsDto[]>(carsParts, "cars");
+        }
+
+        //18. Export Total Sales By Customer
+        public static string GetTotalSalesByCustomer(CarDealerContext context)
+        {
+            var customers = context.Customers
+                .Where(c => c.Sales.Any())
+                .Select(c => new
+                {
+                    fullName = c.Name,
+                    boughtCars = c.Sales.Count(),
+                    moneyCars = c.IsYoungDriver
+                        ? c.Sales.SelectMany(s => s.Car.PartsCars.Select(p => Math.Round(p.Part.Price * 0.95m, 2)))
+                        : c.Sales.SelectMany(s => s.Car.PartsCars.Select(p => Math.Round(p.Part.Price, 2)))
+                })
+                .AsNoTracking()
+                .ToArray();
+
+            var output = customers
+                .Select(o => new ExportTotalSalesByCustomerDto()
+                {
+                    FullName = o.fullName,
+                    BoughtCarsCount = o.boughtCars,
+                    SpentMoney = o.moneyCars.Sum()
+                })
+                .OrderByDescending(o => o.SpentMoney)
+                .ToArray();
+
+            return Serializer<ExportTotalSalesByCustomerDto[]>(output, "customers");
+        }
+
+        //19. Export Sales With Applied Discount
+        public static string GetSalesWithAppliedDiscount(CarDealerContext context)
+        {
+            var sales = context.Sales
+                .Select(s => new ExportSalesWithAppliedDiscountDto()
+                {
+                    CarDtoSales = new CarDtoSales()
+                    {
+                        Make = s.Car.Make,
+                        Model = s.Car.Model,
+                        TraveledDistance = s.Car.TraveledDistance
+                    },
+
+                    Discount = (int)s.Discount,
+                    CustomerName = s.Customer.Name,
+                    Price = s.Car.PartsCars.Sum(p => p.Part.Price).ToString("f2"),
+                    PriceWithDiscount = Math.Round((double)(s.Car.PartsCars.Sum(p => p.Part.Price) * (1 - (s.Discount / 100))), 4)
+                })
+                .ToArray();
+
+            return Serializer<ExportSalesWithAppliedDiscountDto[]>(sales, "sales");
         }
     }
 }
