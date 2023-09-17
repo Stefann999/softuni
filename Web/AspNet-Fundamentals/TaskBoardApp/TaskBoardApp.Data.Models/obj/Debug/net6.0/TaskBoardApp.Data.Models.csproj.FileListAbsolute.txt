@@ -1,0 +1,15 @@
+E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Data.Models\bin\Debug\net6.0\TaskBoardApp.Data.Models.deps.json
+E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Data.Models\bin\Debug\net6.0\TaskBoardApp.Data.Models.dll
+E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Data.Models\bin\Debug\net6.0\TaskBoardApp.Data.Models.pdb
+E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Data.Models\bin\Debug\net6.0\TaskBoardApp.Common.dll
+E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Data.Models\bin\Debug\net6.0\TaskBoardApp.Common.pdb
+E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Data.Models\obj\Debug\net6.0\TaskBoardApp.Data.Models.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Data.Models\obj\Debug\net6.0\TaskBoardApp.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Data.Models\obj\Debug\net6.0\TaskBoardApp.Data.Models.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Data.Models\obj\Debug\net6.0\TaskBoardApp.Data.Models.AssemblyInfo.cs
+E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Data.Models\obj\Debug\net6.0\TaskBoardApp.Data.Models.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Data.Models\obj\Debug\net6.0\TaskBoardApp.Data.Models.csproj.CopyComplete
+E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Data.Models\obj\Debug\net6.0\TaskBoardApp.Data.Models.dll
+E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Data.Models\obj\Debug\net6.0\refint\TaskBoardApp.Data.Models.dll
+E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Data.Models\obj\Debug\net6.0\TaskBoardApp.Data.Models.pdb
+E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Data.Models\obj\Debug\net6.0\ref\TaskBoardApp.Data.Models.dll
