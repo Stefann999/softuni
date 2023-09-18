@@ -313,7 +313,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\SoftUni\\softuni\\Web\\AspNet-Fundamentals\\TaskBoardApp\\TaskBoardApp.Common\\TaskBoardApp.Common.csproj": {
+                "projectPath": "E:\\SoftUni\\softuni\\Web\\AspNet-Fundamentals\\TaskBoardApp\\TaskBoardApp.Common\\TaskBoardApp.Common.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

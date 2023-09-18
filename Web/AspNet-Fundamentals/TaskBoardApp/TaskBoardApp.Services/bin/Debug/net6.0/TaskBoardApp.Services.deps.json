@@ -547,6 +547,9 @@
         }
       },
       "TaskBoardApp.Web.ViewModels/1.0.0": {
+        "dependencies": {
+          "TaskBoardApp.Common": "1.0.0"
+        },
         "runtime": {
           "TaskBoardApp.Web.ViewModels.dll": {}
         }

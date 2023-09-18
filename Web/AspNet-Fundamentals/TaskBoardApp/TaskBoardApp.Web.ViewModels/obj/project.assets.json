@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "TaskBoardApp.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TaskBoardApp.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TaskBoardApp.Common.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "TaskBoardApp.Common/1.0.0": {
+      "type": "project",
+      "path": "../TaskBoardApp.Common/TaskBoardApp.Common.csproj",
+      "msbuildProject": "../TaskBoardApp.Common/TaskBoardApp.Common.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "TaskBoardApp.Common >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\stefc\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\SoftUni\\softuni\\Web\\AspNet-Fundamentals\\TaskBoardApp\\TaskBoardApp.Common\\TaskBoardApp.Common.csproj": {
+              "projectPath": "E:\\SoftUni\\softuni\\Web\\AspNet-Fundamentals\\TaskBoardApp\\TaskBoardApp.Common\\TaskBoardApp.Common.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

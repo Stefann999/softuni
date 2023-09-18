@@ -9,3 +9,7 @@ E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Web.ViewMod
 E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Web.ViewModels\obj\Debug\net6.0\refint\TaskBoardApp.Web.ViewModels.dll
 E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Web.ViewModels\obj\Debug\net6.0\TaskBoardApp.Web.ViewModels.pdb
 E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Web.ViewModels\obj\Debug\net6.0\ref\TaskBoardApp.Web.ViewModels.dll
+E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Web.ViewModels\bin\Debug\net6.0\TaskBoardApp.Common.dll
+E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Web.ViewModels\bin\Debug\net6.0\TaskBoardApp.Common.pdb
+E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Web.ViewModels\obj\Debug\net6.0\TaskBoardApp.Web.ViewModels.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Web.ViewModels\obj\Debug\net6.0\TaskBoardApp.Web.ViewModels.csproj.CopyComplete
