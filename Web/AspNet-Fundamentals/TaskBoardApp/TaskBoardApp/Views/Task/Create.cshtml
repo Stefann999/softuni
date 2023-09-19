@@ -20,7 +20,7 @@
     <div class="mb-3">
         <label asp-for="BoardId" class="form-label">Category</label>
         <select asp-for="BoardId" class="form-control">
-            @foreach (var board in Model.Boards)
+            @foreach (var board in Model.AllBoards)
             {
                 <option value="@board.Id">@board.Name</option>
             }

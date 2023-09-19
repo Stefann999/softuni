@@ -1,4 +1,5 @@
-﻿using TaskBoardApp.Data;
+﻿using Microsoft.EntityFrameworkCore;
+using TaskBoardApp.Data;
 using TaskBoardApp.Services.Interfaces;
 using TaskBoardApp.Web.ViewModels.Task;
 
@@ -26,6 +27,24 @@ namespace TaskBoardApp.Services
 
             await this.dbContext.Tasks.AddAsync(task);
             await this.dbContext.SaveChangesAsync();
+        }
+
+        public async Task<TaskDetailsViewModel> GetForDetailsByIdAsync(string id)
+        {
+            TaskDetailsViewModel viewModel = await this.dbContext
+                .Tasks
+                .Select(t => new TaskDetailsViewModel()
+                {
+                    Id = t.Id.ToString(),
+                    Title = t.Title,
+                    Description = t.Description,
+                    Owner = t.Owner.UserName,
+                    CreatedOn = t.CreatedOn.ToString("f"),
+                    Board = t.Board.Name
+                })
+                .FirstAsync(t => t.Id == id);
+
+            return viewModel;
         }
     }
 }

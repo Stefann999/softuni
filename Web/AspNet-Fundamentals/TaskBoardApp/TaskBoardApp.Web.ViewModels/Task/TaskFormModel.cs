@@ -1,10 +1,10 @@
 ﻿using System.ComponentModel.DataAnnotations;
-using Microsoft.Win32.SafeHandles;
+using TaskBoardApp.Common;
 using TaskBoardApp.Web.ViewModels.Board;
 
 namespace TaskBoardApp.Web.ViewModels.Task
 {
-    using static Common.EntityValidationsConstants.Task;
+    using static EntityValidationsConstants.Task;
     public class TaskFormModel
     {
         [Required]
@@ -20,6 +20,6 @@ namespace TaskBoardApp.Web.ViewModels.Task
         [Display(Name = "Board")]
         public int BoardId { get; set; }
 
-        public IEnumerable<BoardSelectViewModel>? Boards { get; set; }
+        public IEnumerable<BoardSelectViewModel>? AllBoards { get; set; }
     }
 }

@@ -6,20 +6,20 @@ using TaskBoardApp.Web.ViewModels.Board;
 namespace TaskBoardApp.Controllers
 {
     [Authorize]
-    public class BoardController : Controller//try adding the controller not with ctrl + shift + A
+    public class BoardController : Controller
     {
         private readonly IBoardService boardService;
 
         public BoardController(IBoardService boardService)
         {
-            this.boardService = boardService;
+           this.boardService = boardService;
         }
 
         [HttpGet]
         public async Task<IActionResult> All()
         {
-            IEnumerable<BoardAllViewModel> allBoards = await this.boardService.AllAsync();
-            return View(allBoards);
+           IEnumerable<BoardAllViewModel> allBoards = await this.boardService.AllAsync();
+           return View(allBoards);
         }
     }
 }
