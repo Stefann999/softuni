@@ -1,13 +1,11 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using System.Xml.Linq;
 using Microsoft.EntityFrameworkCore;
 using TaskBoardApp.Data;
 using TaskBoardApp.Extensions;
 using TaskBoardApp.Services.Interfaces;
 using TaskBoardApp.Web.ViewModels.Task;
 using System.Security.Claims;
-using Microsoft.Build.Framework;
 using TaskBoardApp.Web.ViewModels.Board;
 
 namespace TaskBoardApp.Controllers
@@ -62,7 +60,6 @@ namespace TaskBoardApp.Controllers
         }
 
         [HttpGet]
-        //[Route("/Task/Details/{id}")]
         public async Task<IActionResult> Details(string id)
         {
             var task = await this.dbContext.Tasks

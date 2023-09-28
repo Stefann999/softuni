@@ -1,9 +1,9 @@
-﻿namespace TaskBoardApp.Data.Configurations
-{
-    using Microsoft.EntityFrameworkCore;
-    using Microsoft.EntityFrameworkCore.Metadata.Builders;
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-    using Task = TaskBoardApp.Data.Models.Task;
+namespace TaskBoardApp.Data.Configuration
+{
+    using Task = Models.Task;
 
     internal class TaskEntityConfiguration : IEntityTypeConfiguration<Task>
     {

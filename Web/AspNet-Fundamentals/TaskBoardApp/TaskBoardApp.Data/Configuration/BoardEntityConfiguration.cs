@@ -1,10 +1,9 @@
-﻿namespace TaskBoardApp.Data.Configurations
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Builders;
+using TaskBoardApp.Data.Models;
+
+namespace TaskBoardApp.Data.Configuration
 {
-    using Microsoft.EntityFrameworkCore;
-    using Microsoft.EntityFrameworkCore.Metadata.Builders;
-
-    using Models;
-
     internal class BoardEntityConfiguration : IEntityTypeConfiguration<Board>
     {
         public void Configure(EntityTypeBuilder<Board> builder)
