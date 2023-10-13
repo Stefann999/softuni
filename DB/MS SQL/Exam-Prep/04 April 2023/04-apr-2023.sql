@@ -156,3 +156,58 @@ SELECT TOP(7)
    WHERE c.Name NOT LIKE '%KG%'
 GROUP BY c.[Name], c.NumberVAT
 ORDER BY MAX(p.Price) DESC
+
+--10. Clients by Price
+
+  SELECT c.[Name] AS Client,
+		 FLOOR(AVG(p.Price)) AS [Average Price]
+    FROM Clients AS c
+    JOIN ProductsClients AS pc
+      ON pc.ClientId = c.Id
+    JOIN Products AS p
+      ON pc.ProductId = p.Id
+    JOIN Vendors AS v
+      ON p.VendorId = v.Id
+   WHERE pc.ProductId IS NOT NULL
+	 AND v.NumberVAT LIKE '%FR%'
+GROUP BY c.[Name]
+ORDER BY AVG(p.Price), c.[Name] DESC
+
+--11. Product with Clients
+
+CREATE FUNCTION udf_ProductWithClients(@name NVARCHAR(30))
+RETURNS INT
+AS
+BEGIN
+	DECLARE @count INT = 
+	(
+		SELECT
+			COUNT(c.Id)
+		 FROM Products AS p
+		 JOIN ProductsClients AS pc
+		   ON pc.ProductId = p.Id
+		 JOIN Clients AS c
+		   ON pc.ClientId = c.Id
+		WHERE p.[Name] = @name
+	)
+	RETURN @count
+END
+
+--12. Search for Vendors from a Specific Country
+
+CREATE OR ALTER PROCEDURE usp_SearchByCountry(@country VARCHAR(10))
+AS
+	SELECT
+		v.[Name] AS Vendor,
+		v.NumberVAT AS VAT,
+		CONCAT(a.StreetName, ' ', a.StreetNumber) AS [Street Info],
+		CONCAT(a.City, ' ', a.PostCode) AS [City Info]
+	 FROM Vendors AS v
+	 JOIN Addresses AS a
+	   ON v.AddressId = a.Id
+	 JOIN Countries AS c
+	   ON a.CountryId = c.Id
+	WHERE c.[Name] = @country
+ ORDER BY v.[Name], a.City
+
+ EXEC usp_SearchByCountry 'France'
