@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JcQY+nAWJD191qCwq3grtoYax/91HWJpel0oYRdpYi9wJpmL8yRbpszQnRynPgoo48/A66Pl9y0cwGG/0EkOwg==",
+  "dgSpecHash": "/d8B6EMN1ugCGDU32UUvxzCLiccLJqSn6QkKZlAQ59lzCPCZYFMLEVLqoavSRzIublJ2+xKvaTRsI3BvPXcQxw==",
   "success": true,
-  "projectFilePath": "E:\\SoftUni\\softuni\\DB\\Entity Framework Core\\Exercise-JSON\\CarDealer\\CarDealer\\CarDealer.csproj",
+  "projectFilePath": "E:\\SoftUni\\softuni\\DB\\Entity Framework Core\\Exercise-JSONProccesing\\CarDealer\\CarDealer\\CarDealer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stefc\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\stefc\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",

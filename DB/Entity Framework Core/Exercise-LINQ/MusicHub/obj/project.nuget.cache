@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cLGbYS0cPsSGJdInT7689VEfZfqXO81ttqGNUCsLkymgvDc9n9+BNR7Q46Pc3rtwbPa8OCgbNyhrdKeIMlu1Bw==",
+  "dgSpecHash": "wRHCSETl2/+A5sSyxmh+ePJuGhAmP5oacGpNhEqqGbjIQKE9cWNuRPmwntCNC0N6ACW72gFUeQxa0BU/gLauHA==",
   "success": true,
   "projectFilePath": "E:\\SoftUni\\softuni\\DB\\Entity Framework Core\\Exercise-LINQ\\MusicHub\\MusicHub.csproj",
   "expectedPackageFiles": [
@@ -131,8 +131,18 @@
     "C:\\Users\\stefc\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\stefc\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\stefc\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\stefc\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\stefc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+    "C:\\Users\\stefc\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Newtonsoft.Json' 12.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

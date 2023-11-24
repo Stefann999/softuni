@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Football_Betting
 build_property.ProjectDir = E:\SoftUni\softuni\DB\Entity Framework Core\Exercise-Entity-Relations\Football-Betting\Football-Betting\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
