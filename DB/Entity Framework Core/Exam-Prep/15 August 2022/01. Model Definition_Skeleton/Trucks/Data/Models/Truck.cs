@@ -1,6 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using Trucks.Data.Models.Enums;
+using static Trucks.Common.GlobalConstants;
 
 namespace Trucks.Data.Models
 {
@@ -15,7 +16,7 @@ namespace Trucks.Data.Models
         public int Id { get; set; }
 
         [Required]
-        [RegularExpression(@"^[A-Z]{2}\\d{4}[A-Z]{2}$")]
+        [RegularExpression(TruckRegistrationNumberRegex)]
         public string RegistrationNumber { get; set; } = null!;
 
         [Required]
