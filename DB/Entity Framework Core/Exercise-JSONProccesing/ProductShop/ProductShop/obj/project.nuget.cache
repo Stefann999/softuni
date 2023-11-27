@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gwe3LpeNj3CxPY5YOgqnTB5EYV/iPNJgrHYn2wglHJvhy12pulhENcClcC/cf3O0kH3GaXyB7GfJpUV3K41xwA==",
+  "dgSpecHash": "VUiRQSdaxuR0pG7p8R+u7+Pi967kKQt3B1+I5olxnRUKF30bOJPMnWgPBCVpqRtJxqkQk5/yYBSwQNHhh93agg==",
   "success": true,
-  "projectFilePath": "E:\\SoftUni\\softuni\\DB\\Entity Framework Core\\Exercise-JSON\\ProductShop\\ProductShop\\ProductShop.csproj",
+  "projectFilePath": "E:\\SoftUni\\softuni\\DB\\Entity Framework Core\\Exercise-JSONProccesing\\ProductShop\\ProductShop\\ProductShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stefc\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\stefc\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
