@@ -1,11 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using System.Linq;
-using System.Security.AccessControl;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace P02_FootballBetting.Data.Models
 {
@@ -14,6 +8,7 @@ namespace P02_FootballBetting.Data.Models
         public Town()
         {
             Teams = new HashSet<Team>();
+            Players = new HashSet<Player>();
         }
         [Key]
         public int TownId { get; set; }
@@ -28,5 +23,7 @@ namespace P02_FootballBetting.Data.Models
         public Country Country { get; set; }
 
         public virtual ICollection<Team> Teams { get; set; }
+
+        public virtual ICollection<Player> Players { get; set; }
     }
 }

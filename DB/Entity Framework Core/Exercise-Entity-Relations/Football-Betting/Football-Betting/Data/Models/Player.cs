@@ -37,6 +37,11 @@ namespace P02_FootballBetting.Data.Models
 
         public bool IsInjured { get; set; }
 
+        [ForeignKey(nameof(Town))]
+        public int TownId { get; set; }
+
+        public Town Town { get; set; }
+
         public virtual ICollection<PlayerStatistic> PlayersStatistics { get; set; }
     }
 }
