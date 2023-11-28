@@ -1,8 +1,4 @@
-﻿using System;
-using System.IO;
-using System.Globalization;
-
-using AutoMapper;
+﻿using System.Globalization;
 using Microsoft.EntityFrameworkCore;
 
 using Footballers.Data;
