@@ -1,0 +1,6 @@
+E:\SoftUni\softuni\DB\Entity Framework Core\Exam-Prep\06 August 2022\01. Model Definition_Skeleton\Footballers\obj\Debug\net6.0\Footballers.csproj.AssemblyReference.cache
+E:\SoftUni\softuni\DB\Entity Framework Core\Exam-Prep\06 August 2022\01. Model Definition_Skeleton\Footballers\obj\Debug\net6.0\Footballers.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\softuni\DB\Entity Framework Core\Exam-Prep\06 August 2022\01. Model Definition_Skeleton\Footballers\obj\Debug\net6.0\Footballers.AssemblyInfoInputs.cache
+E:\SoftUni\softuni\DB\Entity Framework Core\Exam-Prep\06 August 2022\01. Model Definition_Skeleton\Footballers\obj\Debug\net6.0\Footballers.AssemblyInfo.cs
+E:\SoftUni\softuni\DB\Entity Framework Core\Exam-Prep\06 August 2022\01. Model Definition_Skeleton\Footballers\obj\Debug\net6.0\Footballers.csproj.CoreCompileInputs.cache
+E:\SoftUni\softuni\DB\Entity Framework Core\Exam-Prep\06 August 2022\01. Model Definition_Skeleton\Footballers\obj\Debug\net6.0\Footballers.sourcelink.json
