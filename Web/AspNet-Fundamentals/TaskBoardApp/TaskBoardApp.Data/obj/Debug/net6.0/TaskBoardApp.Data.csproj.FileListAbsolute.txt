@@ -17,3 +17,4 @@ E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Data\bin\De
 E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Data\bin\Debug\net6.0\TaskBoardApp.Data.Models.pdb
 E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Data\bin\Debug\net6.0\TaskBoardApp.Common.pdb
 E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Data\obj\Debug\net6.0\TaskBoardApp.Data.csproj.CopyComplete
+E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Data\obj\Debug\net6.0\TaskBoardApp.Data.sourcelink.json

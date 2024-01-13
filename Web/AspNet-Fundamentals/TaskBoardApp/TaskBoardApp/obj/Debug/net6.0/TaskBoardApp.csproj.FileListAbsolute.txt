@@ -294,3 +294,4 @@ E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp\bin\Debug\n
 E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp\bin\Debug\net6.0\TaskBoardApp.Data.Models.pdb
 E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp\bin\Debug\net6.0\TaskBoardApp.Services.dll
 E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp\bin\Debug\net6.0\TaskBoardApp.Services.pdb
+E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp\obj\Debug\net6.0\TaskBoardApp.sourcelink.json

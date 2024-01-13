@@ -13,3 +13,4 @@ E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Data.Models
 E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Data.Models\obj\Debug\net6.0\refint\TaskBoardApp.Data.Models.dll
 E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Data.Models\obj\Debug\net6.0\TaskBoardApp.Data.Models.pdb
 E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Data.Models\obj\Debug\net6.0\ref\TaskBoardApp.Data.Models.dll
+E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Data.Models\obj\Debug\net6.0\TaskBoardApp.Data.Models.sourcelink.json

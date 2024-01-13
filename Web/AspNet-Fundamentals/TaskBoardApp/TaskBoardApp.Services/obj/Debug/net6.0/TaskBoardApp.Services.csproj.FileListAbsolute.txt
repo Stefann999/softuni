@@ -19,3 +19,4 @@ E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Services\ob
 E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Services\obj\Debug\net6.0\refint\TaskBoardApp.Services.dll
 E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Services\obj\Debug\net6.0\TaskBoardApp.Services.pdb
 E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Services\obj\Debug\net6.0\ref\TaskBoardApp.Services.dll
+E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Services\obj\Debug\net6.0\TaskBoardApp.Services.sourcelink.json

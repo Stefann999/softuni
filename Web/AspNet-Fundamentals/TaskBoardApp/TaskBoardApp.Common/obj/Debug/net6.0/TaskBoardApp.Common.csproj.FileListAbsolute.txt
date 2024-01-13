@@ -9,3 +9,4 @@ E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Common\obj\
 E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Common\obj\Debug\net6.0\refint\TaskBoardApp.Common.dll
 E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Common\obj\Debug\net6.0\TaskBoardApp.Common.pdb
 E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Common\obj\Debug\net6.0\ref\TaskBoardApp.Common.dll
+E:\SoftUni\softuni\Web\AspNet-Fundamentals\TaskBoardApp\TaskBoardApp.Common\obj\Debug\net6.0\TaskBoardApp.Common.sourcelink.json
