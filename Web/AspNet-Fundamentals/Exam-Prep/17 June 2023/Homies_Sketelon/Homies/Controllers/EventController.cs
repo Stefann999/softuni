@@ -173,6 +173,117 @@ namespace Homies.Controllers
             return RedirectToAction(nameof(All));
         }
 
+        [HttpGet]
+        public async Task<IActionResult> Edit(int id)
+        {
+            var e = await context.Events
+                .FirstAsync(e => e.Id == id);
+
+            if (e == null)
+            {
+                return BadRequest();
+            }
+
+            if (e.OrganiserId != GetCurrentUserId())
+            {
+                return Unauthorized();
+            }
+
+            var formModel = new EventFormViewModel
+            {
+                Name = e.Name,
+                Description = e.Description,
+                Start = e.Start.ToString(DataConstants.DateFormat),
+                End = e.End.ToString(DataConstants.DateFormat),
+                TypeId = e.TypeId,
+                Types = await GetTypes()
+            };
+
+            return View(formModel);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Edit(EventFormViewModel model, int id)
+        {
+            var e = await context.Events
+                .FirstAsync(e => e.Id == id);
+
+            if (e == null)
+            {
+                return BadRequest();
+            }
+
+            if (e.OrganiserId != GetCurrentUserId())
+            {
+                return Unauthorized();
+            }
+
+            DateTime start = DateTime.Now;
+            DateTime end = DateTime.Now;
+
+            if (!DateTime.TryParseExact(
+                model.Start,
+                DataConstants.DateFormat,
+                CultureInfo.InvariantCulture,
+                DateTimeStyles.None,
+                out start))
+            {
+                ModelState.AddModelError(nameof(model.Start), $"Invalid date! Format must be: {DataConstants.DateFormat}");
+            }
+
+            if (!DateTime.TryParseExact(
+                model.End,
+                DataConstants.DateFormat,
+                CultureInfo.InvariantCulture,
+                DateTimeStyles.None,
+                out end))
+            {
+                ModelState.AddModelError(nameof(model.End), $"Invalid date! Format must be: {DataConstants.DateFormat}");
+            }
+
+            if (!ModelState.IsValid)
+            {
+                model.Types = await GetTypes();
+                return View(model);
+            }
+
+            e.Start = start;
+            e.End = end;
+            e.Name = model.Name;
+            e.Description = model.Description;
+            e.TypeId = model.TypeId;
+
+            await context.SaveChangesAsync();
+
+            return RedirectToAction(nameof(All));
+        }
+
+        public async Task<IActionResult> Details(int id)
+        {
+            var model = await context.Events
+                .Where(e => e.Id == id)
+                .AsNoTracking()
+                .Select(e => new EventDetailsViewModel
+                {
+                    Id = e.Id,
+                    Name = e.Name,
+                    Description = e.Description,
+                    Start = e.Start.ToString(DataConstants.DateFormat),
+                    End = e.End.ToString(DataConstants.DateFormat),
+                    CreatedOn = e.CreatedOn.ToString(DataConstants.DateFormat),
+                    Organiser = e.Organiser.UserName,
+                    Type = e.Type.Name
+                })
+                .FirstOrDefaultAsync();
+
+            if (model == null)
+            {
+                return BadRequest();
+            }
+            
+            return View(model);
+        }
+
         private string GetCurrentUserId()
         {
             return User.FindFirst(ClaimTypes.NameIdentifier)?.Value ?? string.Empty;
