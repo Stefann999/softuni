@@ -1,4 +1,4 @@
-﻿namespace Homies.Data.Models
+﻿namespace Homies.Constants
 {
     public static class DataConstants
     {

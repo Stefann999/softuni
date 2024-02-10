@@ -1,5 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
-using static Homies.Data.Models.DataConstants;
+using static Homies.Constants.DataConstants;
 
 namespace Homies.Data.Models
 {

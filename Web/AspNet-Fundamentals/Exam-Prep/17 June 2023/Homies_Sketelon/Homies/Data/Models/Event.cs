@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using static Homies.Data.Models.DataConstants;
+using static Homies.Constants.DataConstants;
 
 namespace Homies.Data.Models
 {
@@ -9,7 +9,7 @@ namespace Homies.Data.Models
     {
         public Event()
         {
-            this.EventsParticipants = new HashSet<EventParticipant>();
+            this.EventsParticipants = new List<EventParticipant>();
         }
 
         [Key]
@@ -46,6 +46,6 @@ namespace Homies.Data.Models
         [Required]
         public Type Type { get; set; } = null!;
 
-        public virtual ICollection<EventParticipant> EventsParticipants { get; set; } = null!;
+        public virtual IList<EventParticipant> EventsParticipants { get; set; } = null!;
     }
 }
