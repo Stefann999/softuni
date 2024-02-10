@@ -38,6 +38,53 @@ namespace Homies.Controllers
             return View(events);
         }
 
+        [HttpPost]
+        public async Task<IActionResult> Join(int id)
+        {
+            var e = await context.Events
+                .Where(e => e.Id == id)
+                .Include(e => e.EventsParticipants)
+                .FirstOrDefaultAsync();
+
+            if (e == null)
+            {
+                return BadRequest();
+            }
+
+            string userId = GetCurrentUserId();
+
+            if (!e.EventsParticipants.Any(p => p.HelperId == userId))
+            {
+                e.EventsParticipants.Add(new EventParticipant
+                {
+                    EventId = e.Id,
+                    HelperId = userId
+                });
+
+                await context.SaveChangesAsync();
+            }
+
+            return RedirectToAction(nameof(Joined));
+        }
+
+        public async Task<IActionResult> Joined()
+        {
+            var userId = GetCurrentUserId();
+
+            var events = await context.EventsParticipants
+                .Where(ep => ep.HelperId == userId)
+                .AsNoTracking()
+                .Select(e => new EventInfoViewModel(
+                    e.EventId,
+                    e.Event.Name,
+                    e.Event.Start,
+                    e.Event.Type.Name,
+                    e.Event.Organiser.UserName
+                    ))
+                .ToListAsync();
+
+            return View(events);
+        }
 
 
 
