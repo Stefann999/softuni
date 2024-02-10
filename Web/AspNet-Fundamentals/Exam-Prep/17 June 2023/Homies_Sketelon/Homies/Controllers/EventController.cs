@@ -87,6 +87,34 @@ namespace Homies.Controllers
         }
 
 
+        public async Task<IActionResult> Leave(int id)
+        {
+            var e = await context.Events
+                .Where(e => e.Id == id)
+                .Include(e => e.EventsParticipants)
+                .FirstOrDefaultAsync();
+
+            if (e == null)
+            {
+                return BadRequest();
+            }
+
+            var userId = GetCurrentUserId();
+
+            var ep = e.EventsParticipants
+                .FirstOrDefault(ep => ep.HelperId == userId);
+
+            if (ep == null)
+            {
+                return BadRequest();
+            }
+
+            e.EventsParticipants.Remove(ep);
+
+            await context.SaveChangesAsync();
+
+            return RedirectToAction(nameof(All));
+        }
 
         private string GetCurrentUserId()
         {
