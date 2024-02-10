@@ -130,20 +130,22 @@ namespace Homies.Controllers
             DateTime start = DateTime.Now;
             DateTime end = DateTime.Now;
 
-            if (DateTime.TryParseExact(
+            if (!DateTime.TryParseExact(
                 model.Start,
                 DataConstants.DateFormat,
                 CultureInfo.InvariantCulture,
-                DateTimeStyles.None, out start))
+                DateTimeStyles.None,
+                out start))
             {
                 ModelState.AddModelError(nameof(model.Start), $"Invalid date! Format must be: {DataConstants.DateFormat}");
             }
 
-            if (DateTime.TryParseExact(
+            if (!DateTime.TryParseExact(
                 model.End,
                 DataConstants.DateFormat,
                 CultureInfo.InvariantCulture,
-                DateTimeStyles.None, out end))
+                DateTimeStyles.None,
+                out end))
             {
                 ModelState.AddModelError(nameof(model.End), $"Invalid date! Format must be: {DataConstants.DateFormat}");
             }

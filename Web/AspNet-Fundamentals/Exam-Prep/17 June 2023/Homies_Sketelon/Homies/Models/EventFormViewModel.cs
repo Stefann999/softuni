@@ -12,8 +12,8 @@ namespace Homies.Models
         }
 
         [Required(ErrorMessage = RequiredErrorMessage)]
-        [StringLength(EventDescriptionMaxLength,
-                      MinimumLength = EventDescriptionMinLength,
+        [StringLength(EventNameMaxLength,
+                      MinimumLength = EventNameMinLength,
                       ErrorMessage = StringLengthErrorMessage)]
         public string Name { get; set; } = string.Empty;
 
