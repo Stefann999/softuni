@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using SoftUniBazar.Models;
+using SoftUniBazar.Core.Models;
 using System.Diagnostics;
 
 namespace SoftUniBazar.Controllers
@@ -8,6 +8,11 @@ namespace SoftUniBazar.Controllers
     {
         public IActionResult Index()
         {
+            if (User?.Identity != null && User.Identity.IsAuthenticated)
+            {
+                return RedirectToAction("All", "Ad");
+            }
+
             return View();
         }
 
