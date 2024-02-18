@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W4u+6p7nbPF9l6CedkMyY5F/bVvOq7X/LYDO3+C52T1nwrvC4LUyE9tW55TEiI7pDV82gLsQa6nDmkeuIFI/5w==",
+  "dgSpecHash": "hqGphkwQK5KcXoEAPWiXLl32KZU2xj+vxIRhi4OkZEpY7lj8PyCoITvayI0rv/NevlNA0pI18GYBLZq9PnEvJg==",
   "success": true,
-  "projectFilePath": "E:\\asdtest\\SeminarHub-Skeleton\\SeminarHub-Skeleton\\SeminarHub\\SeminarHub.csproj",
+  "projectFilePath": "E:\\SoftUni\\softuni\\Web\\AspNet-Fundamentals\\Exam\\SeminarHub-Skeleton\\SeminarHub\\SeminarHub.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stefc\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\stefc\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

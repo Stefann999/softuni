@@ -1,10 +1,12 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using SeminarHub.Core.Models;
 using SeminarHub.Core.Services.Contracts;
 using System.Security.Claims;
 
 namespace SeminarHub.Controllers
 {
+    [Authorize]
     public class SeminarController : Controller
     {
         private readonly ISeminarService seminarService;

@@ -9,7 +9,6 @@ using static SeminarHub.Common.EntityValidationsConstants.Seminar;
 
 namespace SeminarHub.Core.Services
 {
-    [Authorize]
     public class SeminarService : ISeminarService
     {
         private readonly SeminarHubDbContext dbContext;

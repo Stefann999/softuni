@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\asdtest\\SeminarHub-Skeleton\\SeminarHub-Skeleton\\SeminarHub\\SeminarHub.csproj": {}
+    "E:\\SoftUni\\softuni\\Web\\AspNet-Fundamentals\\Exam\\SeminarHub-Skeleton\\SeminarHub\\SeminarHub.csproj": {}
   },
   "projects": {
-    "E:\\asdtest\\SeminarHub-Skeleton\\SeminarHub-Skeleton\\SeminarHub\\SeminarHub.csproj": {
+    "E:\\SoftUni\\softuni\\Web\\AspNet-Fundamentals\\Exam\\SeminarHub-Skeleton\\SeminarHub\\SeminarHub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\asdtest\\SeminarHub-Skeleton\\SeminarHub-Skeleton\\SeminarHub\\SeminarHub.csproj",
+        "projectUniqueName": "E:\\SoftUni\\softuni\\Web\\AspNet-Fundamentals\\Exam\\SeminarHub-Skeleton\\SeminarHub\\SeminarHub.csproj",
         "projectName": "SeminarHub",
-        "projectPath": "E:\\asdtest\\SeminarHub-Skeleton\\SeminarHub-Skeleton\\SeminarHub\\SeminarHub.csproj",
+        "projectPath": "E:\\SoftUni\\softuni\\Web\\AspNet-Fundamentals\\Exam\\SeminarHub-Skeleton\\SeminarHub\\SeminarHub.csproj",
         "packagesPath": "C:\\Users\\stefc\\.nuget\\packages\\",
-        "outputPath": "E:\\asdtest\\SeminarHub-Skeleton\\SeminarHub-Skeleton\\SeminarHub\\obj\\",
+        "outputPath": "E:\\SoftUni\\softuni\\Web\\AspNet-Fundamentals\\Exam\\SeminarHub-Skeleton\\SeminarHub\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
